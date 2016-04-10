@@ -2,6 +2,5 @@
 
 setup:
 	echo Initial setup
-	echo TODO
-	mkdir build/
+	bash scripts/setup.sh
 
