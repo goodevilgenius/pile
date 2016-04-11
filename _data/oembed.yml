@@ -18,7 +18,11 @@ providers:
   - discovery: true
     example_urls: ['http://www.youtube.com/oembed?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DiwGFalTRHDA',
       'http://www.youtube.com/oembed?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DiwGFalTRHDA&format=xml']
-    schemes: ['http*://*youtube.com/*', 'http*://youtu.be/*']
+    schemes:
+      - 'http://*youtube.com/*'
+      - 'http://youtu.be/*'
+      - 'https://*youtube.com/*'
+      - 'https://youtu.be/*'
     url: http://www.youtube.com/oembed
   provider_name: YouTube
   provider_url: http://www.youtube.com/
