@@ -20,6 +20,10 @@ entries = droplogger.read_files(**config)
 
 for e in entries['pile']:
     e['layout'] = "post"
+    if "url" in e:
+        if e is None: del e["url"]
+        else: e["embed_url"] = e.pop("url")
+
     slug = ''.join(c for c in e['title'].replace(' ','_') if c in ("-_.%s%s" % (string.ascii_letters, string.digits)))
     filename = "%s-%s-%s-%s.md" % (e['date'].year, e['date'].month, e['date'].day, slug)
     newfile = os.path.join('_posts', filename)
