@@ -1,7 +1,7 @@
 all: build deploy
 
 build:
-	bash _scripts/build.sh
+	bash _scripts/build.py
 
 deploy: build
 	git add -A _posts
