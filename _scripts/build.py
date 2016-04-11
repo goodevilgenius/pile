@@ -27,8 +27,10 @@ fp.close()
 for e in entries['pile']:
     e['layout'] = "post"
     if "url" in e:
-        if e is None: del e["url"]
-        else: e["embed_url"] = e.pop("url")
+        if e["url"] is None: del e["url"]
+        else:
+            if e['type'] == "link": e['link_url'] = e.pop("url")
+            else: e["embed_url"] = e.pop("url")
 
     if "embed_url" in e:
         embeds = [ o for o in oembed['urls'] if o['url'] == e["embed_url"] ]
