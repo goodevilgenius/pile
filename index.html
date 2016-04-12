@@ -6,10 +6,16 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
 
+	  {% if post.type != "quote" %}
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+	  {% endif %}
 
       <div class="entry">
+		{% if post.type == "quote" %}
+		{{ post.content }}
+		{% else %}
         {{ post.excerpt }}
+		{% endif %}
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>

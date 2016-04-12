@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-import yaml, string, os, codecs, urllib, json, fnmatch
+import yaml, string, os, codecs, urllib, json, fnmatch, re
 
 try:
     import droplogger
@@ -62,10 +62,16 @@ for e in entries['pile']:
     if "embed_html" in e:
         fp.write(e['embed_html'])
         fp.write('\n\n')
+    cont = ""
     if "text" in e and e['text'] is not None:
-        fp.write(e['text'])
+        cont = e['text']
     elif "note" in e and e['note'] is not None:
-        fp.write(e['note'])
+        cont = e['note']
     elif "notes" in e and e['notes'] is not None:
-        fp.write(e['notes'])
+        cont = e['notes']
+    if e["type"] == "quote":
+        cont = re.sub('^','> ', cont.strip(), flags=re.M)
+        cont += '\n> \n'
+        cont += '> <cite>%s</cite>' % e['source'] if "source" in e else "Unknown"
+    fp.write(cont)
     fp.close()
