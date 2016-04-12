@@ -16,7 +16,9 @@ layout: default
 	{% for tag in page.tags %}<a href="{{ site.baseurl }}/tag/{{ tag|uri_escape }}">{{ tag }}</a> {% endfor %}
   </div>{% endif %}
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    Written on <a href="{{ site.baseurl }}/{{ page.date|date: "%Y" }}/{{ page.date|date: "%m" }}/">{{ page.date|date: "%B" }}</a>
+	{{ page.date|date: "%e" }},
+	<a href="{{ site.baseurl }}/{{ page.date|date: "%Y" }}/">{{ page.date|date: "%Y" }}</a>
   </div>
 
   {% include disqus.html %}
