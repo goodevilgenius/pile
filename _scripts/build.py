@@ -29,7 +29,7 @@ for e in entries['pile']:
     if "url" in e:
         if e["url"] is None: del e["url"]
         else:
-            if e['type'] == "link": e['link_url'] = e.pop("url")
+            if e['type'] in ["link", "quote"]: e['link_url'] = e.pop("url")
             else: e["embed_url"] = e.pop("url")
 
     if "embed_url" in e:
