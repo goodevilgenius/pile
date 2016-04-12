@@ -7,6 +7,6 @@ build:
 	/usr/local/bin/jekyll build -c '_config.yml,_config.local.yml'
 
 deploy: build
-	git add -A _posts _data
+	git add -A _posts _data archives
 	git commit -m "Build for `date`"
 	git push github gh-pages

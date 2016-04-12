@@ -75,3 +75,42 @@ for e in entries['pile']:
         cont += '> <cite>%s</cite>' % e['source'] if "source" in e else "Unknown"
     fp.write(cont)
     fp.close()
+
+    # Next, let's generate archive pages
+    if not os.path.isdir('archives'): os.mkdir('archives')
+    month_archive = "archives/%s.html" % e['date'].strftime('%Y-%m')
+    month = {"layout":"archive"}
+    month['permalink'] = e['date'].strftime('%Y/%m/')
+    month['archive'] = 'month'
+    month['title'] = 'Archive for %s %s' % (e['date'].strftime('%B'), e['date'].year)
+    month['year'] = e['date'].year
+    month['month'] = e['date'].month
+    month['year-month'] = e['date'].strftime('%Y-%m')
+    with open(month_archive, 'w') as fp:
+        fp.write('---\n')
+        yaml.safe_dump(month, fp, encoding='utf-8')
+        fp.write('\n---\n')
+
+    year_archive = "archives/%s.html" % e['date'].year
+    year = {"layout":"archive"}
+    year['permalink'] = e['date'].strftime('%Y/')
+    year['archive'] = 'year'
+    year['title'] = 'Archive for %s' % e['date'].year
+    year['year'] = e['date'].year
+    with open(year_archive, 'w') as fp:
+        fp.write('---\n')
+        yaml.safe_dump(year, fp, encoding='utf-8')
+        fp.write('\n---\n')
+
+    if "tags" in e:
+        for tag in e['tags']:
+            tag_archive = "archives/%s.html" % tag
+            tago = {"layout":"archive"}
+            tago['permalink'] = "/tag/%s/" % tag
+            tago['archive'] = 'tag'
+            tago['title'] = 'Archive for %s' % tag
+            tago['tag'] = tag
+            with open(tag_archive, 'w') as fp:
+                fp.write('---\n')
+                yaml.safe_dump(tago, fp, encoding='utf-8')
+                fp.write('\n---\n')
