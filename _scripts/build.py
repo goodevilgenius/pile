@@ -104,7 +104,7 @@ for e in entries['pile']:
 
     if "tags" in e:
         for tag in e['tags']:
-            tag_archive = "archives/%s.html" % tag
+            tag_archive = "archives/%s.html" % urllib.quote(tag)
             tago = {"layout":"archive"}
             tago['permalink'] = "/tag/%s/" % tag
             tago['archive'] = 'tag'
