@@ -83,8 +83,8 @@ for e in entries['pile']:
     month['permalink'] = e['date'].strftime('%Y/%m/')
     month['archive'] = 'month'
     month['title'] = 'Archive for %s %s' % (e['date'].strftime('%B'), e['date'].year)
-    month['year'] = e['date'].year
-    month['month'] = e['date'].month
+    month['year'] = "%s" % e['date'].year
+    month['month'] = "%s" % e['date'].month
     month['year-month'] = e['date'].strftime('%Y-%m')
     with open(month_archive, 'w') as fp:
         fp.write('---\n')
@@ -96,7 +96,7 @@ for e in entries['pile']:
     year['permalink'] = e['date'].strftime('%Y/')
     year['archive'] = 'year'
     year['title'] = 'Archive for %s' % e['date'].year
-    year['year'] = e['date'].year
+    year['year'] = "%s" % e['date'].year
     with open(year_archive, 'w') as fp:
         fp.write('---\n')
         yaml.safe_dump(year, fp, encoding='utf-8')
