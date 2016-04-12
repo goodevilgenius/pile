@@ -10,7 +10,7 @@ layout: default
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 	  {% endif %}
 
-      <div class="entry">
+      <div class="entry entry-{{ post.type }}">
 		{% if post.type == "quote" %}
 		{{ post.content }}
 		{% else %}
