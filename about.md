@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a web developer from Houston, TX. I've been building websites for longer
+than I can remember.
 
-### More Information
+I do a little acting now and then as well.
 
-A place to include any other types of information that you'd like to include about yourself.
+Also, I'm married with two kids. My family is my world
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+{% if site.footer-links.email %}[E-mail](mailto:{{ site.footer-links.email }}){% endif %}
