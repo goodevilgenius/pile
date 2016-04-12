@@ -1,8 +1,12 @@
 ---
-{date: !!timestamp '2016-04-12 10:05:54-05:00', layout: post, source: Robert Benchley,
-  text: 'There are two kinds of people in the world, those who believe there are two
-    kinds of people in the world and those who don''t.', title: Quote by Robert Benchley,
-  type: quote}
+date: 2016-04-12 10:05:54-05:00
+layout: post
+source: Robert Benchley
+tags: [people]
+text: There are two kinds of people in the world, those who believe there are two
+  kinds of people in the world and those who don't.
+title: Quote by Robert Benchley
+type: quote
 ---
 > There are two kinds of people in the world, those who believe there are two kinds of people in the world and those who don't.
 > 
