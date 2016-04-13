@@ -259,15 +259,15 @@ nav {
     color: $gray;
     font-size: 22px;
     font-style: italic;
+  }
 
-	cite {
-		display: block;
-		text-align: right;
+  cite {
+	  display: block;
+	  text-align: right;
 
-		&:before {
-			content: "— ";
-		}
-	}
+	  &:before {
+		  content: "— ";
+	  }
   }
 
   .comments {
