@@ -32,7 +32,7 @@ for e in entries['pile']:
             if e['type'] in ["link", "quote"]: e['link_url'] = e.pop("url")
             else: e["embed_url"] = e.pop("url")
 
-    if "embed_url" in e:
+    if "embed_url" in e and e["type"] != "image":
         embeds = [ o for o in oembed['urls'] if o['url'] == e["embed_url"] ]
         if len(embeds) == 0:
             providers = [ p for p in oembed['providers'] if "schemes" in p['endpoints'][0] and len([ s for s in p['endpoints'][0]['schemes'] if fnmatch.fnmatch(e["embed_url"], s) ]) ]
@@ -51,6 +51,8 @@ for e in entries['pile']:
                 embeds = [ embed ]
         if embeds[0] is not None:
             e["embed_html"] = embeds[0]['html']
+    elif "embed_url" in e and e["type"] == "image":
+        e["embed_html"] = '<img src="%s" />' % e["embed_url"]
 
     slug = ''.join(c for c in e['title'].replace(' ','_') if c in ("-_.%s%s" % (string.ascii_letters, string.digits)))
     filename = "%s-%s-%s-%s.md" % (e['date'].year, e['date'].month, e['date'].day, slug)
