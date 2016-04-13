@@ -18,11 +18,8 @@ providers:
   - discovery: true
     example_urls: ['http://www.youtube.com/oembed?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DiwGFalTRHDA',
       'http://www.youtube.com/oembed?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DiwGFalTRHDA&format=xml']
-    schemes:
-      - 'http://*youtube.com/*'
-      - 'http://youtu.be/*'
-      - 'https://*youtube.com/*'
-      - 'https://youtu.be/*'
+    schemes: ['http://*youtube.com/*', 'http://youtu.be/*', 'https://*youtube.com/*',
+      'https://youtu.be/*']
     url: http://www.youtube.com/oembed
   provider_name: YouTube
   provider_url: http://www.youtube.com/
@@ -676,3 +673,9 @@ urls:
   thumbnail_height: 360, thumbnail_url: 'https://i.ytimg.com/vi/ckLqfX62u_I/hqdefault.jpg',
   thumbnail_width: 480, title: Adele - Hello (Mormon Missionary Parody), type: video,
   url: 'https://youtu.be/ckLqfX62u_I', version: '1.0', width: 480}
+- {author_name: Google, author_url: 'https://www.youtube.com/user/Google', height: 270,
+  html: '<iframe width="480" height="270" src="https://www.youtube.com/embed/qnZZInDyrZo?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>', provider_name: YouTube, provider_url: 'https://www.youtube.com/',
+  thumbnail_height: 360, thumbnail_url: 'https://i.ytimg.com/vi/qnZZInDyrZo/hqdefault.jpg',
+  thumbnail_width: 480, title: Goals in Google Calendar, type: video, url: 'https://youtu.be/qnZZInDyrZo',
+  version: '1.0', width: 480}
