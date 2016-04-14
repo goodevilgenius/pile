@@ -679,3 +679,9 @@ urls:
   thumbnail_height: 360, thumbnail_url: 'https://i.ytimg.com/vi/qnZZInDyrZo/hqdefault.jpg',
   thumbnail_width: 480, title: Goals in Google Calendar, type: video, url: 'https://youtu.be/qnZZInDyrZo',
   version: '1.0', width: 480}
+- {author_name: LastWeekTonight, author_url: 'https://www.youtube.com/user/LastWeekTonight',
+  height: 270, html: '<iframe width="480" height="270" src="https://www.youtube.com/embed/DRauXXz6t0Y?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>', provider_name: YouTube, provider_url: 'https://www.youtube.com/',
+  thumbnail_height: 360, thumbnail_url: 'https://i.ytimg.com/vi/DRauXXz6t0Y/hqdefault.jpg',
+  thumbnail_width: 480, title: 'Last Week Tonight with John Oliver: Abortion Laws
+    (HBO)', type: video, url: 'http://youtu.be/DRauXXz6t0Y', version: '1.0', width: 480}
