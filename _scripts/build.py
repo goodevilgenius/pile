@@ -44,7 +44,7 @@ for e in entries['pile']:
                     embed['url'] = e["embed_url"]
                     oembed["urls"].append(embed)
                     fp = open(oembed_file,'w')
-                    yaml.safe_dump(oembed, fp, encoding='utf-8')
+                    yaml.safe_dump(oembed, fp, encoding='utf-8', canonical=False, default_flow_style=False)
                     fp.close()
                 except Error:
                     embed = None
@@ -91,7 +91,7 @@ for e in entries['pile']:
     month['year-month'] = e['date'].strftime('%Y-%m')
     with open(month_archive, 'w') as fp:
         fp.write('---\n')
-        yaml.safe_dump(month, fp, encoding='utf-8')
+        yaml.safe_dump(month, fp, encoding='utf-8', canonical=False, default_flow_style=False)
         fp.write('\n---\n')
 
     year_archive = "archives/%s.html" % e['date'].year
@@ -102,7 +102,7 @@ for e in entries['pile']:
     year['year'] = "%s" % e['date'].year
     with open(year_archive, 'w') as fp:
         fp.write('---\n')
-        yaml.safe_dump(year, fp, encoding='utf-8')
+        yaml.safe_dump(year, fp, encoding='utf-8', canonical=False, default_flow_style=False)
         fp.write('\n---\n')
 
     if "tags" in e:
@@ -115,5 +115,5 @@ for e in entries['pile']:
             tago['tag'] = tag
             with open(tag_archive, 'w') as fp:
                 fp.write('---\n')
-                yaml.safe_dump(tago, fp, encoding='utf-8')
+                yaml.safe_dump(tago, fp, encoding='utf-8', canonical=False, default_flow_style=False)
                 fp.write('\n---\n')
