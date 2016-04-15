@@ -11,6 +11,10 @@ description: "Some stuff I've found"
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/254662
 
+# Pagination
+paginate: 10
+paginate_path: "/page/:num/"
+
 #
 # Flags below are optional
 #
@@ -76,6 +80,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-paginate
 
 # Exclude these files from your production _site
 exclude:
