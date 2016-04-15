@@ -52,7 +52,7 @@ for e in entries['pile']:
         if embeds[0] is not None:
             e["embed_html"] = embeds[0]['html']
     elif "embed_url" in e and e["type"] in ["image","picture"]:
-        e["embed_html"] = '<img src="%s" />' % e["embed_url"]
+        e["embed_html"] = '<img src="%s" alt="" />' % e["embed_url"]
         if "source" in e: e["embed_html"] += '\n\n<cite>%s</cite>' % e["source"]
 
     slug = ''.join(c for c in e['title'].replace(' ','_') if c in ("-_.%s%s" % (string.ascii_letters, string.digits)))
