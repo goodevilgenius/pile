@@ -1,11 +1,11 @@
 ---
 date: 2016-04-15 07:48:00-05:00
-embed_html: <img src="http://ift.tt/1SiJUQ4" />
-embed_url: http://ift.tt/1SiJUQ4
+embed_html: <img src="https://i.imgur.com/OEKLsef.jpg" alt="" />
+embed_url: https://i.imgur.com/OEKLsef.jpg
 layout: post
-tags: [brain injury]
+tags: [brain injury, football]
 title: Good Ol' Colbert
 type: image
 ---
-<img src="http://ift.tt/1SiJUQ4" />
+<img src="https://i.imgur.com/OEKLsef.jpg" alt="" />
 

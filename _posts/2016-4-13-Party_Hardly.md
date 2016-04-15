@@ -1,6 +1,7 @@
 ---
 date: 2016-04-13 09:52:06-05:00
-embed_html: '<img src="https://files.explosm.net/comics/Rob/party-hard.png" />
+embed_html: '<img src="https://files.explosm.net/comics/Rob/party-hard.png" alt=""
+  />
 
 
   <cite>http://explosm.net/comics/4139/</cite>'
@@ -11,7 +12,7 @@ tags: [comic, party]
 title: Party Hardly
 type: image
 ---
-<img src="https://files.explosm.net/comics/Rob/party-hard.png" />
+<img src="https://files.explosm.net/comics/Rob/party-hard.png" alt="" />
 
 <cite>http://explosm.net/comics/4139/</cite>
 
