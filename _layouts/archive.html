@@ -4,7 +4,7 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
-<div class="posts">
+<div class="posts"><ul>
   {% for post in site.posts %}
   {% case page.archive %}
   {% when 'month' %}{% capture postmonth %}{{ post.date | date: '%Y-%m' }}{% endcapture %}
@@ -13,6 +13,8 @@ layout: default
   {% if postyear != page.year %}{% continue %}{% endif %}
   {% when 'tag' %}{% unless post.tags contains page.tag %}{% continue %}{% endunless %}
   {% endcase %}
+  <li>{{ post.date | date:"%b %d" }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+  {% comment %}
     <article class="post post-{{ post.type }}">
 
 	  {% if post.type != "quote" %}
@@ -29,5 +31,6 @@ layout: default
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
+  {% endcomment %}
   {% endfor %}
-</div>
+</ul></div>
