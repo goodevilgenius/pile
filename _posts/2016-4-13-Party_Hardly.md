@@ -8,7 +8,7 @@ embed_html: '<img src="https://files.explosm.net/comics/Rob/party-hard.png" alt=
 embed_url: https://files.explosm.net/comics/Rob/party-hard.png
 layout: post
 source: http://explosm.net/comics/4139/
-tags: [comic, party]
+tags: [comic, party, comic]
 title: Party Hardly
 type: image
 ---

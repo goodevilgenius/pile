@@ -8,7 +8,7 @@ embed_html: '<img src="http://mythdirection.com/wp-content/uploads/2016/04/dick.
 embed_url: http://mythdirection.com/wp-content/uploads/2016/04/dick.png
 layout: post
 source: http://mythdirection.com/comic/pics/
-tags: [texting]
+tags: [texting, comic]
 title: Dick pics
 type: image
 ---
