@@ -280,6 +280,43 @@ nav {
   }
 }
 
+// archives
+.archive {
+
+	%post-type {
+		background-size: 1em 1em;
+		padding-left: 1em;
+		background-position: left center;
+		background-repeat: no-repeat;
+	}
+
+	.post-image {
+		@extend %post-type;
+		background-image: url("{{ site.baseurl }}/images/svg/image.svg");
+	}
+
+	.post-link {
+		@extend %post-type;
+		background-image: url("{{ site.baseurl }}/images/svg/link.svg");
+	}
+
+	.post-text {
+		@extend %post-type;
+		background-image: url("{{ site.baseurl }}/images/svg/short_text.svg");
+	}
+
+	.post-quote {
+		@extend %post-type;
+		background-image: url("{{ site.baseurl }}/images/svg/format_quote.svg");
+	}
+
+	.post-video {
+		@extend %post-type;
+		background-image: url("{{ site.baseurl }}/images/svg/videocam.svg");
+	}
+
+}
+
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid #ddd;
