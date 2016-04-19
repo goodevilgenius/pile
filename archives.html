@@ -18,7 +18,7 @@ permalink: /archives/
 	{% endif %}
 	{% endunless %}
 
-	<li>{{ post.date | date:"%b %d" }} <a href="{{ site.baseurl }}{{ post.url }}" class="post-{{ post.type }}{% if post.type == "image" %} hoverZoomLink{% endif %}"{% if post.type == "image" %} data-hover-zoom-src='["{{ post.embed_url }}"]'{% endif %}>{{ post.title }}</a></li>
+	<li>{{ post.date | date:"%b %d" }} <a href="{{ site.baseurl }}{{ post.url }}" class="post-{{ post.type }}{% if post.type == "image" %} hoverZoomLink{% endif %}"{% if post.type == "image" %} data-hover-zoom-caption="{{ post.title|xml_escape}}" data-hover-zoom-src='["{{ post.embed_url }}"]'{% endif %}>{{ post.title }}</a></li>
 	{% endfor %}
   </ul>
 </div>
