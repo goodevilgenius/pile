@@ -13,6 +13,6 @@ layout: default
   {% if postyear != page.year %}{% continue %}{% endif %}
   {% when 'tag' %}{% unless post.tags contains page.tag %}{% continue %}{% endunless %}
   {% endcase %}
-  <li>{{ post.date | date:"%b %d" }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+  <li>{{ post.date | date:"%b %d" }} <a href="{{ site.baseurl }}{{ post.url }}"{% if post.type == "image" %} data-hover-zoom-src='["{{ post.embed_url }}"]' class="hoverZoomLink"{% endif %}>{{ post.title }}</a></li>
   {% endfor %}
 </ul></div>
