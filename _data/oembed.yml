@@ -1,6 +1,15 @@
 providers:
 - endpoints:
   - discovery: true
+    schemes:
+    - 'http://*tumblr.com/post*'
+    - 'https://*tumblr.com/post*'
+    - 'http://owlturd.com/post*'
+    url: https://www.tumblr.com/oembed/1.0
+  provider_name: Tumblr
+  provider_url: https://www.tumblr.com/
+- endpoints:
+  - discovery: true
     example_urls:
     - https://api.gfycat.com/v1/oembed?url=http%3A%2F%2Fwww.gfycat.com%2FRichPepperyFerret
     schemes:
