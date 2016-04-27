@@ -13,6 +13,7 @@ $link: "{{ site.baseurl }}/images/svg/link.svg";
 $text: "{{ site.baseurl }}/images/svg/short_text.svg";
 $quote: "{{ site.baseurl }}/images/svg/format_quote.svg";
 $video: "{{ site.baseurl }}/images/svg/videocam.svg";
+$embed: "{{ site.baseurl }}/images/svg/featured_video.svg";
 
 // Syntax highlighting @import is at the bottom of this file
 
@@ -321,6 +322,11 @@ nav {
 		@extend %post-type;
 		background-image: url($video);
 	}
+
+	.post-embed {
+		@extend %post-type;
+		background-image: url($embed);
+	}
 }
 
 .meta {
@@ -346,6 +352,10 @@ nav {
 
 	.post-video img {
 		content: url($video);
+	}
+
+	.post-embed img {
+		content: url($embed);
 	}
 }
 
