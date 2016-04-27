@@ -14,6 +14,7 @@ layout: default
   {% when 'year' %}{% capture postyear %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if postyear != page.year %}{% continue %}{% endif %}
   {% when 'tag' %}{% unless post.tags contains page.tag %}{% continue %}{% endunless %}
+  {% when 'type' %}{% unless post.type == page.type %}{% continue %}{% endunless %}
   {% endcase %}
   <li>{{ post.date | date:"%b %d" }} <a href="{{ site.baseurl }}{{ post.url }}" class="post-{{ post.type }}{% if post.type == "image" %} hoverZoomLink{% endif %}"{% if post.type == "image" %} data-hover-zoom-caption="{{ post.title|xml_escape}}" data-hover-zoom-src='["{{ post.embed_url }}"]'{% endif %}>{{ post.title }}</a></li>
   {% endfor %}

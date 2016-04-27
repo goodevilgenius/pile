@@ -132,3 +132,15 @@ for e in entries['pile']:
                 fp.write('---\n')
                 yaml.safe_dump(tago, fp, encoding='utf-8', canonical=False, default_flow_style=False)
                 fp.write('\n---\n')
+
+    if "type" in e:
+        type_archive = "archives/%s.html" % urllib.quote(e["type"])
+        typeo = {"layout":"archive"}
+        typeo['permalink'] = "/type/%s/" % e["type"]
+        typeo['archive'] = 'type'
+        typeo['title'] = 'Archive for %s posts' % e["type"]
+        typeo['type'] = e["type"]
+        with open(type_archive, 'w') as fp:
+            fp.write('---\n')
+            yaml.safe_dump(typeo, fp, encoding='utf-8', canonical=False, default_flow_style=False)
+            fp.write('\n---\n')
