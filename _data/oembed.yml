@@ -2,9 +2,9 @@ providers:
 - endpoints:
   - discovery: true
     schemes:
-    - 'http://*tumblr.com/post*'
-    - 'https://*tumblr.com/post*'
-    - 'http://owlturd.com/post*'
+    - http://*tumblr.com/post*
+    - https://*tumblr.com/post*
+    - http://owlturd.com/post*
     url: https://www.tumblr.com/oembed/1.0
   provider_name: Tumblr
   provider_url: https://www.tumblr.com/
@@ -978,5 +978,35 @@ urls:
   title: If People Acted Like They Do In Cars
   type: video
   url: https://www.youtube.com/watch?v=88KywfbzmvA
+  version: '1.0'
+  width: 480
+- author_name: CollegeHumor
+  author_url: https://www.youtube.com/user/collegehumor
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/J4LI_EqnJq8?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/J4LI_EqnJq8/hqdefault.jpg
+  thumbnail_width: 480
+  title: Back To The Future In ACTUAL 2015
+  type: video
+  url: https://www.youtube.com/watch?v=J4LI_EqnJq8
+  version: '1.0'
+  width: 480
+- author_name: Animation Domination
+  author_url: https://www.youtube.com/user/ANIMATIONonFOX
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/9qcY2ERwmaU?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/9qcY2ERwmaU/hqdefault.jpg
+  thumbnail_width: 480
+  title: THE SIMPSONS | Couch Gag By Eric Goldberg | ANIMATION on FOX
+  type: video
+  url: https://youtu.be/9qcY2ERwmaU
   version: '1.0'
   width: 480
