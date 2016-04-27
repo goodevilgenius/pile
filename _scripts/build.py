@@ -82,6 +82,20 @@ for e in entries['pile']:
 
     # Next, let's generate archive pages
     if not os.path.isdir('archives'): os.mkdir('archives')
+    day_archive = "archives/%s.html" % e['date'].strftime('%Y-%m-%d')
+    day = {"layout":"archive"}
+    day['permalink'] = e['date'].strftime('%Y/%m/%d/')
+    day['archive'] = 'day'
+    day['title'] = 'Archive for %s' % (e['date'].strftime('%B %d, %Y'))
+    day['year'] = "%s" % e['date'].year
+    day['month'] = "%s" % e['date'].month
+    day['day'] = "%s" % e['date'].day
+    day['year-month-day'] = e['date'].strftime('%Y-%m-%d')
+    with open(day_archive, 'w') as fp:
+        fp.write('---\n')
+        yaml.safe_dump(day, fp, encoding='utf-8', canonical=False, default_flow_style=False)
+        fp.write('\n---\n')
+
     month_archive = "archives/%s.html" % e['date'].strftime('%Y-%m')
     month = {"layout":"archive"}
     month['permalink'] = e['date'].strftime('%Y/%m/')
