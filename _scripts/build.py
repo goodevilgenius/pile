@@ -82,7 +82,7 @@ for e in entries['pile']:
 
     # Next, let's generate archive pages
     if not os.path.isdir('archives'): os.mkdir('archives')
-    day_archive = "archives/%s.html" % e['date'].strftime('%Y-%m-%d')
+    day_archive = "archives/date-%s.html" % e['date'].strftime('%Y-%m-%d')
     day = {"layout":"archive"}
     day['permalink'] = e['date'].strftime('%Y/%m/%d/')
     day['archive'] = 'day'
@@ -96,7 +96,7 @@ for e in entries['pile']:
         yaml.safe_dump(day, fp, encoding='utf-8', canonical=False, default_flow_style=False)
         fp.write('\n---\n')
 
-    month_archive = "archives/%s.html" % e['date'].strftime('%Y-%m')
+    month_archive = "archives/date-%s.html" % e['date'].strftime('%Y-%m')
     month = {"layout":"archive"}
     month['permalink'] = e['date'].strftime('%Y/%m/')
     month['archive'] = 'month'
@@ -109,7 +109,7 @@ for e in entries['pile']:
         yaml.safe_dump(month, fp, encoding='utf-8', canonical=False, default_flow_style=False)
         fp.write('\n---\n')
 
-    year_archive = "archives/%s.html" % e['date'].year
+    year_archive = "archives/date-%s.html" % e['date'].year
     year = {"layout":"archive"}
     year['permalink'] = e['date'].strftime('%Y/')
     year['archive'] = 'year'
@@ -122,7 +122,7 @@ for e in entries['pile']:
 
     if "tags" in e:
         for tag in e['tags']:
-            tag_archive = "archives/%s.html" % urllib.quote(tag)
+            tag_archive = "archives/tag-%s.html" % urllib.quote(tag)
             tago = {"layout":"archive"}
             tago['permalink'] = "/tag/%s/" % tag
             tago['archive'] = 'tag'
@@ -134,7 +134,7 @@ for e in entries['pile']:
                 fp.write('\n---\n')
 
     if "type" in e:
-        type_archive = "archives/%s.html" % urllib.quote(e["type"])
+        type_archive = "archives/type-%s.html" % urllib.quote(e["type"])
         typeo = {"layout":"archive"}
         typeo['permalink'] = "/type/%s/" % e["type"]
         typeo['archive'] = 'type'
