@@ -1,7 +1,7 @@
 ---
 date: 2016-04-27 20:12:00-05:00
 layout: post
-link_url: http://ift.tt/26uQW8q
+link_url: http://arstechnica.com/tech-policy/2016/04/child-porn-suspect-jailed-for-7-months-for-refusing-to-decrypt-hard-drives/
 tags: [rights, decryption, 5th Amendment]
 text: '> A Philadelphia man suspected of possessing child pornography has
 
