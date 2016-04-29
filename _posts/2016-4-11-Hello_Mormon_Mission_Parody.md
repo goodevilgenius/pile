@@ -6,6 +6,7 @@ embed_url: https://youtu.be/ckLqfX62u_I
 funny: true
 layout: post
 tags: [music, parody, comedy, missionary work]
+timestamp: 1460385782
 title: "\xABHello\xBB Mormon Mission Parody"
 type: video
 ---

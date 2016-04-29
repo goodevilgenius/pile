@@ -5,6 +5,7 @@ source: Fran Lebowitz
 tags: [humor, pets]
 text: If you are a dog and your owner suggests that you wear a sweater, suggest that
   he wear a tail.
+timestamp: 1461444710
 title: Quote by Fran Lebowitz
 type: quote
 ---

@@ -5,6 +5,7 @@ embed_html: <iframe width="480" height="270" src="https://www.youtube.com/embed/
 embed_url: https://youtu.be/qnZZInDyrZo
 layout: post
 tags: [goals, google, self improvement]
+timestamp: 1460560530
 title: Goals in Google Calendar
 type: video
 ---

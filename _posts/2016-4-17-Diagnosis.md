@@ -9,6 +9,7 @@ layout: post
 source: http://explosm.net/comics/4272/
 tags: [Canadian, humor, comic]
 text: It's contagios, eh
+timestamp: 1460907000
 title: Diagnosis
 type: image
 ---

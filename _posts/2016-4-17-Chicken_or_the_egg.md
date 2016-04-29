@@ -10,6 +10,7 @@ layout: post
 source: http://piecomic.tumblr.com/post/142908826057/which-came-first-chicken-or-the-egg
 tags: [evolution, humor, comic]
 text: Evolution is strange
+timestamp: 1460903400
 title: Chicken or the egg
 type: image
 ---

@@ -5,6 +5,7 @@ source: Albert Einstein
 tags: [religion, physics, metaphysics]
 text: It seems hard to sneak a look at God's cards. But that He plays dice and uses
   'telepathic' methods... is something that I cannot believe for a single moment.
+timestamp: 1461530436
 title: God's Cards
 type: quote
 ---

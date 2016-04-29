@@ -6,6 +6,7 @@ embed_url: http://youtu.be/DRauXXz6t0Y
 layout: post
 tags: [abortion, news, comedy]
 text: John Oliver explains American abortion laws
+timestamp: 1460652378
 title: 'Last Week Tonight: Abortion Laws'
 type: video
 ---

@@ -9,6 +9,7 @@ text: "> Fans of the ghoulish green goodness of Hi-C Ecto Cooler have one more r
   90s will officially return to store shelves for a limited time. Its resurgence comes\
   \ after a 15-year hiatus, much to the delight of fans everywhere. Ghostbusters hits\
   \ theaters on July 15, 2016."
+timestamp: 1461681238
 title: The Return Of Hi-C Ecto Cooler Is Now Official
 type: link
 ---

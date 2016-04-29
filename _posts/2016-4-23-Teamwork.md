@@ -4,6 +4,7 @@ layout: post
 source: David Shore
 tags: [teamwork, humor]
 text: Like I always say, there's no 'I' in team. There is a 'me', though.
+timestamp: 1461444617
 title: Teamwork
 type: quote
 ---

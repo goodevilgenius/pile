@@ -9,6 +9,7 @@ layout: post
 source: http://maximumble.thebookofbiff.com/2016/04/29/1322-give-up/
 tags: [adulthood, comic]
 text: How I feel most days
+timestamp: 1461930437
 title: Better Tomorrow
 type: image
 ---

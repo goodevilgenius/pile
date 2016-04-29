@@ -16,6 +16,7 @@ text: '> Authorities in central Florida say a German shepherd helped
   named Maxx helped firefighters find the 4-year-old boy and 2-year-old girl
 
   Monday night in their home in the Orlando suburb, Longwood.'
+timestamp: 1461804420
 title: German shepherd helps rescue children from burning home
 type: link
 ---

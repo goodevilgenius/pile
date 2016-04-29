@@ -7,6 +7,7 @@ text: "> Photos of women with lips pursed. Texts that said \u201CLove you,\u201D
   \ \u201CHappy Birthday.\u201D A photo of a bottle of \u201CBig Bottom\u201D whiskey.\
   \ More women. More lips and kisses. And one telltale reference to the 1992 rap hit\
   \ \u201CBaby Got Back.\u201D"
+timestamp: 1460754800
 title: "This guy got Sir Mix-A-Lot's old phone number \u2014 and now he gets his raunchy\
   \ texts"
 type: link

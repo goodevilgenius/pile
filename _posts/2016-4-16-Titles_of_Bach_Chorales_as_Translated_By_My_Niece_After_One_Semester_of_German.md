@@ -6,6 +6,7 @@ tags: [German, translation, language, humor]
 text: '> *Christ lag in Todes Banden*
 
   > Christ is late to every band rehearsal'
+timestamp: 1460848500
 title: Titles of Bach Chorales, as Translated By My Niece After One Semester of German
 type: link
 ---
