@@ -1,0 +1,18 @@
+---
+---
+/* TEAM */
+   Me: {{ site.author.name }}
+   Twitter: @{{ site.author.twitter }}
+   Github: https://github.com/{{ site.author.github }}/
+   From: {{ site.author.from }}
+
+/* THANKS */
+   Theme developer: Barry Clark
+   Github: https://github.com/barryclark/
+
+/* SITE */
+   Last update: {{ site.time | date_to_rfc822 }}
+   Language: en-us
+   Doctype: HTML5
+   Technologies: HTML5, CSS3, Jekyll, DropLogger
+   IDE: Emacs
