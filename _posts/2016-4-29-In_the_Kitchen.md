@@ -7,10 +7,14 @@ embed_html: '<img src="http://i.imgur.com/mrkxKJI.png" alt="" />
 embed_url: http://i.imgur.com/mrkxKJI.png
 layout: post
 source: http://www.lunarbaboon.com/comics/kitchen.html
-tags: [gender, cooking, comic]
+tags:
+- gender
+- cooking
+- comic
 timestamp: 1461930544
 title: In the Kitchen
 type: image
+
 ---
 <img src="http://i.imgur.com/mrkxKJI.png" alt="" />
 

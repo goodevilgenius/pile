@@ -5,10 +5,15 @@ embed_html: <iframe width="480" height="270" src="https://www.youtube.com/embed/
 embed_url: https://youtu.be/ckLqfX62u_I
 funny: true
 layout: post
-tags: [music, parody, comedy, missionary work]
+tags:
+- music
+- parody
+- comedy
+- missionary work
 timestamp: 1460385782
 title: "\xABHello\xBB Mormon Mission Parody"
 type: video
+
 ---
 <iframe width="480" height="270" src="https://www.youtube.com/embed/ckLqfX62u_I?feature=oembed" frameborder="0" allowfullscreen></iframe>
 

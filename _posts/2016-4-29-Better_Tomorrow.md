@@ -7,11 +7,14 @@ embed_html: '<img src="http://i.imgur.com/7lsxVLI.png" alt="" />
 embed_url: http://i.imgur.com/7lsxVLI.png
 layout: post
 source: http://maximumble.thebookofbiff.com/2016/04/29/1322-give-up/
-tags: [adulthood, comic]
+tags:
+- adulthood
+- comic
 text: How I feel most days
 timestamp: 1461930437
 title: Better Tomorrow
 type: image
+
 ---
 <img src="http://i.imgur.com/7lsxVLI.png" alt="" />
 

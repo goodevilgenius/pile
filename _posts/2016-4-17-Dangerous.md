@@ -7,10 +7,13 @@ embed_html: '<img src="http://i.imgur.com/Sew5QWu.jpg" alt="" />
 embed_url: http://i.imgur.com/Sew5QWu.jpg
 layout: post
 source: https://www.instagram.com/p/BET-QYwscb8/
-tags: [Zelda, Japanese]
+tags:
+- Zelda
+- Japanese
 timestamp: 1460931103
 title: Dangerous
 type: image
+
 ---
 <img src="http://i.imgur.com/Sew5QWu.jpg" alt="" />
 

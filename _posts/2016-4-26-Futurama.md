@@ -8,10 +8,12 @@ embed_html: '<img src="http://img06.deviantart.net/9ffc/i/2014/141/9/b/good_news
 embed_url: http://img06.deviantart.net/9ffc/i/2014/141/9/b/good_news__everyone__by_leopinheiro-d7iqpju.jpg
 layout: post
 source: http://leopinheiro.deviantart.com/art/Good-News-Everyone-454742490
-tags: [cartoons]
+tags:
+- cartoons
 timestamp: 1461729657
 title: Futurama
 type: image
+
 ---
 <img src="http://img06.deviantart.net/9ffc/i/2014/141/9/b/good_news__everyone__by_leopinheiro-d7iqpju.jpg" alt="" />
 

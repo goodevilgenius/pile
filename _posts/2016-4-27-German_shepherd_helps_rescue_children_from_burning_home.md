@@ -2,7 +2,9 @@
 date: 2016-04-27 19:47:00-05:00
 layout: post
 link_url: https://www.yahoo.com/news/german-shepherd-helps-rescue-children-burning-home-101418846.html
-tags: [hero, dog]
+tags:
+- hero
+- dog
 text: '> Authorities in central Florida say a German shepherd helped
 
   firefighters locate the two young children of his owners in heavy smoke as
@@ -19,6 +21,7 @@ text: '> Authorities in central Florida say a German shepherd helped
 timestamp: 1461804420
 title: German shepherd helps rescue children from burning home
 type: link
+
 ---
 > Authorities in central Florida say a German shepherd helped
 firefighters locate the two young children of his owners in heavy smoke as

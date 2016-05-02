@@ -2,7 +2,9 @@
 date: 2016-05-01 21:14:00-05:00
 layout: post
 link_url: http://ift.tt/1QJZsVq
-tags: [guns, protection]
+tags:
+- guns
+- protection
 text: "> Chris fired a warning shot. The man, who was carrying a stolen\nlaundry hamper,\
   \ began running. Chris emptied the magazine, firing off 12\nshots by the time the\
   \ intruder neared a fence in the family\u2019s front yard,\nthe 11-year-old told\
@@ -15,6 +17,7 @@ title: '''He started crying like a little baby'': 11-year-old brags about shooti
 
   suspected home invader'
 type: link
+
 ---
 > Chris fired a warning shot. The man, who was carrying a stolen
 laundry hamper, began running. Chris emptied the magazine, firing off 12

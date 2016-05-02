@@ -7,11 +7,15 @@ embed_html: '<img src="http://i.imgur.com/NP6HThf.jpg" alt="" />
 embed_url: http://i.imgur.com/NP6HThf.jpg
 layout: post
 source: http://theunderfold.com/2016/04/19/playing-dark-souls-3/
-tags: [adulthood, life, comic]
+tags:
+- adulthood
+- life
+- comic
 text: Far too accurate
 timestamp: 1461954258
 title: Playing Dark Souls 3
 type: image
+
 ---
 <img src="http://i.imgur.com/NP6HThf.jpg" alt="" />
 

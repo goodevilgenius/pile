@@ -2,7 +2,8 @@
 date: 2016-04-25 09:15:04-05:00
 layout: post
 link_url: http://mysteriousearth.net/woman-causes-10-car-pileup-after-seeing-jesus-in-her-kit-kat-candy-bar/
-tags: [stupid]
+tags:
+- stupid
 text: "> Marlo Thomas, 33, says she was traveling south on the I-15 when she suddenly\
   \ began craving sweets.\n>\n> \"I unwrapped the package, took a bite, and couldn\u2019\
   t believe what I saw. It was Jesus! I mean, right there, Jesus in my candy bar!\
@@ -15,6 +16,7 @@ text: "> Marlo Thomas, 33, says she was traveling south on the I-15 when she sud
 timestamp: 1461593704
 title: Woman Causes 10 Car Pileup After Seeing Jesus In Her Kit Kat
 type: link
+
 ---
 > Marlo Thomas, 33, says she was traveling south on the I-15 when she suddenly began craving sweets.
 >
