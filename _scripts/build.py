@@ -62,8 +62,8 @@ for e in entries['pile']:
     newfile = os.path.join('_posts', filename)
     fp = codecs.open(newfile, "w", encoding="utf-8")
     fp.write('---\n')
-    yaml.safe_dump(e, fp, encoding='utf-8')
-    fp.write('---\n')
+    yaml.safe_dump(e, fp, encoding='utf-8', default_flow_style=False)
+    fp.write('\n---\n')
     if "embed_html" in e:
         fp.write(e['embed_html'])
         fp.write('\n\n')
