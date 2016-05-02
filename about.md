@@ -13,4 +13,4 @@ Also, I'm married with two kids. My family is my world
 
 ### Contact me
 
-{% if site.footer-links.email %}[E-mail](mailto:{{ site.footer-links.email }}){% endif %}
+{% if site.author.email %}[E-mail](mailto:{{ site.author.email }}){% endif %}
