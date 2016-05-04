@@ -4,7 +4,7 @@ all: deploy
 
 build:
 	python _scripts/build.py
-	/usr/local/bin/jekyll build -c '_config.yml,_config.local.yml'
+	bundle exec /usr/local/bin/jekyll build -c '_config.yml,_config.local.yml'
 
 deploy: build
 	git add -A _posts _data archives
