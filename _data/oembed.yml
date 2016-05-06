@@ -1065,3 +1065,16 @@ urls:
   url: http://piecomic.tumblr.com/post/143754356401
   version: '1.0'
   width: 540
+- author_name: ''
+  author_url: http://owlturd.com/
+  cache_age: 3600
+  height: null
+  html: <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/7VRNrWgUWz5Bz0nWM-zj7Q/143938656934"
+    data-did="cb86086bd7d70ebbc9196067d7b5bcb59471b53a"  ><a href="http://owlturd.com/post/143938656934/ancient-fable-image-twitter-facebook-patreon">http://owlturd.com/post/143938656934/ancient-fable-image-twitter-facebook-patreon</a></div><script
+    async src="https://secure.assets.tumblr.com/post.js"></script>
+  provider_name: Tumblr
+  provider_url: http://www.tumblr.com
+  type: rich
+  url: http://owlturd.com/post/143938656934/ancient-fable-image-twitter-facebook-patreon
+  version: '1.0'
+  width: 540
