@@ -4,6 +4,8 @@ all: deploy
 
 build:
 	python _scripts/build.py
+
+stage: build
 	bundle exec /usr/local/bin/jekyll build -c '_config.yml,_config.local.yml'
 
 deploy: build
