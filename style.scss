@@ -8,13 +8,15 @@
 @import "reset";
 @import "variables";
 
-$image: "{{ site.baseurl }}/images/svg/image.svg";
-$link: "{{ site.baseurl }}/images/svg/link.svg";
-$text: "{{ site.baseurl }}/images/svg/short_text.svg";
-$quote: "{{ site.baseurl }}/images/svg/format_quote.svg";
-$video: "{{ site.baseurl }}/images/svg/videocam.svg";
-$embed: "{{ site.baseurl }}/images/svg/featured_video.svg";
-$status: "{{ site.baseurl }}/images/svg/create.svg";
+$icons: (
+	image: "{{ site.baseurl }}/images/svg/image.svg",
+	link: "{{ site.baseurl }}/images/svg/link.svg",
+	text: "{{ site.baseurl }}/images/svg/short_text.svg",
+	quote: "{{ site.baseurl }}/images/svg/format_quote.svg",
+	video: "{{ site.baseurl }}/images/svg/videocam.svg",
+	embed: "{{ site.baseurl }}/images/svg/featured_video.svg",
+	status: "{{ site.baseurl }}/images/svg/create.svg",
+);
 
 // Syntax highlighting @import is at the bottom of this file
 
@@ -299,39 +301,11 @@ nav {
 		background-repeat: no-repeat;
 	}
 
-	.post-image {
-		@extend %post-type;
-		background-image: url($image);
-	}
-
-	.post-link {
-		@extend %post-type;
-		background-image: url($link);
-	}
-
-	.post-text {
-		@extend %post-type;
-		background-image: url($text);
-	}
-
-	.post-quote {
-		@extend %post-type;
-		background-image: url($quote);
-	}
-
-	.post-video {
-		@extend %post-type;
-		background-image: url($video);
-	}
-
-	.post-embed {
-		@extend %post-type;
-		background-image: url($embed);
-	}
-
-	.post-status {
-		@extend %post-type;
-		background-image: url($status);
+	@each $name, $icon in $icons {
+		.post-#{$name} {
+		    @extend %post-type;
+		    background-image: url($icon);
+	    }
 	}
 }
 
@@ -340,32 +314,10 @@ nav {
 		height: 1em;
 		width: 1em;
 	}
-	.post-image img {
-		content: url($image);
-	}
-
-	.post-link img {
-		content: url($link);
-	}
-
-	.post-text img {
-		content: url($text);
-	}
-
-	.post-quote img {
-		content: url($quote);
-	}
-
-	.post-video img {
-		content: url($video);
-	}
-
-	.post-embed img {
-		content: url($embed);
-	}
-
-	.post-status img {
-		content: url($status);
+	@each $name, $icon in $icons {
+		.post-#{$name} img {
+		    content: url($icon);
+	    }
 	}
 }
 
