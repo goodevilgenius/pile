@@ -1,7 +1,7 @@
 ---
 date: 2016-05-07 07:44:00-05:00
 layout: post
-link_url: http://ift.tt/1SZiXOz
+link_url: http://www.engadget.com/2016/05/04/kfc-flavored-nail-polish/
 tags:
 - chicken
 - makeup
