@@ -10,6 +10,7 @@ layout: post
 source: http://piecomic.tumblr.com/post/143417363757/my-friend-alex-firer-and-i-are-trying-to-convinced
 tags:
 - pokemon
+- comic
 timestamp: 1461675495
 title: "Pok\xE9 Fancy"
 type: image

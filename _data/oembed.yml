@@ -1078,3 +1078,18 @@ urls:
   url: http://owlturd.com/post/143938656934/ancient-fable-image-twitter-facebook-patreon
   version: '1.0'
   width: 540
+- author_name: Yuriy Guts
+  author_url: https://www.youtube.com/channel/UCCgJGlkQTJYQ4zBJ3JdMAZQ
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/1H7JuYqfFAE?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/1H7JuYqfFAE/hqdefault.jpg
+  thumbnail_width: 480
+  title: 'Hello World: A Suite For Visual Studio in C# Minor'
+  type: video
+  url: https://youtu.be/1H7JuYqfFAE
+  version: '1.0'
+  width: 480

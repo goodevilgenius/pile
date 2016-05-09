@@ -11,6 +11,7 @@ source: http://maximumble.thebookofbiff.com/2016/04/28/1321-popsicle/
 tags:
 - adulthood
 - popsicle
+- comic
 timestamp: 1461848481
 title: Eating a Popsicle
 type: image
