@@ -3,13 +3,20 @@ layout: default
 ---
 
 <div class="posts">
+  {% assign current = "false" %}
   {% for post in paginator.posts %}
+    {% capture next %}{{ post.date|date: "%Y-%m-%d" }}{% endcapture %}
+    {% if next != current %}{% capture current %}{{ next }}{% endcapture %}<header><h1>
+	  <a href="{{ site.baseurl }}/{{ post.date|date: "%Y" }}/{{ post.date|date: "%m" }}/">{{ post.date|date: "%B" }}</a>
+	  <a href="{{ site.baseurl }}/{{ post.date|date: "%Y"}}/{{ post.date|date: "%m" }}/{{ post.date|date: "%d" }}/">{{ post.date|date: "%e" }}</a>,
+	  <a href="{{ site.baseurl }}/{{ post.date|date: "%Y" }}/">{{ post.date|date: "%Y" }}</a>
+    </h1></header>{% endif %}
     <article class="post post-{{ post.type }}">
-
-	  {% if post.type != "quote" %}{% if post.type != "status" %}
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-	  {% endif %}{% endif %}
-
+	  <header>
+		{% if post.type != "quote" %}{% if post.type != "status" %}
+		<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+		{% endif %}{% endif %}
+	  </header>
       <div class="entry entry-{{ post.type }}">
 		{% if (post.type == "quote") or (post.type == "status") %}
 		{{ post.content }}
