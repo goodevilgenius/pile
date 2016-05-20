@@ -5,6 +5,7 @@ providers:
     - http://*tumblr.com/post*
     - https://*tumblr.com/post*
     - http://owlturd.com/post*
+    - http://howtodoeverything.org/post*
     url: https://www.tumblr.com/oembed/1.0
   provider_name: Tumblr
   provider_url: https://www.tumblr.com/
