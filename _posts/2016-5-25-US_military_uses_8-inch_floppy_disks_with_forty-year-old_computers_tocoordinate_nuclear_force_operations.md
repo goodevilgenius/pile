@@ -1,7 +1,7 @@
 ---
 date: 2016-05-25 22:55:00-05:00
 layout: post
-link_url: http://ift.tt/1saAmuN
+link_url: http://www.cnbc.com/2016/05/25/us-military-uses-8-inch-floppy-disks-to-coordinate-nuclear-force-operations.html
 tags:
 - technology
 text: Is this real life?
