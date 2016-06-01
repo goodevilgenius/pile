@@ -319,6 +319,14 @@ nav {
 		    content: url($icon);
 	    }
 	}
+
+	.nav {
+		display: flex;
+
+		& > a {
+			width: 50%;
+		}
+	}
 }
 
 .wrapper-footer {

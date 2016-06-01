@@ -24,6 +24,10 @@ layout: default
 	  <a href="{{ site.baseurl }}/{{ page.date|date: "%Y"}}/{{ page.date|date: "%m" }}/{{ page.date|date: "%d" }}/">{{ page.date|date: "%e" }}</a>,
 	  <a href="{{ site.baseurl }}/{{ page.date|date: "%Y" }}/">{{ page.date|date: "%Y" }}</a>
 	</span>
+	<p class="nav">
+	  {% if page.previous %}<a rel="prev" href="{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>{% endif %}
+	  {% if page.next %}<a rel="next" href="{{ page.next.url }}">{{page.next.title}} &raquo;</a>{% endif %}
+	</p>
   </div>
 
   {% include disqus.html %}
