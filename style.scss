@@ -325,6 +325,13 @@ nav {
 
 		& > a {
 			width: 50%;
+
+			&[rel=next] {
+				text-align: right;
+			}
+			&[rel=prev] {
+				text-align: left;
+			}
 		}
 	}
 }
