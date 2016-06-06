@@ -1,9 +1,5 @@
 ---
 date: 2016-06-01 07:48:10-05:00
-embed_html: '<img src="http://i.imgur.com/c7W6jAF.jpg" alt="" />
-
-
-  <cite>http://theunderfold.com/2016/06/01/reboots-ruining-childhood/</cite>'
 embed_url: http://i.imgur.com/c7W6jAF.jpg
 layout: post
 source: http://theunderfold.com/2016/06/01/reboots-ruining-childhood/

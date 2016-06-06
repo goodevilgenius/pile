@@ -1,9 +1,5 @@
 ---
 date: 2016-05-25 13:58:25-05:00
-embed_html: '<img src="http://i.imgur.com/SMESqHc.jpg" alt="" />
-
-
-  <cite>http://www.lunarbaboon.com/comics/finish.html</cite>'
 embed_url: http://i.imgur.com/SMESqHc.jpg
 layout: post
 source: http://www.lunarbaboon.com/comics/finish.html

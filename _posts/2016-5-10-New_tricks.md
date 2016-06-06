@@ -1,9 +1,5 @@
 ---
 date: 2016-05-10 07:46:30-05:00
-embed_html: '<img src="http://i.imgur.com/tAqNPTl.jpg" alt="" />
-
-
-  <cite>http://invisiblebread.com/2016/05/wendell-2/</cite>'
 embed_url: http://i.imgur.com/tAqNPTl.jpg
 layout: post
 source: http://invisiblebread.com/2016/05/wendell-2/

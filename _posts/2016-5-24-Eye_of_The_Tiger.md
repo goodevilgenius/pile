@@ -1,6 +1,5 @@
 ---
 date: 2016-05-24 09:38:08-05:00
-embed_html: <img src="https://i.imgur.com/dtpfNJJ.jpg" alt="" />
 embed_url: https://i.imgur.com/dtpfNJJ.jpg
 layout: post
 tags:

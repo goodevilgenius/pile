@@ -1152,3 +1152,33 @@ urls:
   url: http://upandoutcomic.tumblr.com/post/144974333196/date-night-buy-my-book-patreon-facebook
   version: '1.0'
   width: 540
+- author_name: LastWeekTonight
+  author_url: https://www.youtube.com/user/LastWeekTonight
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/hxUAntt1z2c?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/hxUAntt1z2c/hqdefault.jpg
+  thumbnail_width: 480
+  title: 'Last Week Tonight with John Oliver: Debt Buyers (HBO)'
+  type: video
+  url: http://www.youtube.com/watch?v=hxUAntt1z2c
+  version: '1.0'
+  width: 480
+- author_name: Burger Fiction
+  author_url: https://www.youtube.com/channel/UCXZQA0vdUY4ZRzEZ5TFKdNA
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/tIMI97aI5qw?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/tIMI97aI5qw/hqdefault.jpg
+  thumbnail_width: 480
+  title: This Supercut Will Make You Cry
+  type: video
+  url: https://youtu.be/tIMI97aI5qw
+  version: '1.0'
+  width: 480

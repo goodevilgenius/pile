@@ -1,6 +1,5 @@
 ---
 date: 2016-05-09 09:08:15-05:00
-embed_html: <img src="http://i.imgur.com/fOlfMyy.jpg" alt="" />
 embed_url: http://i.imgur.com/fOlfMyy.jpg
 layout: post
 tags:

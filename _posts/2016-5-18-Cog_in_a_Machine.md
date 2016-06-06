@@ -1,9 +1,5 @@
 ---
 date: 2016-05-18 17:06:35-05:00
-embed_html: '<img src="http://i.imgur.com/RBcfkgr.jpg" alt="" />
-
-
-  <cite>http://piecomic.tumblr.com/post/144567830833</cite>'
 embed_url: http://i.imgur.com/RBcfkgr.jpg
 layout: post
 source: http://piecomic.tumblr.com/post/144567830833
