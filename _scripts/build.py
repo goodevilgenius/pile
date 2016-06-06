@@ -34,6 +34,7 @@ for e in entries['pile']:
             if e['type'] in ["link", "quote"]: e['link_url'] = e.pop("url")
             else: e["embed_url"] = e.pop("url")
 
+    embed_html = None
     if "embed_url" in e and e["type"] not in ["image","picture"]:
         embeds = [ o for o in oembed['urls'] if o['url'] == e["embed_url"] ]
         if len(embeds) == 0:
@@ -52,10 +53,10 @@ for e in entries['pile']:
                     embed = None
                 embeds = [ embed ]
         if embeds[0] is not None:
-            e["embed_html"] = embeds[0]['html']
+            embed_html = embeds[0]['html']
     elif "embed_url" in e and e["type"] in ["image","picture"]:
-        e["embed_html"] = '<img src="%s" alt="" />' % e["embed_url"]
-        if "source" in e: e["embed_html"] += '\n\n<cite>%s</cite>' % e["source"]
+        embed_html = '<img src="%s" alt="" />' % e["embed_url"]
+        if "source" in e: embed_html += '\n\n<cite>%s</cite>' % e["source"]
 
     slug = ''.join(c for c in e['title'].replace(' ','_') if c in ("-_.%s%s" % (string.ascii_letters, string.digits)))
     filename = "%s-%s-%s-%s.md" % (e['date'].year, e['date'].month, e['date'].day, slug)
@@ -64,8 +65,8 @@ for e in entries['pile']:
     fp.write('---\n')
     yaml.safe_dump(e, fp, encoding='utf-8', default_flow_style=False)
     fp.write('\n---\n')
-    if "embed_html" in e:
-        fp.write(e['embed_html'])
+    if embed_html is not None:
+        fp.write(embed_html)
         fp.write('\n\n')
     cont = ""
     if "text" in e and e['text'] is not None:
