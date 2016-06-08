@@ -1182,3 +1182,18 @@ urls:
   url: https://youtu.be/tIMI97aI5qw
   version: '1.0'
   width: 480
+- author_name: American Ninja Warrior
+  author_url: https://www.youtube.com/user/AmericanNinjaWarrior
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/OD4oBI9WkPk?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/OD4oBI9WkPk/hqdefault.jpg
+  thumbnail_width: 480
+  title: Jessie Graff at the 2016 Los Angeles Qualifiers | American Ninja Warrior
+  type: video
+  url: https://youtu.be/OD4oBI9WkPk
+  version: '1.0'
+  width: 480
