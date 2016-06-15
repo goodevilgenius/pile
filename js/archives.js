@@ -7,6 +7,7 @@ rand.setAttribute('rel','random');
 rand.setAttribute('href', '#');
 rand.className = 'post-random';
 var img = document.createElement('img');
+img.className = "icon";
 rand.appendChild(img);
 
 head.appendChild(rand);

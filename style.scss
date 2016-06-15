@@ -311,7 +311,7 @@ nav {
 }
 
 @each $name, $icon in $icons {
-	.post-#{$name} img {
+	.post-#{$name} img.icon {
 		content: url($icon);
 		height: 1em;
 		width: 1em;
@@ -319,7 +319,7 @@ nav {
 }
 
 .meta {
-	.post-type img {
+	.post-type img.icon {
 		height: 1em;
 		width: 1em;
 	}

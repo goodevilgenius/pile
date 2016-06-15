@@ -18,7 +18,7 @@ layout: default
 	{% for tag in page.tags %}<a href="{{ site.baseurl }}/tag/{{ tag|uri_escape }}">{{ tag }}</a> {% endfor %}
   </div>{% endif %}
   <div class="meta">
-	<span class="post-type post-{{ page.type }}"><a href="{{ site.baseurl }}/type/{{ page.type|uri_escape }}/"><img src="" /></a></span>
+	<span class="post-type post-{{ page.type }}"><a href="{{ site.baseurl }}/type/{{ page.type|uri_escape }}/"><img class="icon" src="" /></a></span>
 	<span class="date">
       Written on <a href="{{ site.baseurl }}/{{ page.date|date: "%Y" }}/{{ page.date|date: "%m" }}/">{{ page.date|date: "%B" }}</a>
 	  <a href="{{ site.baseurl }}/{{ page.date|date: "%Y"}}/{{ page.date|date: "%m" }}/{{ page.date|date: "%d" }}/">{{ page.date|date: "%e" }}</a>,
