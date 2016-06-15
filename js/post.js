@@ -11,13 +11,13 @@ rand.textContent = "Random";
 nav.insertBefore(rand,next);
 
 nav.addEventListener("click", function() {
-	var script = document.createElement('script');
-	script.setAttribute('src', {{site.baseurl|append:'/js/posts.js'|jsonify}});
-	
 	var loadNewPage = function() {
 		var pn = Math.floor(Math.random() * window.posts.length);
 		window.location = window.posts[pn].url;
 	};
+
+	var script = document.createElement('script');
+	script.setAttribute('src', {{site.baseurl|append:'/js/posts.js'|jsonify}});
 	script.addEventListener("readystatechange", loadNewPage);
 	script.addEventListener("load", loadNewPage);
 	
