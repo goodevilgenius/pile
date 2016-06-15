@@ -10,7 +10,7 @@ rand.textContent = "Random";
 
 nav.insertBefore(rand,next);
 
-nav.addEventListener("click", function() {
+rand.addEventListener("click", function() {
 	var loadNewPage = function() {
 		var pn = Math.floor(Math.random() * window.posts.length);
 		window.location = window.posts[pn].url;
