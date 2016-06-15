@@ -2,7 +2,14 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
+<h1 class="archive-{{page.archive}}"
+	data-archive="{{page.archive}}"
+	data-archive-year-month-day="{{page.year-month-day}}"
+	data-archive-year-month="{{page.year-month}}"
+	data-archive-year="{{page.year}}"
+	data-archive-tag="{{page.tag}}"
+	data-archive-type="{{page.type}}"
+	>{{ page.title }}</h1>
 
 <div class="posts archive"><ul>
   {% for post in site.posts %}
@@ -19,3 +26,4 @@ layout: default
   <li>{{ post.date | date:"%b %d" }} <a href="{{ site.baseurl }}{{ post.url }}" class="post-{{ post.type }}{% if post.type == "image" %} hoverZoomLink{% endif %}"{% if post.type == "image" %} data-hover-zoom-caption="{{ post.title|xml_escape}}" data-hover-zoom-src='["{{ post.embed_url }}"]'{% endif %}>{{ post.title }}</a></li>
   {% endfor %}
 </ul></div>
+<script type="text/javascript" src="{{site.baseurl}}/js/archive-type.js"></script>
