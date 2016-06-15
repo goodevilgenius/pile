@@ -3,7 +3,7 @@ date: 2016-04-19 14:38:27-05:00
 embed_url: https://www.youtube.com/watch?v=88KywfbzmvA
 layout: post
 tags:
-- comedy
+- humor
 - sketch
 - animated
 text: I really need to start carrying around a blowhorn.

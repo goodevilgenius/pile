@@ -6,7 +6,7 @@ layout: post
 tags:
 - music
 - parody
-- comedy
+- humor
 - missionary work
 timestamp: 1460385782
 title: "\xABHello\xBB Mormon Mission Parody"
