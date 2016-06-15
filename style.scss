@@ -16,6 +16,7 @@ $icons: (
 	video: "{{ site.baseurl }}/images/svg/videocam.svg",
 	embed: "{{ site.baseurl }}/images/svg/featured_video.svg",
 	status: "{{ site.baseurl }}/images/svg/create.svg",
+	random: "{{ site.baseurl }}/images/svg/shuffle.svg"
 );
 
 // Syntax highlighting @import is at the bottom of this file
@@ -309,15 +310,18 @@ nav {
 	}
 }
 
+@each $name, $icon in $icons {
+	.post-#{$name} img {
+		content: url($icon);
+		height: 1em;
+		width: 1em;
+	}
+}
+
 .meta {
 	.post-type img {
 		height: 1em;
 		width: 1em;
-	}
-	@each $name, $icon in $icons {
-		.post-#{$name} img {
-		    content: url($icon);
-	    }
 	}
 
 	.nav {
