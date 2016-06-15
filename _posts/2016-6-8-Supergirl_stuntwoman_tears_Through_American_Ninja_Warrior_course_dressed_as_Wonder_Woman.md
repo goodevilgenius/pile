@@ -7,7 +7,7 @@ tags:
 timestamp: 1465394673
 title: '"Supergirl" stuntwoman tears Through "American Ninja Warrior" course dressed
   as Wonder Woman'
-type: vide
+type: video
 
 ---
 <iframe width="480" height="270" src="https://www.youtube.com/embed/OD4oBI9WkPk?feature=oembed" frameborder="0" allowfullscreen></iframe>
