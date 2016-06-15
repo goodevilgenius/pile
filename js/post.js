@@ -6,7 +6,9 @@ var next = nav.querySelector('[rel=next]');
 var rand = document.createElement('a');
 rand.setAttribute('rel','random');
 rand.setAttribute('href', '#');
-rand.textContent = "Random";
+rand.className = 'post-random';
+var img = document.createElement('img');
+rand.appendChild(img);
 
 nav.insertBefore(rand,next);
 
