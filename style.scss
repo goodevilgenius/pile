@@ -332,6 +332,10 @@ nav {
 			&[rel=prev] {
 				text-align: left;
 			}
+
+			&[rel=random] {
+				text-align: center;
+			}
 		}
 	}
 }
