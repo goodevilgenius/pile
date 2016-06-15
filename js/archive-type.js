@@ -11,7 +11,7 @@ var img = document.createElement('img');
 img.className = "icon";
 rand.appendChild(img);
 
-if (type == "tag" || type == "type") head.appendChild(rand);
+head.appendChild(rand);
 
 rand.addEventListener("click", function() {
 	var loadNewPage = function() {
@@ -23,6 +23,17 @@ rand.addEventListener("click", function() {
 			case "type":
 				return p.type == head.dataset.archiveType;
 				break;
+			case "day":
+				var d = new Date(p.date);
+				var ymd = "" + d.getFullYear() + (d.getMonth() < 9 ? "-0" : "-") + (d.getMonth()+1) + (d.getDate() < 10 ? "-0" : "-") + d.getDate();
+				return ymd == head.dataset.archiveYearMonthDay;
+			case "month":
+				var d = new Date(p.date);
+				var ym = "" + d.getFullYear() + (d.getMonth() < 9 ? "-0" : "-") + (d.getMonth()+1);
+				return ym == head.dataset.archiveYearMonth;
+			case "year":
+				var d = new Date(p.date);
+				return d.getFullYear() == head.dataset.archiveYear;
 			default:
 				return false;
 			}
