@@ -49,7 +49,7 @@ for e in entries['pile']:
                     fp = open(oembed_file,'w')
                     yaml.safe_dump(oembed, fp, encoding='utf-8', canonical=False, default_flow_style=False)
                     fp.close()
-                except Error:
+                except ValueError:
                     embed = None
                 embeds = [ embed ]
         if embeds[0] is not None:
