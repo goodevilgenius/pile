@@ -1227,3 +1227,48 @@ urls:
   url: https://www.youtube.com/watch?v=JFpE6moREGY
   version: '1.0'
   width: 480
+- author_name: CGP Grey
+  author_url: https://www.youtube.com/user/CGPGrey
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/nQHBAdShgYI?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/nQHBAdShgYI/hqdefault.jpg
+  thumbnail_width: 480
+  title: The Trouble with Transporters
+  type: video
+  url: https://www.youtube.com/watch?v=nQHBAdShgYI
+  version: '1.0'
+  width: 480
+- author_name: Fine Brothers Entertainment
+  author_url: https://www.youtube.com/user/TheFineBros
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/8ucCxtgN6sc?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/8ucCxtgN6sc/hqdefault.jpg
+  thumbnail_width: 480
+  title: TEENS REACT TO WINDOWS 95
+  type: video
+  url: https://www.youtube.com/watch?v=8ucCxtgN6sc
+  version: '1.0'
+  width: 480
+- author_name: CollegeHumor
+  author_url: https://www.youtube.com/user/collegehumor
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/daxHBre2a5A?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/daxHBre2a5A/hqdefault.jpg
+  thumbnail_width: 480
+  title: Angela Merkel Rap! (HAMILTON Parody)
+  type: video
+  url: https://www.youtube.com/watch?v=daxHBre2a5A
+  version: '1.0'
+  width: 480
