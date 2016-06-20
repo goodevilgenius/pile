@@ -67,7 +67,7 @@ providers:
     - http://www.hulu.com/api/oembed.xml?url=http%3A%2F%2Fwww.hulu.com%2Fwatch%2F20807%2Flate-night-with-conan-obrien-wed-may-21-2008
     schemes:
     - http://www.hulu.com/watch/*
-    url: http://www.hulu.com/api/oembed.{format}
+    url: http://www.hulu.com/api/oembed.json
   provider_name: Hulu
   provider_url: http://www.hulu.com/
 - endpoints:
@@ -80,7 +80,7 @@ providers:
     - http://vimeo.com/groups/*/videos/*
     - https://vimeo.com/*
     - https://vimeo.com/groups/*/videos/*
-    url: http://vimeo.com/api/oembed.{format}
+    url: http://vimeo.com/api/oembed.json
   provider_name: Vimeo
   provider_url: http://vimeo.com/
 - endpoints:
@@ -89,7 +89,7 @@ providers:
     - http://www.collegehumor.com/oembed.xml?url=http%3A%2F%2Fwww.collegehumor.com%2Fvideo%2F3922232%2Fprank-war-7-the-half-million-dollar-shot
     schemes:
     - http://www.collegehumor.com/video/*
-    url: http://www.collegehumor.com/oembed.{format}
+    url: http://www.collegehumor.com/oembed.json
   provider_name: CollegeHumor
   provider_url: http://www.collegehumor.com/
 - endpoints:
@@ -174,7 +174,7 @@ providers:
     - http://chirb.it/oembed.json?url=http%3A%2F%2Fchirb.it%2FOBnAr1
     schemes:
     - http://chirb.it/*
-    url: http://chirb.it/oembed.{format}
+    url: http://chirb.it/oembed.json
   provider_name: chirbit.com
   provider_url: http://www.chirbit.com/
 - endpoints:
@@ -247,7 +247,7 @@ providers:
     - http://www.screenr.com/api/oembed.xml?url=http%3A%2F%2Fscreenr.com%2F3jns
     schemes:
     - http://www.screenr.com/*/
-    url: http://www.screenr.com/api/oembed.{format}
+    url: http://www.screenr.com/api/oembed.json
   provider_name: Screenr
   provider_url: http://www.screenr.com/
 - endpoints:
@@ -255,7 +255,7 @@ providers:
     - http://www.funnyordie.com/oembed.xml?url=http%3A%2F%2Fwww.funnyordie.com%2Fvideos%2Fa7311134ac%2Fpatton-oswalt-in-heavy-metal
     schemes:
     - http://www.funnyordie.com/videos/*
-    url: http://www.funnyordie.com/oembed.{format}
+    url: http://www.funnyordie.com/oembed.json
   provider_name: FunnyOrDie
   provider_url: http://www.funnyordie.com/
 - endpoints:
@@ -274,7 +274,7 @@ providers:
     - http://www.ted.com/talks/oembed.xml?url=http%3A%2F%2Fwww.ted.com%2Ftalks%2Fjill_bolte_taylor_s_powerful_stroke_of_insight.html
     schemes:
     - http://ted.com/talks/*
-    url: http://www.ted.com/talks/oembed.{format}
+    url: http://www.ted.com/talks/oembed.json
   provider_name: Ted
   provider_url: http://ted.com
 - endpoints:
@@ -283,7 +283,7 @@ providers:
     schemes:
     - http://www.videojug.com/film/*
     - http://www.videojug.com/interview/*
-    url: http://www.videojug.com/oembed.{format}
+    url: http://www.videojug.com/oembed.json
   provider_name: VideoJug
   provider_url: http://www.videojug.com
 - endpoints:
@@ -301,7 +301,7 @@ providers:
     schemes:
     - http://official.fm/tracks/*
     - http://official.fm/playlists/*
-    url: http://official.fm/services/oembed.{format}
+    url: http://official.fm/services/oembed.json
   provider_name: Official FM
   provider_url: http://official.fm
 - endpoints:
@@ -344,7 +344,7 @@ providers:
     - http://cacoo.com/oembed.xml?url=http%3A%2F%2Fcacoo.com%2Fdiagrams%2Fm9uZtizE5I2GkFR6
     schemes:
     - https://cacoo.com/diagrams/*
-    url: http://cacoo.com/oembed.{format}
+    url: http://cacoo.com/oembed.json
   provider_name: Cacoo
   provider_url: https://cacoo.com
 - endpoints:
@@ -361,7 +361,7 @@ providers:
     schemes:
     - http://roomshare.jp/post/*
     - http://roomshare.jp/en/post/*
-    url: http://roomshare.jp/en/oembed.{format}
+    url: http://roomshare.jp/en/oembed.json
   provider_name: Roomshare
   provider_url: http://roomshare.jp
 - endpoints:
@@ -379,7 +379,7 @@ providers:
     - http://crowdranking.com/api/oembed.xml?url=http%3A%2F%2Fcrowdranking.com%2Frankings%2Ft470g0--best-tea
     schemes:
     - http://crowdranking.com/*/*
-    url: http://crowdranking.com/api/oembed.{format}
+    url: http://crowdranking.com/api/oembed.json
   provider_name: Crowd Ranking
   provider_url: http://crowdranking.com
 - endpoints:
@@ -461,7 +461,7 @@ providers:
     schemes:
     - http://coub.com/view/*
     - http://coub.com/embed/*
-    url: http://coub.com/api/oembed.{format}
+    url: http://coub.com/api/oembed.json
   provider_name: Coub
   provider_url: http://coub.com/
 - endpoints:
@@ -618,7 +618,7 @@ providers:
   - discovery: true
     example_urls:
     - https://www.ora.tv/oembed/0_6e6tvou17xau?format=json
-    url: https://www.ora.tv/oembed/*?format={format}
+    url: https://www.ora.tv/oembed/
   provider_name: Ora TV
   provider_url: http://www.ora.tv/
 - endpoints:
@@ -1282,7 +1282,7 @@ urls:
   thumbnail_height: 360
   thumbnail_url: https://i.ytimg.com/vi/zhN5c1ucRNk/hqdefault.jpg
   thumbnail_width: 480
-  title: The Oxford comma's unlikely origin
+  title: "The Oxford comma's unlikely origin"
   type: video
   url: https://www.youtube.com/watch?v=zhN5c1ucRNk
   version: '1.0'
