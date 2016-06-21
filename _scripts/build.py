@@ -54,6 +54,10 @@ for e in entries['pile']:
                 embeds = [ embed ]
         if embeds[0] is not None:
             embed_html = embeds[0]['html']
+        else:
+            # If we failed to get an embed, let's just link it
+            e['link_url'] = e.pop("embed_url")
+            e['type'] = "link"
     elif "embed_url" in e and e["type"] in ["image","picture"]:
         embed_html = '<img src="%s" alt="" />' % e["embed_url"]
         if "source" in e: embed_html += '\n\n<cite>%s</cite>' % e["source"]
