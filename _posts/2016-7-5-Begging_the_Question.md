@@ -1,0 +1,18 @@
+---
+date: 2016-07-05 16:36:08-05:00
+embed_url: http://i.imgur.com/osexIva.png
+layout: post
+source: http://wondermark.com/c1234/
+tags:
+- comic
+- humor
+- language
+timestamp: 1467754568
+title: Begging the Question
+type: image
+
+---
+<img src="http://i.imgur.com/osexIva.png" alt="" />
+
+<cite>http://wondermark.com/c1234/</cite>
+
