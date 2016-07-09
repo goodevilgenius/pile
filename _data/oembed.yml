@@ -1302,3 +1302,18 @@ urls:
   url: http://www.youtube.com/watch?v=e-ZpsxnmmbE
   version: '1.0'
   width: 480
+- author_name: HOT 97
+  author_url: https://www.youtube.com/user/HOT97NY
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/lBoK_73NMJs?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/lBoK_73NMJs/hqdefault.jpg
+  thumbnail_width: 480
+  title: Rosenberg Loses It On Police Officer Over Alton Sterling Killing
+  type: video
+  url: https://youtu.be/lBoK_73NMJs
+  version: '1.0'
+  width: 480
