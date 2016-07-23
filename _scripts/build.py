@@ -52,6 +52,8 @@ for e in entries['pile']:
                 except ValueError:
                     embed = None
                 embeds = [ embed ]
+            else:
+                embeds = [ None ]
         if embeds[0] is not None:
             embed_html = embeds[0]['html']
         else:
