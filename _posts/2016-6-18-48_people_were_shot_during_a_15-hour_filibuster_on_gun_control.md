@@ -1,7 +1,7 @@
 ---
 date: 2016-06-18 09:49:00-05:00
 layout: post
-link_url: http://ift.tt/21oZ8D0
+link_url: http://www.vox.com/2016/6/16/11952166/filibuster-gun-control-shootings
 tags:
 - politics
 - gun control
