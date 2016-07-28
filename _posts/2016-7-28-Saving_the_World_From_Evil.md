@@ -5,7 +5,7 @@ link_url: https://play.google.com/music/r/m/Ln3m76jyqdqmcarhc3vneyywbeu?t=Saving
 tags:
 - music
 - working
-- coding
+- programming
 text: I just discovered this station on ~~Songza~~ Google Play Music. I was looking
   for some good background music for while I work, and noticed a collection of stations
   called "Coding Your Face Off". It consists of three stations full of action film
