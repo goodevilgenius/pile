@@ -1317,3 +1317,18 @@ urls:
   url: https://youtu.be/lBoK_73NMJs
   version: '1.0'
   width: 480
+- author_name: Smosh Games
+  author_url: https://www.youtube.com/user/SmoshGames
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/oD-KCkpcsvA?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/oD-KCkpcsvA/hqdefault.jpg
+  thumbnail_width: 480
+  title: POKEMON GO (Honest Game Trailers)
+  type: video
+  url: https://youtu.be/oD-KCkpcsvA
+  version: '1.0'
+  width: 480
