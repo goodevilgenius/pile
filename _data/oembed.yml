@@ -1332,3 +1332,18 @@ urls:
   url: https://youtu.be/oD-KCkpcsvA
   version: '1.0'
   width: 480
+- author_name: Dorkly
+  author_url: https://www.youtube.com/user/dorkly
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/WxO8NmDPBZo?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/WxO8NmDPBZo/hqdefault.jpg
+  thumbnail_width: 480
+  title: Mario vs. Green Hill Zone
+  type: video
+  url: https://youtu.be/WxO8NmDPBZo
+  version: '1.0'
+  width: 480
