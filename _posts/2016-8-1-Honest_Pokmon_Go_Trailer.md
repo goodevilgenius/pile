@@ -4,6 +4,7 @@ embed_url: https://youtu.be/oD-KCkpcsvA
 layout: post
 tags:
 - gaming
+- humor
 timestamp: 1470083567
 title: "Honest Pok\xE9mon Go Trailer"
 type: video
