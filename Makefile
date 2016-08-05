@@ -10,5 +10,5 @@ stage: build
 
 deploy: build
 	git add -A _posts _data archives
-	git commit -m "Build for `date`"
+	git commit -m "[Add] `date`: `fortune -s | tr \\n ' ' | sed -r 's/[[:blank:]]+/ /g'`"
 	git push github gh-pages
