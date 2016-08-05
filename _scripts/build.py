@@ -64,6 +64,18 @@ for e in entries['pile']:
         embed_html = '<img src="%s" alt="" />' % e["embed_url"]
         if "source" in e: embed_html += '\n\n<cite>%s</cite>' % e["source"]
 
+    cont = ""
+    if "text" in e and e['text'] is not None:
+        cont = e.pop('text')
+    elif "note" in e and e['note'] is not None:
+        cont = e.pop('note')
+    elif "notes" in e and e['notes'] is not None:
+        cont = e.pop('notes')
+    if e["type"] == "quote":
+        cont = re.sub('^','> ', cont.strip(), flags=re.M)
+        cont += '\n> \n'
+        cont += '> <cite>%s</cite>' % e['source'] if "source" in e else "Unknown"
+
     slug = ''.join(c for c in e['title'].replace(' ','_') if c in ("-_.%s%s" % (string.ascii_letters, string.digits)))
     filename = "%s-%s-%s-%s.md" % (e['date'].year, e['date'].month, e['date'].day, slug)
     newfile = os.path.join('_posts', filename)
@@ -74,17 +86,6 @@ for e in entries['pile']:
     if embed_html is not None:
         fp.write(embed_html)
         fp.write('\n\n')
-    cont = ""
-    if "text" in e and e['text'] is not None:
-        cont = e['text']
-    elif "note" in e and e['note'] is not None:
-        cont = e['note']
-    elif "notes" in e and e['notes'] is not None:
-        cont = e['notes']
-    if e["type"] == "quote":
-        cont = re.sub('^','> ', cont.strip(), flags=re.M)
-        cont += '\n> \n'
-        cont += '> <cite>%s</cite>' % e['source'] if "source" in e else "Unknown"
     fp.write(cont)
     fp.close()
 
