@@ -3,20 +3,20 @@
 import yaml, string, os, codecs, urllib, json, fnmatch, re
 
 try:
-    import droplogger
+    import droplogger.droplogger as dl
 except ImportError:
     # Just until I'm able to make droplogger installable
     import sys
-    sys.path.append('/home/drj/MyFiles/Programming/Python/droplogger')
-    import droplogger
+    sys.path.append('/home/drj/MyFiles/Programming/Python')
+    import droplogger.droplogger as dl
 
-config = droplogger.read_config()
+config = dl.read_config()
 config['white'] = ["pile"]
-config['start'] = droplogger.parse_date('min')
-config['end'] = droplogger.parse_date('now')
+config['start'] = dl.parse_date('min')
+config['end'] = dl.parse_date('now')
 
-config['files'] = droplogger.get_files(**config)
-entries = droplogger.read_files(**config)
+config['files'] = dl.get_files(**config)
+entries = dl.read_files(**config)
 
 oembed_file = '_data/oembed.yml'
 
