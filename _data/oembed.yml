@@ -1347,3 +1347,33 @@ urls:
   url: https://youtu.be/WxO8NmDPBZo
   version: '1.0'
   width: 480
+- author_name: IKEA
+  author_url: https://www.youtube.com/user/IKEA
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/2BXRGzjo1_Q?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/2BXRGzjo1_Q/hqdefault.jpg
+  thumbnail_width: 480
+  title: IKEA - Let's Relax
+  type: video
+  url: https://youtu.be/2BXRGzjo1_Q
+  version: '1.0'
+  width: 480
+- author_name: AVbyte
+  author_url: https://www.youtube.com/user/AVbyte
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/DlwXYY9Ncu4?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/DlwXYY9Ncu4/hqdefault.jpg
+  thumbnail_width: 480
+  title: EMOJIS - The Musical
+  type: video
+  url: https://youtu.be/DlwXYY9Ncu4
+  version: '1.0'
+  width: 480
