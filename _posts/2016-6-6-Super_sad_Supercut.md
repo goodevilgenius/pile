@@ -4,8 +4,6 @@ embed_url: https://youtu.be/tIMI97aI5qw
 layout: post
 tags:
 - film
-text: If this supercut of sad film scenes doesn' make you tear up, you must not have
-  a heart.
 timestamp: 1465250528
 title: Super sad Supercut
 type: video

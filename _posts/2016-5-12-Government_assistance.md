@@ -5,8 +5,6 @@ source: Ronald Reagan
 tags:
 - government
 - welfare
-text: The nine most terrifying words in the English language are, 'I'm from the government
-  and I'm here to help.'
 timestamp: 1463057827
 title: Government assistance
 type: quote

@@ -7,7 +7,6 @@ tags:
 - evolution
 - humor
 - comic
-text: Evolution is strange
 timestamp: 1460903400
 title: Chicken or the egg
 type: image

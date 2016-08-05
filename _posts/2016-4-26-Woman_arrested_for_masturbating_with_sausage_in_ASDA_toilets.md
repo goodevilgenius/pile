@@ -6,11 +6,6 @@ tags:
 - masturbation
 - theft
 - England
-text: "> A woman was seen on CCTV camera\u2019s stealing pork sausages from the\n\
-  discount food section in Liverpool Asda.\n>\n> Shoppers then seen her running into\
-  \ the women\u2019s toilets where she stayed\nfor at least 20 minutes. The security\
-  \ staff decided to investigate and as\nthey entered the toilets and were shocked\
-  \ to discover the woman was\npleasuring herself with the pork sausages."
 timestamp: 1461731640
 title: Woman arrested for masturbating with sausage in ASDA toilets
 type: link

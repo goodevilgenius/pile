@@ -5,8 +5,6 @@ source: Charles Wadsworth
 tags:
 - fatherhood
 - life
-text: By the time a man realizes that maybe his father was right, he usually has a
-  son who thinks he's wrong.
 timestamp: 1467723094
 title: Quote by Charles Wadsworth
 type: quote

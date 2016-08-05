@@ -5,7 +5,6 @@ tags:
 - pile
 - development
 - programming
-text: I'm going to try something new and see how it works
 timestamp: 1460305288
 title: First post
 type: text

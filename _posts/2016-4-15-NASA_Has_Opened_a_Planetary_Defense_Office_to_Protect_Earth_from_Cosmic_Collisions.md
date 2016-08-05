@@ -8,8 +8,6 @@ tags:
 - planetary defense
 - asteroids
 - astronomy
-text: '> On Monday, the space agency opened the Planetary Defense Coordination Office
-  to study how to detect and stop big asteroids and meteors from hitting Earth.'
 timestamp: 1460756448
 title: NASA Has Opened a Planetary Defense Office to Protect Earth from Cosmic Collisions
 type: link

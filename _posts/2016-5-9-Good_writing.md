@@ -4,7 +4,6 @@ layout: post
 source: William Taft
 tags:
 - writing
-text: Don't write so that you can be understood; write so that you can't be misunderstood
 timestamp: 1462797759
 title: Good writing
 type: quote

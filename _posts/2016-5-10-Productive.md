@@ -7,7 +7,6 @@ tags:
 - comic
 - productivity
 - perspective
-text: It's all about perspective
 timestamp: 1462884174
 title: Productive
 type: image

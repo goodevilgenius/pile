@@ -6,7 +6,6 @@ tags:
 - humor
 - sketch
 - animated
-text: I really need to start carrying around a blowhorn.
 timestamp: 1461094707
 title: If People Acted Like They Do in Cars
 type: video

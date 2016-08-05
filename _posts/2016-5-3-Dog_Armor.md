@@ -6,7 +6,6 @@ tags:
 - shopping
 - cosplay
 - dogs
-text: '> Your ~~canine~~ ca-knight in shining armor has arrived!'
 timestamp: 1462300727
 title: Dog Armor
 type: link

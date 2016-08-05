@@ -5,14 +5,6 @@ link_url: http://www.independent.co.uk/news/uk/london-underground-blame-too-much
 tags:
 - transportation
 - London
-text: '> London Underground has said "excess sunlight" is causing delays for the Tube
-  network.
-
-  >
-
-  > Bright sunshine beaming onto CCTV monitors, which are used to give a clear view
-  of the platform before pulling away, is blocking drivers'' line of sight, according
-  to staff.'
 timestamp: 1463782003
 title: '''Too much sunshine'' to blame for Tube delays'
 type: link

@@ -6,10 +6,6 @@ tags:
 - film
 - entertainment
 - Star Trek
-text: "> Unfortunately, it\u2019s a twisting of\nGene\u2019s creation, to which he\
-  \ put in so much thought. I think it\u2019s really\nunfortunate.\n\nSo, you're telling\
-  \ me that the new *Star Trek* isn't completely true\nto Gene Roddenberry's vision?\n\
-  \nWell, I am shocked."
 timestamp: 1467940740
 title: George Takei Reacts to Gay Sulu News
 type: link

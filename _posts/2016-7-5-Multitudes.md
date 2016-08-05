@@ -5,8 +5,6 @@ source: Walt Whitman
 tags:
 - humanity
 - myself
-text: Do I contradict myself? Very well, then I contradict myself, I am large, I contain
-  multitudes.
 timestamp: 1467754395
 title: Multitudes
 type: quote

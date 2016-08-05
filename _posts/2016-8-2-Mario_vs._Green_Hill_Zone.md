@@ -5,7 +5,6 @@ layout: post
 tags:
 - gaming
 - humor
-text: Clearly Sonic is better
 timestamp: 1470169346
 title: Mario vs. Green Hill Zone
 type: video

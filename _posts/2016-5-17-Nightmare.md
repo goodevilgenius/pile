@@ -7,7 +7,6 @@ tags:
 - work
 - distractions
 - comic
-text: The Horror
 timestamp: 1463488144
 title: Nightmare
 type: image

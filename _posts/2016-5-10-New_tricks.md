@@ -5,7 +5,6 @@ layout: post
 source: http://invisiblebread.com/2016/05/wendell-2/
 tags:
 - comic
-text: I need Wendell
 timestamp: 1462884390
 title: New tricks
 type: image

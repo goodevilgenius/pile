@@ -7,8 +7,6 @@ tags:
 - programming
 - music
 - csharp
-text: In case you ever wanted to program with a musical keyboard, apparently now you
-  can.
 timestamp: 1462817338
 title: Hello World in C# in C# Minor
 type: video

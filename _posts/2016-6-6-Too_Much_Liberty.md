@@ -4,8 +4,6 @@ layout: post
 source: Thomas Jefferson
 tags:
 - freedom
-text: I would rather be exposed to the inconveniences attending too much liberty than
-  to those attending too small a degree of it.
 timestamp: 1465213648
 title: Too Much Liberty
 type: quote

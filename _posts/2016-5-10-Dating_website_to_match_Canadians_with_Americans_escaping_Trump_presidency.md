@@ -5,12 +5,6 @@ link_url: http://www.cp24.com/lifestyle/human-interest/dating-website-to-match-c
 tags:
 - politics
 - dating
-text: '> MapleMatch.com promises love and a U.S. escape plan if Trump becomes commander-in-chief.
-
-  >
-
-  > During the primaries, American Google searches for "move to Canada" hit record
-  numbers.'
 timestamp: 1462912153
 title: Dating website to match Canadians with Americans escaping Trump presidency
 type: link

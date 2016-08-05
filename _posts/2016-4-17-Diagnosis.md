@@ -7,7 +7,6 @@ tags:
 - Canadian
 - humor
 - comic
-text: It's contagios, eh
 timestamp: 1460907000
 title: Diagnosis
 type: image

@@ -5,7 +5,6 @@ source: G. K. Chesterton
 tags:
 - art
 - morality
-text: Art, like morality, consists of drawing the line somewhere.
 timestamp: 1462193810
 title: Drawing the Line
 type: quote

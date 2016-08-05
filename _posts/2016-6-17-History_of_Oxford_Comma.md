@@ -6,7 +6,6 @@ tags:
 - grammar
 - language
 - history
-text: Just do it.
 timestamp: 1466186019
 title: History of Oxford Comma
 type: video

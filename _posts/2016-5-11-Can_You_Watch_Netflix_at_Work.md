@@ -7,7 +7,6 @@ tags:
 - CollegeHumor
 - Netflix
 - productivity
-text: Why Not?
 timestamp: 1462989243
 title: Can You Watch Netflix at Work?
 type: video

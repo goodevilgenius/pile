@@ -6,13 +6,6 @@ tags:
 - Texas
 - tutorial
 - linguistics
-text: "> The most vicious insult in the Texas lexicon (or the Texicon if you will)\
-  \ is to call someone a damn fool. If you use this epithet, you\u2019re not joking.\
-  \ You think the person in question is an idiot. Not just any idiot, but the kind\
-  \ of idiot who should probably be kept in a quiet room with soft walls and nothing\
-  \ but crayons so they can\u2019t hurt themselves or others with their damn fool\
-  \ ways. This phrase is usually accompanied by quite a bit of head shaking in disbelief\
-  \ that anyone could possibly be so stupid."
 timestamp: 1462109474
 title: How to Speak Texan
 type: link

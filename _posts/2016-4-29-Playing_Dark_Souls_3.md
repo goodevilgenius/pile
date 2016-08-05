@@ -7,7 +7,6 @@ tags:
 - adulthood
 - life
 - comic
-text: Far too accurate
 timestamp: 1461954258
 title: Playing Dark Souls 3
 type: image

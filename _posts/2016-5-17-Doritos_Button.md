@@ -6,10 +6,6 @@ tags:
 - food
 - Amazon
 - convenience
-text: '![Doritos Button](http://ecx.images-amazon.com/images/I/61XFBa4bwBL.jpg)
-
-
-  You can now order bags of Doritos from Amazon with the push of a button.'
 timestamp: 1463496212
 title: Doritos Button
 type: link

@@ -6,7 +6,6 @@ tags:
 - abortion
 - news
 - humor
-text: John Oliver explains American abortion laws
 timestamp: 1460652378
 title: 'Last Week Tonight: Abortion Laws'
 type: video

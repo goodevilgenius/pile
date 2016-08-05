@@ -4,8 +4,6 @@ layout: post
 source: Robert Heinlein
 tags:
 - progress
-text: Progress isn't made by early risers. It's made by lazy men trying to find easier
-  ways to do something.
 timestamp: 1462881468
 title: Progress
 type: quote

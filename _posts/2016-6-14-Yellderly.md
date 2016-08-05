@@ -5,7 +5,6 @@ layout: post
 tags:
 - humor
 - commentary
-text: Young People Who Complain Like Old People
 timestamp: 1465924215
 title: Yellderly
 type: video

@@ -4,8 +4,6 @@ layout: post
 source: John Oliver (https://www.youtube.com/watch?v=jYusNNldesc)
 tags:
 - laws
-text: Texas is so loosely regulated, their speed limit is "Let 'Er Rip", and their
-  age of consent is just a drawing of a wink
 timestamp: 1465490820
 title: Texas Regulations
 type: quote

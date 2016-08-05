@@ -7,15 +7,6 @@ tags:
 - religion
 - news
 - commentary
-text: 'My wife and I were talking the other day about this. I feel like Mormons might
-  decide this election. Most of the things that really tend to move Mormons towards
-  the GOP (family values, conservative social issues, etc.) are not things espoused
-  by Trump.
-
-
-  If Trump can''t win over Mormons (and I don''t think he will), he''ll lose Utah,
-  Idaho, and Arizona. And if he loses those three, he''ll likely be unable to win
-  the election.'
 timestamp: 1470414524
 title: "Why Mormons Don\u2019t Like Trump"
 type: link

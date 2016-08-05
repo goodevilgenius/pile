@@ -7,9 +7,6 @@ tags:
 - Apple
 - iPhone
 - iPad
-text: '> Asked by a Twitter member whether he was really telling people that they
-  should say "I have two iPhone phones", rather than "two iPhones", Mr Schiller said
-  that was correct.'
 timestamp: 1462206225
 title: '"iPhone and iPad should never be made plural," Apple head of marketing'
 type: link

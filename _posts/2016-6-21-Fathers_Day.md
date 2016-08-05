@@ -8,7 +8,6 @@ tags:
 - comic
 - humor
 - family
-text: I guess Father's Day can get awkward when you've got two dads.
 timestamp: 1466517624
 title: Father's Day
 type: image

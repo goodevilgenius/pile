@@ -6,9 +6,6 @@ tags:
 - Apple
 - music
 - cloud
-text: "> \"The software is functioning as intended,\" said Amber.\n>\n> \"Wait,\"\
-  \ I asked, \"so it\u2019s supposed to delete my personal files from my internal\
-  \ hard drive without asking my permission?\"\n>\n> \"Yes,\" she replied."
 timestamp: 1462547023
 title: Apple Stole My Music
 type: link

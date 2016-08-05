@@ -7,8 +7,6 @@ tags:
 - eating
 - animals
 - gorillas
-text: "> Each gorilla has its own voice: you can really tell who\u2019s singing.\n\
-  >\n> And if it\u2019s their favorite food, they sing louder."
 timestamp: 1462418520
 title: "Gorillas make up \u2018little food songs\u2019 while they eat"
 type: link

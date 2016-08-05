@@ -4,7 +4,6 @@ layout: post
 source: Thomas A. Edison
 tags:
 - knowledge
-text: We don't know a millionth of one percent about anything.
 timestamp: 1463836612
 title: What we know
 type: quote

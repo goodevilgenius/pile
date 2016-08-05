@@ -7,7 +7,6 @@ tags:
 - comic
 - pokemon
 - humor
-text: Can't wait to try out Traf
 timestamp: 1464012633
 title: "New Pok\xE9mon"
 type: image

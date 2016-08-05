@@ -6,11 +6,6 @@ tags:
 - currency
 - sci-fi
 - Star Trek
-text: "![Star Trek coins](http://nerdist.com/wp-content/uploads/2016/06/Star-Trek-Money.jpg)\n\
-  \n> There may not be money in the United Federation of Planets, but there\u2019\
-  s now legal Star Trek currency in Canada, courtesy of the Royal Canadian Mint.\n\
-  \nI might be inclined to want to get these, if they didn't have the queen on one\
-  \ side."
 timestamp: 1466167531
 title: Star Trek Money is Now Legal Tender in Canada
 type: link

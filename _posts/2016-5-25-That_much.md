@@ -7,7 +7,6 @@ tags:
 - comic
 - humor
 - thrift
-text: Seriously. I'll take my chances.
 timestamp: 1464188720
 title: That much?
 type: image

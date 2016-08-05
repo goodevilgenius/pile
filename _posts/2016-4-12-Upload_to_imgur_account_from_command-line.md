@@ -8,8 +8,6 @@ tags:
 - images
 - imgur
 - bash
-text: I just wrote this script to upload images to an imgur account. A little hack-ish,
-  but it works.
 timestamp: 1460498807
 title: Upload to imgur account from command-line
 type: link

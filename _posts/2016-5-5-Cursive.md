@@ -7,7 +7,6 @@ tags:
 - cursive
 - comic
 - humor
-text: So much
 timestamp: 1462486662
 title: Cursive
 type: image

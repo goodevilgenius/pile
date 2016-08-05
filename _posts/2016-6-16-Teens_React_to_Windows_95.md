@@ -5,7 +5,6 @@ layout: post
 tags:
 - reactions
 - technology
-text: I remember when this was state-of-the-art.
 timestamp: 1466097973
 title: Teens React to Windows 95
 type: video

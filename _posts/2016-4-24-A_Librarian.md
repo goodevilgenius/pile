@@ -7,8 +7,6 @@ tags:
 - books
 - reading
 - librarians
-text: Google can bring you back a hundred thousand answers. A librarian can bring
-  you back the right one.
 timestamp: 1461530120
 title: A Librarian
 type: quote
