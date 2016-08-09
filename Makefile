@@ -3,7 +3,7 @@ export PATH := $(HOME)/bin:$(PATH):/usr/local/bin
 all: deploy
 
 build:
-	python _scripts/build.py
+	python _scripts/pile_driver.py
 
 stage: build
 	bundle exec jekyll build -c '_config.yml,_config.local.yml'
