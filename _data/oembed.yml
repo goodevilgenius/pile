@@ -1377,3 +1377,18 @@ urls:
   url: https://youtu.be/DlwXYY9Ncu4
   version: '1.0'
   width: 480
+- author_name: Cracked
+  author_url: https://www.youtube.com/user/Cracked
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/W9yYaBkKnok?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/W9yYaBkKnok/hqdefault.jpg
+  thumbnail_width: 480
+  title: The Terrifying Truth About 'Sesame Street'
+  type: video
+  url: https://www.youtube.com/watch?v=W9yYaBkKnok
+  version: '1.0'
+  width: 480
