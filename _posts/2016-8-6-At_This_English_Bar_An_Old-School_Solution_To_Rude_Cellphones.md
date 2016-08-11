@@ -1,7 +1,7 @@
 ---
 date: 2016-08-06 19:16:00-05:00
 layout: post
-link_url: http://ift.tt/2b2mJJY
+link_url: http://www.npr.org/sections/alltechconsidered/2016/08/06/488864179/at-this-english-bar-an-old-school-solution-to-rude-cellphones
 tags:
 - technology
 - culture
