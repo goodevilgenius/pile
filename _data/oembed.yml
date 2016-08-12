@@ -1392,3 +1392,18 @@ urls:
   url: https://www.youtube.com/watch?v=W9yYaBkKnok
   version: '1.0'
   width: 480
+- author_name: Storyful News
+  author_url: https://www.youtube.com/channel/UCBU0SoyQRFlxZdxoOiHPTYw
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/NpUsfdcbU10?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/NpUsfdcbU10/hqdefault.jpg
+  thumbnail_width: 480
+  title: Fishermen Left in Disbelief as Hooked Shark Jumps Through the Air
+  type: video
+  url: https://youtu.be/NpUsfdcbU10
+  version: '1.0'
+  width: 480
