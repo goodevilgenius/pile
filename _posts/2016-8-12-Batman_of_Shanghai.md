@@ -5,6 +5,7 @@ layout: post
 tags:
 - animation
 - awesome
+- Batman
 timestamp: 1471037794
 title: Batman of Shanghai
 type: video
