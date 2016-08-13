@@ -4,7 +4,7 @@ embed_url: http://i.imgur.com/saRXvpt.jpg
 layout: post
 tags:
 - review
-- amazon
+- Amazon
 - energy drink
 - telepathy
 timestamp: 1460749590

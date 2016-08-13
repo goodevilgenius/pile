@@ -4,9 +4,9 @@ embed_url: http://i.imgur.com/EsR6tpv.jpg
 layout: post
 tags:
 - meanwhileintexas
-- texas
+- Texas
 - houstonflood
-- america
+- America
 - patriotism
 - reenactment
 timestamp: 1461092236

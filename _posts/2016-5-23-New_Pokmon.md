@@ -5,7 +5,7 @@ layout: post
 source: http://deathbulge.com/comics/343
 tags:
 - comic
-- pokemon
+- Pokemon
 - humor
 timestamp: 1464012633
 title: "New Pok\xE9mon"
