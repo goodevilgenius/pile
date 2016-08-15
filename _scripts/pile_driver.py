@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 import yaml, string, os, codecs, urllib, json, fnmatch, re
 
