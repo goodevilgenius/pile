@@ -1,14 +1,7 @@
 #!/usr/bin/env python
 
 import yaml, string, os, codecs, urllib, json, fnmatch, re
-
-try:
-    import droplogger.droplogger as dl
-except ImportError:
-    # Just until I'm able to make droplogger installable
-    import sys
-    sys.path.append('/home/drj/MyFiles/Programming/Python')
-    import droplogger.droplogger as dl
+import droplogger.droplogger as dl
 
 config = dl.read_config()
 config['white'] = ["pile"]
