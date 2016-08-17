@@ -1452,3 +1452,18 @@ urls:
   url: https://youtu.be/Qcmb2YkIpJo
   version: '1.0'
   width: 480
+- author_name: Nukazooka
+  author_url: https://www.youtube.com/user/andrewmfilms
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/LaHePlPel4I?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/LaHePlPel4I/hqdefault.jpg
+  thumbnail_width: 480
+  title: Pokemon GO Gets Too Real
+  type: video
+  url: https://youtu.be/LaHePlPel4I
+  version: '1.0'
+  width: 480
