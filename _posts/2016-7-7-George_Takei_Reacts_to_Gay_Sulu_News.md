@@ -11,8 +11,8 @@ title: George Takei Reacts to Gay Sulu News
 type: link
 
 ---
-> Unfortunately, it’s a twisting of
-Gene’s creation, to which he put in so much thought. I think it’s really
+> Unfortunately, it's a twisting of
+Gene's creation, to which he put in so much thought. I think it's really
 unfortunate.
 
 So, you're telling me that the new *Star Trek* isn't completely true

@@ -13,6 +13,6 @@ type: link
 ---
 ![Star Trek coins](http://nerdist.com/wp-content/uploads/2016/06/Star-Trek-Money.jpg)
 
-> There may not be money in the United Federation of Planets, but there’s now legal Star Trek currency in Canada, courtesy of the Royal Canadian Mint.
+> There may not be money in the United Federation of Planets, but there's now legal Star Trek currency in Canada, courtesy of the Royal Canadian Mint.
 
 I might be inclined to want to get these, if they didn't have the queen on one side.

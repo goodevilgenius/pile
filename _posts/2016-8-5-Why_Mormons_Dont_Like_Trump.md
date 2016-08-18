@@ -8,7 +8,7 @@ tags:
 - news
 - commentary
 timestamp: 1470414524
-title: "Why Mormons Don\u2019t Like Trump"
+title: Why Mormons Don't Like Trump
 type: link
 
 ---
