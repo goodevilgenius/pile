@@ -1467,3 +1467,18 @@ urls:
   url: https://youtu.be/LaHePlPel4I
   version: '1.0'
   width: 480
+- author_name: Vox
+  author_url: https://www.youtube.com/user/voxdotcom
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/iWssRVJgPqc?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/iWssRVJgPqc/hqdefault.jpg
+  thumbnail_width: 480
+  title: The hippest internet cafe of 1995
+  type: video
+  url: https://youtu.be/iWssRVJgPqc
+  version: '1.0'
+  width: 480
