@@ -1482,3 +1482,18 @@ urls:
   url: https://youtu.be/iWssRVJgPqc
   version: '1.0'
   width: 480
+- author_name: Audi Deutschland
+  author_url: https://www.youtube.com/user/Audi
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/I2j2-DqcPfM?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/I2j2-DqcPfM/hqdefault.jpg
+  thumbnail_width: 480
+  title: Audi - The Comeback
+  type: video
+  url: https://youtu.be/I2j2-DqcPfM
+  version: '1.0'
+  width: 480
