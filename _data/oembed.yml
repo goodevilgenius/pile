@@ -1497,3 +1497,18 @@ urls:
   url: https://youtu.be/I2j2-DqcPfM
   version: '1.0'
   width: 480
+- author_name: CGP Grey
+  author_url: https://www.youtube.com/user/CGPGrey
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/iHzzSao6ypE?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/iHzzSao6ypE/hqdefault.jpg
+  thumbnail_width: 480
+  title: The Simple Solution to Traffic
+  type: video
+  url: https://www.youtube.com/watch?v=iHzzSao6ypE
+  version: '1.0'
+  width: 480
