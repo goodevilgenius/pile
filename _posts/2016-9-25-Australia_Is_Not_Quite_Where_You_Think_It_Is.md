@@ -1,7 +1,7 @@
 ---
 date: 2016-09-25 13:57:00-05:00
 layout: post
-link_url: http://ift.tt/2dhwwOj
+link_url: http://news.nationalgeographic.com/2016/09/australia-moves-gps-coordinates-adjusted-continental-drift/
 tags:
 - news
 - geography
