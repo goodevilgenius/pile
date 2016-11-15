@@ -36,7 +36,7 @@ author:
   instagram: goodevilgenius
   linkedin: danjones000
   pinterest:
-  rss: http://pile.goodevilgenius.org/feed.xml # just type anything here for a working RSS icon
+  rss: https://pile.goodevilgenius.org/feed.xml # just type anything here for a working RSS icon
   twitter: goodevilgenius
   stackoverflow: users/367461/dan-jones # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -51,7 +51,7 @@ google_analytics: UA-51905064-3
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://pile.goodevilgenius.org
+url: https://pile.goodevilgenius.org
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
