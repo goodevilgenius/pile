@@ -1,6 +1,6 @@
 ---
 date: 2016-08-10 08:26:30-05:00
-embed_url: http://i.imgur.com/vqWWuyc.jpg
+embed_url: https://i.imgur.com/vqWWuyc.jpg
 layout: post
 source: http://theunderfold.com/2016/08/10/leftovers/
 tags:
@@ -12,7 +12,7 @@ title: Yorg, the Destroyer of Leftovers
 type: image
 
 ---
-<img src="http://i.imgur.com/vqWWuyc.jpg" alt="" />
+<img src="https://i.imgur.com/vqWWuyc.jpg" alt="" />
 
 <cite>http://theunderfold.com/2016/08/10/leftovers/</cite>
 

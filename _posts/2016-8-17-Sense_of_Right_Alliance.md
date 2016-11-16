@@ -1,6 +1,6 @@
 ---
 date: 2016-08-17 09:48:05-05:00
-embed_url: http://i.imgur.com/0emkjiB.jpg
+embed_url: https://i.imgur.com/0emkjiB.jpg
 layout: post
 source: http://news.dose.com/style/24986/16-Hilarious-Examples-Of-Off-Brands-Gone-Wrong
 tags:
@@ -11,7 +11,7 @@ title: Sense of Right Alliance
 type: image
 
 ---
-<img src="http://i.imgur.com/0emkjiB.jpg" alt="" />
+<img src="https://i.imgur.com/0emkjiB.jpg" alt="" />
 
 <cite>http://news.dose.com/style/24986/16-Hilarious-Examples-Of-Off-Brands-Gone-Wrong</cite>
 

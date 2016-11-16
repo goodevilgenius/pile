@@ -1,6 +1,6 @@
 ---
 date: 2016-08-05 08:07:04-05:00
-embed_url: http://i.imgur.com/f3XdT41.jpg
+embed_url: https://i.imgur.com/f3XdT41.jpg
 layout: post
 source: http://theunderfold.com/2016/08/05/finished-projects/
 tags:
@@ -12,7 +12,7 @@ title: Project is Finished
 type: image
 
 ---
-<img src="http://i.imgur.com/f3XdT41.jpg" alt="" />
+<img src="https://i.imgur.com/f3XdT41.jpg" alt="" />
 
 <cite>http://theunderfold.com/2016/08/05/finished-projects/</cite>
 

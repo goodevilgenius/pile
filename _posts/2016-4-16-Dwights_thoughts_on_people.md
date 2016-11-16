@@ -1,6 +1,6 @@
 ---
 date: 2016-04-16 20:02:36-05:00
-embed_url: http://i.imgur.com/2VRCO2z.jpg
+embed_url: https://i.imgur.com/2VRCO2z.jpg
 layout: post
 tags:
 - people
@@ -11,5 +11,5 @@ title: Dwight's thoughts on people
 type: image
 
 ---
-<img src="http://i.imgur.com/2VRCO2z.jpg" alt="" />
+<img src="https://i.imgur.com/2VRCO2z.jpg" alt="" />
 

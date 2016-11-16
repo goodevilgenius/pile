@@ -1,6 +1,6 @@
 ---
 date: 2016-04-17 08:30:00-05:00
-embed_url: http://i.imgur.com/GialXVZ.jpg
+embed_url: https://i.imgur.com/GialXVZ.jpg
 layout: post
 tags:
 - people
@@ -13,5 +13,5 @@ title: Dwight's guide to life
 type: image
 
 ---
-<img src="http://i.imgur.com/GialXVZ.jpg" alt="" />
+<img src="https://i.imgur.com/GialXVZ.jpg" alt="" />
 

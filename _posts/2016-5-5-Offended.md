@@ -1,6 +1,6 @@
 ---
 date: 2016-05-05 15:07:20-05:00
-embed_url: http://i.imgur.com/JhbcL4o.png
+embed_url: https://i.imgur.com/JhbcL4o.png
 layout: post
 source: http://theawkwardyeti.com/comic/offensive/
 tags:
@@ -12,7 +12,7 @@ title: Offended
 type: image
 
 ---
-<img src="http://i.imgur.com/JhbcL4o.png" alt="" />
+<img src="https://i.imgur.com/JhbcL4o.png" alt="" />
 
 <cite>http://theawkwardyeti.com/comic/offensive/</cite>
 

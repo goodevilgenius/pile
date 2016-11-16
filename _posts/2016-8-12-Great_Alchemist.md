@@ -1,6 +1,6 @@
 ---
 date: 2016-08-12 07:12:20-05:00
-embed_url: http://i.imgur.com/TmV7n7c.jpg
+embed_url: https://i.imgur.com/TmV7n7c.jpg
 layout: post
 source: http://buttersafe.com/2016/08/11/verbal-alchemy/
 tags:
@@ -13,7 +13,7 @@ title: Great Alchemist
 type: image
 
 ---
-<img src="http://i.imgur.com/TmV7n7c.jpg" alt="" />
+<img src="https://i.imgur.com/TmV7n7c.jpg" alt="" />
 
 <cite>http://buttersafe.com/2016/08/11/verbal-alchemy/</cite>
 

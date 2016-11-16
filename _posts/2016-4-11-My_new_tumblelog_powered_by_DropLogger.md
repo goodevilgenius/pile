@@ -1,7 +1,7 @@
 ---
 date: 2016-04-11 16:29:29-05:00
 layout: post
-link_url: http://pile.goodevilgenius.org/
+link_url: https://pile.goodevilgenius.org/
 self: true
 tags:
 - me

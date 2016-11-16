@@ -1,6 +1,6 @@
 ---
 date: 2016-05-25 10:05:20-05:00
-embed_url: http://i.imgur.com/dPXg6IE.jpg
+embed_url: https://i.imgur.com/dPXg6IE.jpg
 layout: post
 source: http://www.cheerupemokid.com/comic/accident
 tags:
@@ -12,7 +12,7 @@ title: That much?
 type: image
 
 ---
-<img src="http://i.imgur.com/dPXg6IE.jpg" alt="" />
+<img src="https://i.imgur.com/dPXg6IE.jpg" alt="" />
 
 <cite>http://www.cheerupemokid.com/comic/accident</cite>
 

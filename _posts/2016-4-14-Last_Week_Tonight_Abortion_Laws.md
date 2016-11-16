@@ -1,6 +1,6 @@
 ---
 date: 2016-04-14 11:46:18-05:00
-embed_url: http://youtu.be/DRauXXz6t0Y
+embed_url: https://youtu.be/DRauXXz6t0Y
 layout: post
 tags:
 - abortion

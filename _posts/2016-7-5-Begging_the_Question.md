@@ -1,6 +1,6 @@
 ---
 date: 2016-07-05 16:36:08-05:00
-embed_url: http://i.imgur.com/osexIva.png
+embed_url: https://i.imgur.com/osexIva.png
 layout: post
 source: http://wondermark.com/c1234/
 tags:
@@ -12,7 +12,7 @@ title: Begging the Question
 type: image
 
 ---
-<img src="http://i.imgur.com/osexIva.png" alt="" />
+<img src="https://i.imgur.com/osexIva.png" alt="" />
 
 <cite>http://wondermark.com/c1234/</cite>
 

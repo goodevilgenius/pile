@@ -1,6 +1,6 @@
 ---
 date: 2016-10-17 13:38:25-05:00
-embed_url: http://i.imgur.com/FIJNxAe.png
+embed_url: https://i.imgur.com/FIJNxAe.png
 layout: post
 source: http://theunderfold.com/2016/10/11/google-please/
 tags:
@@ -12,7 +12,7 @@ title: Better to be Safe
 type: image
 
 ---
-<img src="http://i.imgur.com/FIJNxAe.png" alt="" />
+<img src="https://i.imgur.com/FIJNxAe.png" alt="" />
 
 <cite>http://theunderfold.com/2016/10/11/google-please/</cite>
 
