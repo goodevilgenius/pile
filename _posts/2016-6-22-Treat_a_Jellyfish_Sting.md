@@ -10,7 +10,3 @@ title: Treat a Jellyfish Sting
 type: image
 
 ---
-<img src="https://i.imgur.com/VNIsOQD.jpg" alt="" />
-
-<cite>http://www.artofmanliness.com/2016/06/22/how-to-treat-a-jellyfish-sting/</cite>
-

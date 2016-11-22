@@ -4,6 +4,7 @@
 
 # Name of your site (displayed in the header)
 name: "Dan's Pile"
+title: "Dan's Pile"
 
 # Short bio or description (displayed in the header)
 description: "Some stuff I've found"
@@ -12,6 +13,9 @@ timezone: America/Chicago
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/254662
+
+# Header image
+header-img: https://i.imgur.com/QHgXB0P.jpg
 
 # Pagination
 paginate: 10
@@ -23,6 +27,7 @@ paginate_path: "/page/:num/"
 
 twitter:
   username: goodevilgenius
+twitter_username: goodevilgenius
 
 # Includes an icon in the footer for each username you enter
 author:
@@ -48,6 +53,9 @@ disqus: danspile
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-51905064-3
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+google_tracking_id: UA-51905064-3
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -97,3 +105,30 @@ exclude:
   - README.md
   - CNAME
   - Makefile
+  - less
+  - Gruntfile.js
+  - node_modules
+  - package.json
+
+#   # Site settings
+# email: your-email@yourdomain.com
+copyright_name: Dan Jones
+github_username:  goodevilgenius
+# facebook_username:  StartBootstrap
+# email_username:  your-email@yourdomain.com
+
+
+# # Build settings
+# markdown: kramdown
+# highlighter: rouge
+# permalink: pretty
+# paginate: 5
+# exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+# gems: [jekyll-paginate, jekyll-feed]
+
+page_links:
+  - title: About
+    url: /about/
+  - title: Archives
+    url: /archives/

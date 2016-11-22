@@ -12,7 +12,3 @@ title: Don't give your boss access to the repo
 type: image
 
 ---
-<img src="https://i.imgur.com/fbBduaP.jpg" alt="" />
-
-<cite>http://www.commitstrip.com/en/2016/05/09/when-the-pm-fixes-a-bug/</cite>
-

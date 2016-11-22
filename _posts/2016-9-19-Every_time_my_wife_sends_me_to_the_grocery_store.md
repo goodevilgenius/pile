@@ -12,7 +12,3 @@ title: Every time my wife sends me to the grocery store
 type: image
 
 ---
-<img src="https://i.imgur.com/zPpCden.png" alt="" />
-
-<cite>http://theunderfold.com/2016/09/19/clean-eating/</cite>
-

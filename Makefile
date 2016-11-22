@@ -12,6 +12,9 @@ build:
 stage: build
 	bundle exec jekyll build -c '_config.yml,_config.local.yml'
 
+watch: build
+	bundle exec jekyll build -c '_config.yml,_config.local.yml' --incremental --watch
+
 deploy: build
 	[ $(BRANCH) = gh-pages ]
 	git add -A _posts _data archives

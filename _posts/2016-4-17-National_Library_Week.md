@@ -11,5 +11,3 @@ title: National Library Week
 type: image
 
 ---
-<img src="https://i.imgur.com/jhCYiPy.jpg" alt="" />
-

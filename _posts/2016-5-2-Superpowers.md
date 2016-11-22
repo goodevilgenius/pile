@@ -12,7 +12,3 @@ title: Superpowers
 type: image
 
 ---
-<img src="https://i.imgur.com/gtsxNoe.jpg" alt="" />
-
-<cite>http://ourvaluedcustomers.blogspot.com/2016/05/to-his-friend-from-ovc-archive.html</cite>
-

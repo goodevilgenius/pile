@@ -10,5 +10,3 @@ title: Which Nut to Choose?
 type: image
 
 ---
-<img src="https://i.imgur.com/W2R59Jn.jpg" alt="" />
-

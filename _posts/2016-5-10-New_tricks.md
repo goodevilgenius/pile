@@ -10,8 +10,4 @@ title: New tricks
 type: image
 
 ---
-<img src="https://i.imgur.com/tAqNPTl.jpg" alt="" />
-
-<cite>http://invisiblebread.com/2016/05/wendell-2/</cite>
-
 I need Wendell

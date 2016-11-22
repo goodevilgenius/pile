@@ -11,7 +11,3 @@ title: To Remember
 type: image
 
 ---
-<img src="https://i.imgur.com/gC3kN1V.gif" alt="" />
-
-<cite>http://www.gocomics.com/peanuts/2016/06/06</cite>
-

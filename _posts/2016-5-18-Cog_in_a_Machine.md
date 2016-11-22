@@ -12,7 +12,3 @@ title: Cog in a Machine
 type: image
 
 ---
-<img src="https://i.imgur.com/RBcfkgr.jpg" alt="" />
-
-<cite>http://piecomic.tumblr.com/post/144567830833</cite>
-

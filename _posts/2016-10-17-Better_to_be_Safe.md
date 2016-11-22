@@ -12,7 +12,3 @@ title: Better to be Safe
 type: image
 
 ---
-<img src="https://i.imgur.com/FIJNxAe.png" alt="" />
-
-<cite>http://theunderfold.com/2016/10/11/google-please/</cite>
-

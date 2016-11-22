@@ -12,7 +12,3 @@ title: Eating a Popsicle
 type: image
 
 ---
-<img src="http://maximumble.thebookofbiff.com/comics/2016-04-28-1321.png" alt="" />
-
-<cite>http://maximumble.thebookofbiff.com/2016/04/28/1321-popsicle/</cite>
-

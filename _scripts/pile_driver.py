@@ -7,6 +7,7 @@ config = dl.read_config()
 config['white'] = ["pile"]
 config['start'] = dl.parse_date('min')
 config['end'] = dl.parse_date('now')
+config['path'] = os.path.join(os.getcwd(), '_temp_pile')
 
 config['files'] = dl.get_files(**config)
 entries = dl.read_files(**config)
@@ -69,6 +70,9 @@ for e in entries['pile']:
         cont += '\n> \n'
         cont += '> <cite>%s</cite>' % e['source'] if "source" in e else "Unknown"
 
+    if embed_html is not None and e["type"] == "video":
+        e["embed"] = embed_html
+
     slug = ''.join(c for c in e['title'].replace(' ','_') if c in ("-_.%s%s" % (string.ascii_letters, string.digits)))
     filename = "%s-%s-%s-%s.md" % (e['date'].year, e['date'].month, e['date'].day, slug)
     newfile = os.path.join('_posts', filename)
@@ -76,9 +80,6 @@ for e in entries['pile']:
     fp.write('---\n')
     yaml.safe_dump(e, fp, encoding='utf-8', default_flow_style=False)
     fp.write('\n---\n')
-    if embed_html is not None:
-        fp.write(embed_html)
-        fp.write('\n\n')
     fp.write(cont)
     fp.close()
 

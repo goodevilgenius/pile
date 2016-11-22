@@ -11,5 +11,3 @@ title: Dwight's thoughts on people
 type: image
 
 ---
-<img src="https://i.imgur.com/2VRCO2z.jpg" alt="" />
-

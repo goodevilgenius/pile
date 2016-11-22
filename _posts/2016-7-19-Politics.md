@@ -13,7 +13,3 @@ title: Politics
 type: image
 
 ---
-<img src="https://i.imgur.com/IxnzNQu.jpg" alt="" />
-
-<cite>http://theunderfold.com/2016/07/19/politics/</cite>
-

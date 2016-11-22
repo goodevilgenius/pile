@@ -13,5 +13,3 @@ title: Dwight's guide to life
 type: image
 
 ---
-<img src="https://i.imgur.com/GialXVZ.jpg" alt="" />
-

@@ -12,7 +12,3 @@ title: Completely clean
 type: image
 
 ---
-<img src="https://i.imgur.com/Rlfo4l6.jpg" alt="" />
-
-<cite>http://explosm.net/comics/4336/</cite>
-

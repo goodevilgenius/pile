@@ -13,8 +13,4 @@ title: Just here for the Dratini
 type: image
 
 ---
-<img src="https://i.imgur.com/L51SMeD.jpg" alt="" />
-
-<cite>http://introvertdoodles.com/comic/gotta-catch-em-all/</cite>
-
 Totally legit

@@ -11,5 +11,3 @@ title: Your Welcome
 type: image
 
 ---
-<img src="https://i.imgur.com/zLDhc3E.jpg" alt="" />
-

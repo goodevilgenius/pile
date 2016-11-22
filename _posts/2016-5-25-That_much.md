@@ -12,8 +12,4 @@ title: That much?
 type: image
 
 ---
-<img src="https://i.imgur.com/dPXg6IE.jpg" alt="" />
-
-<cite>http://www.cheerupemokid.com/comic/accident</cite>
-
 Seriously. I'll take my chances.

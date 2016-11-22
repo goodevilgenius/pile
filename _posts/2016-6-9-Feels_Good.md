@@ -12,7 +12,3 @@ title: Feels Good
 type: image
 
 ---
-<img src="https://i.imgur.com/ViB5vmI.png" alt="" />
-
-<cite>http://maximumble.thebookofbiff.com/2016/06/09/1348-productive/</cite>
-

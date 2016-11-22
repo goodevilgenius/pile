@@ -12,5 +12,3 @@ title: Helpful review
 type: image
 
 ---
-<img src="https://i.imgur.com/saRXvpt.jpg" alt="" />
-

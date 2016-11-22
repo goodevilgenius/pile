@@ -12,8 +12,4 @@ title: Diagnosis
 type: image
 
 ---
-<img src="http://files.explosm.net/comics/Rob/results2.png" alt="" />
-
-<cite>http://explosm.net/comics/4272/</cite>
-
 It's contagios, eh

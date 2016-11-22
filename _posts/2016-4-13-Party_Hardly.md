@@ -12,7 +12,3 @@ title: Party Hardly
 type: image
 
 ---
-<img src="https://files.explosm.net/comics/Rob/party-hard.png" alt="" />
-
-<cite>http://explosm.net/comics/4139/</cite>
-

@@ -10,5 +10,3 @@ title: Math tests
 type: image
 
 ---
-<img src="https://i.imgur.com/73FxAwN.jpg" alt="" />
-

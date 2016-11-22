@@ -11,7 +11,3 @@ title: "Pok\xE9 Fancy"
 type: image
 
 ---
-<img src="https://40.media.tumblr.com/df76c86e0940e54b088fffc6d80d3106/tumblr_o688qdrs6q1qhnegdo1_500.jpg" alt="" />
-
-<cite>http://piecomic.tumblr.com/post/143417363757/my-friend-alex-firer-and-i-are-trying-to-convinced</cite>
-

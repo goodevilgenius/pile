@@ -13,7 +13,3 @@ title: Dream Big
 type: image
 
 ---
-<img src="https://i.imgur.com/JoSCp9W.gif" alt="" />
-
-<cite>http://rockpapercynic.tumblr.com/post/148788764079/follow-your-dreams</cite>
-

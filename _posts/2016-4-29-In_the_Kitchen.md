@@ -12,7 +12,3 @@ title: In the Kitchen
 type: image
 
 ---
-<img src="https://i.imgur.com/mrkxKJI.png" alt="" />
-
-<cite>http://www.lunarbaboon.com/comics/kitchen.html</cite>
-

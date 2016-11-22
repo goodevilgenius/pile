@@ -12,8 +12,4 @@ title: Productive
 type: image
 
 ---
-<img src="https://i.imgur.com/8HV3qZX.jpg" alt="" />
-
-<cite>http://buttersafe.com/2016/05/10/on-the-wheel/</cite>
-
 It's all about perspective

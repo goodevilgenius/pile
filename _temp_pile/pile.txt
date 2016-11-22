@@ -1,0 +1,1370 @@
+@begin April 10, 2016 at 11:21:28AM -0500 - First post
+@text I'm going to try something new and see how it works
+@type text
+@tags pile,development,programming @end
+@begin April 11, 2016 at 09:43:02AM -0500 - «Hello» Mormon Mission Parody
+@funny True
+@url https://youtu.be/ckLqfX62u_I
+@tags music,parody,humor,missionary work
+@type video @end
+@begin April 11, 2016 at 04:29:29PM -0500 - My new tumblelog (powered by DropLogger)
+@self True
+@type link
+@tags me,programming,github,droplogger,stuff
+@url https://pile.goodevilgenius.org/ @end
+@begin April 12, 2016 at 10:05:54AM -0500 - Quote by Robert Benchley
+@text There are two kinds of people in the world, those who believe there are two kinds of people in the world and those who don't.
+@type quote
+@tags people
+@source Robert Benchley @end
+@begin April 12, 2016 at 11:45:02AM -0500 - Be in harmony with heaven
+@text To be in harmony with heaven's divine purposes, we sustain the prophet and choose to live according to his words.
+@tags gospel,prophets,divine will
+@source Carol F. McConkie
+@type quote @end
+@begin April 12, 2016 at 05:06:47PM -0500 - Upload to imgur account from command-line
+@me True
+@url https://gist.github.com/92de52472c97532034a34fa3402f2aa0
+@text I just wrote this script to upload images to an imgur account. A little hack-ish, but it works.
+@tags programming,images,imgur,bash
+@type link @end
+@begin April 13, 2016 at 09:34:26AM -0500 - Illegal aliens
+@text Illegal aliens have always been a problem in the United States. Ask any Indian.
+@tags immigration
+@source Robert Orben
+@type quote @end
+@begin April 13, 2016 at 09:52:06AM -0500 - Party Hardly
+@url https://files.explosm.net/comics/Rob/party-hard.png
+@type image
+@tags comic,party,comic
+@source http://explosm.net/comics/4139/ @end
+@begin April 13, 2016 at 10:15:30AM -0500 - Goals in Google Calendar
+@url https://youtu.be/qnZZInDyrZo
+@type video
+@tags goals,google,self improvement @end
+@begin April 13, 2016 at 12:09:33PM -0500 - Live in slow motion
+@url http://theawkwardyeti.com/wp-content/uploads/2016/04/0413_SlowMo.png
+@tags life,comic
+@source http://theawkwardyeti.com/comic/live-slow-mo/
+@type image @end
+@begin April 13, 2016 at 03:33:16PM -0500 - Suspicious
+@url https://40.media.tumblr.com/96ec60ed0dece36f4cd3b77a7584fb62/tumblr_o5jqqclFIx1qhnegdo1_500.jpg
+@tags life,suspicion,comic
+@source http://piecomic.tumblr.com/post/142754947580
+@type image @end
+@begin April 14, 2016 at 08:04:43AM -0500 - Natural Desire
+@text A human being has a natural desire to have more of a good thing than he needs.
+@tags life,desires,human nature
+@source Mark Twain
+@type quote @end
+@begin April 14, 2016 at 11:46:18AM -0500 - Last Week Tonight: Abortion Laws
+@url https://youtu.be/DRauXXz6t0Y
+@text John Oliver explains American abortion laws
+@tags abortion,news,humor
+@type video @end
+@begin April 14, 2016 at 04:29:15PM -0500 - Microsoft Sues U.S. Justice Department Over Secret Customer Data Searches
+@url http://blogs.microsoft.com/on-the-issues/2016/04/14/keeping-secrecy-exception-not-rule-issue-consumers-businesses/
+@text > We believe that with rare exceptions consumers and businesses have a right to know when the government accesses their emails or records. Yet it’s becoming routine for the U.S. government to issue orders that require email providers to keep these types of legal demands secret. We believe that this goes too far and we are asking the courts to address the situation.
+
+This is awesome. Good for Microsoft for taking a stance against government overreach.
+@tags transparency,government
+@type link @end
+@begin April 14, 2016 at 04:37:05PM -0500 - Aw yiss
+@url https://i.imgur.com/C0fHB3W.jpg
+@text Everyone loves Fruit Rollups
+@tags family,George Washington,fruit rollups,meme
+@type image @end
+@begin April 15, 2016 at 06:40:05AM -0500 - School play goes horribly wrong as teens' throats are slashed with real razor
+@url http://www.aol.com/article/2016/04/07/school-play-goes-horribly-wrong-as-teens-throats-are-slashed-wi/21340367/?ncid=txtlnkusaolp00001393
+@text The show must go on
+@tags theater,accident
+@type link @end
+@begin April 15, 2016 at 07:48AM - Good Ol' Colbert
+@url https://i.imgur.com/OEKLsef.jpg
+@type image
+@tags brain injury,football @end
+@begin April 15, 2016 at 02:46:30PM -0500 - Helpful review
+@url https://i.imgur.com/saRXvpt.jpg
+@type image
+@tags review,Amazon,energy drink,telepathy @end
+@begin April 15, 2016 at 02:54:01PM -0500 - Sign the petition: Stop the dangerous new anti-encryption bill
+@url http://act.credoaction.com/sign/encryption?sp_ref=187121883.4.164931.o.1.2&referring_akid=.10047063.vfZPcC&source=clickcopy_sp
+@text The Compliance with Court Orders Act of 2016 (CCOA) would undermine Americans’ privacy, make encryption illegal and force companies to weaken the security of their products and services. We need to make sure this dangerous legislation doesn’t gain any traction in Congress.
+@tags encryption,privacy,petition,government,congress
+@type link @end
+@begin April 15, 2016 at 03:43:39PM -0500 - How to Survive a Mountain Lion
+@url https://i.imgur.com/UOjeZye.jpg
+@type image
+@tags survival,camping @end
+@begin April 15, 2016 at 04:13:20PM -0500 - This guy got Sir Mix-A-Lot's old phone number — and now he gets his raunchy texts
+@url http://www.seattletimes.com/seattle-news/i-have-sir-mix-a-lots-old-phone-number/
+@text > Photos of women with lips pursed. Texts that said “Love you,” and “Happy Birthday.” A photo of a bottle of “Big Bottom” whiskey. More women. More lips and kisses. And one telltale reference to the 1992 rap hit “Baby Got Back.”
+@tags news,rap
+@type link @end
+@begin April 15, 2016 at 04:31:53PM -0500 - How Elon Musk Stole My Car
+@url https://www.atlantic.net/blog/how-elon-musk-ceo-of-telsa-motors-stole-my-car/
+@type link
+@tags Tesla
+@text > Their CEO, Elon Musk, had taken my car and was using it as his personal vehicle to test a new version of autopilot @end
+@begin April 15, 2016 at 04:40:48PM -0500 - NASA Has Opened a Planetary Defense Office to Protect Earth from Cosmic Collisions
+@url https://news.vice.com/article/nasa-has-opened-a-planetary-defense-office-to-protect-earth-from-cosmic-collisions
+@text > On Monday, the space agency opened the Planetary Defense Coordination Office to study how to detect and stop big asteroids and meteors from hitting Earth.
+@tags nasa,space exploration,planetary defense,asteroids,astronomy
+@type link @end
+@begin April 16, 2016 at 09:01:06AM -0500 - Failure
+@text I have not failed. I've just found 10,000 ways that won't work.
+@tags fortitude,persistance,failure
+@source Thomas A. Edison
+@type quote @end
+@begin April 16, 2016 at 09:07:44AM -0500 - Dick pics
+@url http://mythdirection.com/wp-content/uploads/2016/04/dick.png
+@tags texting,comic
+@source http://mythdirection.com/comic/pics/
+@type image @end
+@begin April 16, 2016 at 06:15PM - Titles of Bach Chorales, as Translated By My Niece After One Semester of German
+@url http://ift.tt/1SbgRZ6
+@text > *Christ lag in Todes Banden*
+> Christ is late to every band rehearsal
+@tags German, translation, language, humor
+@type link @end 
+@begin April 16, 2016 at 06:41PM - Merida in The Walking Dead
+@url http://ift.tt/1XBWpV3
+@type image
+@tags mashup, Disney, zombies  @end 
+@begin April 16, 2016 at 06:50PM - Useful Phrases in Various Languages
+@url http://ift.tt/1TYIj19
+@type image
+@tags language, humor @end
+@begin April 16, 2016 at 08:02:36PM -0500 - Dwight's thoughts on people
+@url https://i.imgur.com/2VRCO2z.jpg
+@type image
+@tags people,humor,Schrute @end
+@begin April 17, 2016 at 08:30:00AM -0500 - Dwight's guide to life
+@url https://i.imgur.com/GialXVZ.jpg
+@type image
+@tags people,humor,Schrute,idiots,behavior @end
+@begin April 17, 2016 at 09:30:00AM -0500 - Chicken or the egg
+@url https://40.media.tumblr.com/075b388a4fcb86a96f56849d6210fb33/tumblr_inline_o5qq4idFVC1qzlc1w_540.jpg
+@text Evolution is strange
+@tags evolution,humor,comic
+@type image
+@source https://piecomic.tumblr.com/post/142908826057/which-came-first-chicken-or-the-egg @end
+@begin April 17, 2016 at 10:30:00AM -0500 - Diagnosis
+@tags Canadian,humor,comic
+@url http://files.explosm.net/comics/Rob/results2.png
+@text It's contagios, eh
+@source http://explosm.net/comics/4272/
+@type image @end
+@begin April 17, 2016 at 10:24:44AM -0500 - Math tests
+@url https://i.imgur.com/73FxAwN.jpg
+@type image
+@tags math,humor @end
+@begin April 17, 2016 at 11:28:05AM -0500 - National Library Week
+@url https://i.imgur.com/jhCYiPy.jpg
+@type image
+@tags comic,libraries,commentary @end
+@begin April 17, 2016 at 11:39:40AM -0500 - Why the Church
+@text We do not strive for conversion to the Church but to Christ and His gospel.
+@tags gospel,conversion
+@source D. Todd Christofferson
+@type quote @end
+@begin April 17, 2016 at 12:18:16PM -0500 - Your Welcome
+@url https://i.imgur.com/zLDhc3E.jpg
+@type image
+@tags grammar,humor,comic @end
+@begin April 17, 2016 at 01:50:00PM -0500 - Eye before flea
+@url https://i.imgur.com/trFtZjL.jpg
+@type image
+@tags spelling,comic @end
+@begin April 17, 2016 at 05:11:43PM -0500 - Dangerous
+@url https://i.imgur.com/Sew5QWu.jpg
+@tags Zelda,Japanese
+@source https://www.instagram.com/p/BET-QYwscb8/
+@type image @end
+@begin April 19, 2016 at 11:40:10AM -0500 - Bedtime Story
+@url https://i.imgur.com/qKV9J5u.jpg
+@type image
+@tags vaccination @end
+@begin April 19, 2016 at 01:57:16PM -0500 - #MeanwhileInTexas Washington(?) crossing the #houstonflood
+@url https://i.imgur.com/EsR6tpv.jpg
+@type image
+@tags meanwhileintexas,Texas,houstonflood,America,patriotism,reenactment @end
+@begin April 19, 2016 at 02:38:27PM -0500 - If People Acted Like They Do in Cars
+@url https://www.youtube.com/watch?v=88KywfbzmvA
+@text I really need to start carrying around a blowhorn.
+@tags humor,sketch,animated
+@type video @end
+@begin April 20, 2016 at 03:35:34PM -0500 - Harriet Tubman to Replace Andrew Jackson on the $20 Bill
+@url http://www.nytimes.com/2016/04/21/us/women-currency-treasury-harriet-tubman.html
+@text > Treasury Secretary Jacob J. Lew on Wednesday announced the most sweeping and historically symbolic makeover of American currency in a century, proposing to replace the slaveholding Andrew Jackson on the $20 bill with Harriet Tubman, the former slave and abolitionist, and to add women and civil rights leaders to the $5 and $10 notes.
+@tags currency,civil rights,Underground Railroad
+@type link @end
+@begin April 21, 2016 at 09:00:07AM -0500 - I need this for my bathroom
+@url https://i.imgur.com/1fUOFdp.jpg
+@type image
+@tags Batman,art @end
+@begin April 21, 2016 at 09:15:35AM -0500 - English Language
+@text If the English language made any sense, a catastrophe would be an apostrophe with fur.
+@tags humor
+@source Doug Larson
+@type quote @end
+@begin April 22, 2016 at 04:58:50PM -0500 - I Choose You, Captain America
+@url https://40.media.tumblr.com/e8585a7d744c1c97addf496b6eeb5b99/tumblr_o5ug67eMw51rvya9ro5_400.jpg
+@tags Pokemon,Marvel,superheroes
+@source http://textsfromsuperheroes.com/post/143232700559/textsfromsuperheroes-all-tees-just-14-until
+@type image @end
+@begin April 23, 2016 at 01:38AM - Trump, Hitler among nominations to rename Robert E. Lee Elementary
+@url http://ift.tt/1qHte85 
+@type link
+@tags KeepAustinWeird, education, Confederacy, racism @end
+@begin April 23, 2016 at 03:50:17PM -0500 - Teamwork
+@text Like I always say, there's no 'I' in team. There is a 'me', though.
+@tags teamwork,humor
+@source David Shore
+@type quote @end
+@begin April 23, 2016 at 03:51:50PM -0500 - Quote by Fran Lebowitz
+@text If you are a dog and your owner suggests that you wear a sweater, suggest that he wear a tail.
+@tags humor,pets
+@source Fran Lebowitz
+@type quote @end
+@begin April 24, 2016 at 03:35:20PM -0500 - A Librarian
+@text Google can bring you back a hundred thousand answers. A librarian can bring you back the right one.
+@tags library,books,reading,librarians
+@source Neil Gaiman
+@type quote @end
+@begin April 24, 2016 at 03:40:36PM -0500 - God's Cards
+@text It seems hard to sneak a look at God's cards. But that He plays dice and uses 'telepathic' methods... is something that I cannot believe for a single moment.
+@tags religion,physics,metaphysics
+@source Albert Einstein
+@type quote @end
+@begin April 25, 2016 at 09:15:04AM -0500 - Woman Causes 10 Car Pileup After Seeing Jesus In Her Kit Kat
+@url http://mysteriousearth.net/woman-causes-10-car-pileup-after-seeing-jesus-in-her-kit-kat-candy-bar/
+@text > Marlo Thomas, 33, says she was traveling south on the I-15 when she suddenly began craving sweets.
+> 
+> "I unwrapped the package, took a bite, and couldn’t believe what I saw. It was Jesus! I mean, right there, Jesus in my candy bar! It was like he was telling me I am chosen. So I closed my eyes and started praying, thanking Jesus for His revelation."
+> 
+> ![Car crash caused by Jesus](http://mysteriousearth.net/wp-content/uploads/2016/04/KIT-KAT.jpg)
+> 
+> According to Thomas, it was during her "prayer time" that she slammed into the car in front of her at a speed of 75 mph. That car proceeded to hit several other cars in front of it that were at a traffic standstill due to an accident 2 miles ahead.
+@tags stupid
+@type link @end
+@begin April 26, 2016 at 07:58:15AM -0500 - Poké Fancy
+@url https://40.media.tumblr.com/df76c86e0940e54b088fffc6d80d3106/tumblr_o688qdrs6q1qhnegdo1_500.jpg
+@tags Pokemon,comic
+@source http://piecomic.tumblr.com/post/143417363757/my-friend-alex-firer-and-i-are-trying-to-convinced
+@type image @end
+@begin April 26, 2016 at 08:00:17AM -0500 - The Past
+@text Events in the past may be roughly divided into those which probably never happened and those which do not matter.
+@tags events,past
+@source William Ralph Inge
+@type quote @end
+@begin April 26, 2016 at 09:33:58AM -0500 - The Return Of Hi-C Ecto Cooler Is Now Official
+@url http://www.thatsnerdalicious.com/news/ecto-cooler-is-back/
+@text > Fans of the ghoulish green goodness of Hi-C Ecto Cooler have one more reason to celebrate the return of the Ghostbusters franchise to the silver screen. This summer, the juice drink of choice for those nostalgic for the ‘80s and ‘90s will officially return to store shelves for a limited time. Its resurgence comes after a 15-year hiatus, much to the delight of fans everywhere. Ghostbusters hits theaters on July 15, 2016.
+@tags Ghostbusters
+@type link @end
+@begin April 26, 2016 at 09:37:10AM -0500 - Animal Sounds
+@url http://www.eleceng.adelaide.edu.au/Personal/dabbott/animal.html
+@text > In different languages what do we say to mimic animal sounds? Below is the world's biggest multilingual list.
+@tags animals,sounds,languages,linguistics
+@type link @end
+@begin April 26, 2016 at 12:51:34PM -0500 - Back To The Future In ACTUAL 2015
+@url https://www.youtube.com/watch?v=J4LI_EqnJq8
+@type video
+@tags humor,2015,progress @end
+@begin April 26, 2016 at 01:03:46PM -0500 - Simpsons Disney Tribute
+@url https://youtu.be/9qcY2ERwmaU
+@type video
+@tags Simpsons,Disney,cartoons @end
+@begin April 26, 2016 at 08:08PM - The Average Webpage Is Now the Size of the Original Doom
+@type link
+@url http://ift.tt/1VsC4E3
+@text > A compressed copy of the installer for the shareware version
+of *Doom* takes up about 2.39MB of space. Today’s average webpage,
+meanwhile, requires users to download about 2.3MB worth of data, according
+to HTTP Archive, a site that tracks website performance and the
+technologies they use. @end
+@begin April 26, 2016 at 11:00:57PM -0500 - Futurama
+@url http://img06.deviantart.net/9ffc/i/2014/141/9/b/good_news__everyone__by_leopinheiro-d7iqpju.jpg
+@tags cartoons
+@source http://leopinheiro.deviantart.com/art/Good-News-Everyone-454742490
+@type image @end
+@begin April 26, 2016 at 11:14PM - Puppies help students de-stress during finals
+@type link
+@tags education, stress
+@url http://ift.tt/1SxmAJ2
+@text > The PAWS Your Stress puppy lounge was open from noon to 3 p.m.
+Monday on the first floor of the Carpenter Library at the University of
+North Florida. @end 
+@begin April 26, 2016 at 11:34PM - Woman arrested for masturbating with sausage in ASDA toilets
+@type link
+@url http://ift.tt/26oCGy6
+@tags masturbation,theft,England
+@text > A woman was seen on CCTV camera’s stealing pork sausages from the
+discount food section in Liverpool Asda.
+>
+> Shoppers then seen her running into the women’s toilets where she stayed
+for at least 20 minutes. The security staff decided to investigate and as
+they entered the toilets and were shocked to discover the woman was
+pleasuring herself with the pork sausages. @end
+@begin April 27, 2016 at 02:02:59PM -0500 - Swap
+@url http://owlturd.com/post/143477888674/unlikely-trade-image-twitter-facebook
+@type embed
+@tags comic,humor,development @end
+@begin April 27, 2016 at 02:51:45PM -0500 - "Batman: The Killing Joke" Trailer
+@url https://youtu.be/SnTSqgJPVl8
+@type video
+@tags cartoon,trailer,Batman @end
+@begin April 27, 2016 at 08:12PM - Child porn suspect jailed indefinitely for refusing to decrypt hard drives
+@type link
+@url http://arstechnica.com/tech-policy/2016/04/child-porn-suspect-jailed-for-7-months-for-refusing-to-decrypt-hard-drives/
+@tags rights, decryption,5th Amendment,
+@text > A Philadelphia man suspected of possessing child pornography has
+been in jail for seven months and counting after being found in contempt of
+a court order demanding that he decrypt two password-protected hard drives.
+>
+> The suspect, a former Philadelphia Police Department sergeant, has not
+been charged with any child porn crimes. Instead, he remains indefinitely
+imprisoned in Philadelphia's Federal Detention Center for refusing to
+unlock two drives encrypted with Apple's FileVault software in a case that
+once again highlights the extent to which the authorities are going to
+crack encrypted devices. The man is to remain jailed "until such time that
+he fully complies" with the decryption order.
+>
+> The suspect's attorney, Federal Public Defender Keith Donoghue, urged a
+federal appeals court on Tuesday to release his client immediately, pending
+the outcome of appeals. "Not only is he presently being held without
+charges, but he has never in his life been charged with a crime," Donoghue
+wrote in his brief to the 3rd US Circuit Court of Appeals.  @end 
+@begin April 27, 2016 at 07:47PM - German shepherd helps rescue children from burning home
+@type link
+@url https://www.yahoo.com/news/german-shepherd-helps-rescue-children-burning-home-101418846.html
+@tags hero,dog
+@text > Authorities in central Florida say a German shepherd helped
+firefighters locate the two young children of his owners in heavy smoke as
+a blaze destroyed their home.
+>
+> The Seminole County Sheriff's Office said in a news release that the dog
+named Maxx helped firefighters find the 4-year-old boy and 2-year-old girl
+Monday night in their home in the Orlando suburb, Longwood. @end
+@begin April 28, 2016 at 08:01:21AM -0500 - Eating a Popsicle
+@url http://maximumble.thebookofbiff.com/comics/2016-04-28-1321.png
+@tags adulthood,popsicle,comic
+@source http://maximumble.thebookofbiff.com/2016/04/28/1321-popsicle/
+@type image @end
+@begin April 28, 2016 at 08:57:46AM -0500 - Which Came First: The Vision or The Red Tornado?
+@url http://comiccoverage.typepad.com/comic_coverage/2007/08/which-came-firs.html
+@type link
+@tags comics @end
+@begin April 29, 2016 at 06:47:17AM -0500 - Better Tomorrow
+@url https://i.imgur.com/7lsxVLI.png
+@text How I feel most days
+@tags adulthood,comic
+@source http://maximumble.thebookofbiff.com/2016/04/29/1322-give-up/
+@type image @end
+@begin April 29, 2016 at 06:49:04AM -0500 - In the Kitchen
+@url https://i.imgur.com/mrkxKJI.png
+@tags gender,cooking,comic
+@source http://www.lunarbaboon.com/comics/kitchen.html
+@type image @end
+@begin April 29, 2016 at 12:23:12PM -0500 - Learning
+@text Never learn to do anything: if you don't learn, you'll always find someone else to do it for you.
+@tags self improvement,education
+@source Mark Twain
+@type quote @end
+@begin April 29, 2016 at 01:24:18PM -0500 - Playing Dark Souls 3
+@tags adulthood,life,comic
+@url https://i.imgur.com/NP6HThf.jpg
+@text Far too accurate
+@source http://theunderfold.com/2016/04/19/playing-dark-souls-3/
+@type image @end
+@begin April 30, 2016 at 10:04:28AM -0500 - How one programmer broke the internet by deleting a tiny piece of code
+@url http://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code/
+@type link
+@tags programming @end
+@begin April 30, 2016 at 10:12:26AM -0500 - Sick burn
+@url http://upandoutcomic.tumblr.com/post/143602382451/sick-burn-buy-my-book-patreon-facebook
+@type embed
+@tags comic,humor @end
+@begin April 30, 2016 at 12:32:26PM -0500 - Future
+@text The future is here. It's just not widely distributed yet.
+@tags future
+@source William Gibson
+@type quote @end
+@begin May 01, 2016 at 08:31:14AM -0500 - How to Speak Texan
+@url http://www.wideopencountry.com/learn-speak-texan-12-easy-steps/
+@text > The most vicious insult in the Texas lexicon (or the Texicon if you will) is to call someone a damn fool. If you use this epithet, you’re not joking. You think the person in question is an idiot. Not just any idiot, but the kind of idiot who should probably be kept in a quiet room with soft walls and nothing but crayons so they can’t hurt themselves or others with their damn fool ways. This phrase is usually accompanied by quite a bit of head shaking in disbelief that anyone could possibly be so stupid.
+@tags Texas,tutorial,linguistics
+@type link @end
+@begin May 01, 2016 at 11:44:24AM -0500 - Yes, Your Opinion Can be Wrong
+@url http://www.houstonpress.com/arts/no-it-s-not-your-opinion-you-re-just-wrong-updated-7611752
+@text > There's a common conception that an opinion cannot be wrong. My dad said it. Hell, everyone's dad probably said it and in the strictest terms it is true. However, before you crouch behind your Shield of Opinion, you need to ask yourself two questions.
+@tags science,opinion
+@type link @end 
+@begin May 01, 2016 at 09:14PM - 'He started crying like a little baby': 11-year-old brags about shooting
+suspected home invader
+@type link
+@url http://ift.tt/1QJZsVq
+@tags guns, protection
+@text > Chris fired a warning shot. The man, who was carrying a stolen
+laundry hamper, began running. Chris emptied the magazine, firing off 12
+shots by the time the intruder neared a fence in the family’s front yard,
+the 11-year-old told the station.
+>
+> The final shot hit the man in the leg as he was hopping the fence, the
+boy said.
+>
+> "I shot through the hamper he was carrying," Chris said. "It was a full
+metal jacket bullet. It went straight through the back of his leg. He
+started crying like a little baby." @end
+@begin May 02, 2016 at 08:15:00AM -0500 - Whip
+@text If Steve Scalise were to perform a popular hip-hop dance, would it be the Majority Whip and Nae-Nae?
+@type status @end
+@begin May 02, 2016 at 07:56:50AM -0500 - Drawing the Line
+@text Art, like morality, consists of drawing the line somewhere.
+@tags art,morality
+@source G. K. Chesterton
+@type quote @end
+@begin May 02, 2016 at 09:09:11AM -0500 - Superpowers
+@url https://i.imgur.com/gtsxNoe.jpg
+@tags superheroes,comic,humor
+@source http://ourvaluedcustomers.blogspot.com/2016/05/to-his-friend-from-ovc-archive.html
+@type image @end
+@begin May 02, 2016 at 11:23:45AM -0500 - "iPhone and iPad should never be made plural," Apple head of marketing
+@url http://www.independent.co.uk/life-style/gadgets-and-tech/news/iphone-and-ipad-names-should-never-be-made-into-plural-says-apple-head-of-marketing-a7008126.html
+@text > Asked by a Twitter member whether he was really telling people that they should say "I have two iPhone phones", rather than "two iPhones", Mr Schiller said that was correct.
+@tags technology,Apple,iPhone,iPad
+@type link @end
+@begin May 02, 2016 at 04:27:09PM -0500 - Monster
+@url http://piecomic.tumblr.com/post/143754356401
+@type embed
+@tags comic,childhood,monsters @end
+@begin May 02, 2016 at 04:31:33PM -0500 - Self-driving features could lead to more sex in moving cars
+@url http://www.cbc.ca/news/technology/sex-distracted-driving-1.3562029
+@text Well, duh? Why else would we want them?
+
+> I am predicting that, once computers are doing the driving, there will be a lot more sex in cars.
+>
+> That's one of several things people will do which will inhibit their ability to respond quickly when the computer says to the human, "Take Over."
+@tags technology,cars
+@type link @end
+@begin May 02, 2016 at 08:22PM - Can you say ‘rubber stamp?’ FBI and NSA requests never denied by secret
+court
+@type link
+@url http://ift.tt/1NKwsSS
+@tags espionage, government, surveillance, Big Brother
+@text > The secretive court was set up to scrutinize the requests in
+secret, in order to ensure compliance with applicable civil rights
+requirements. That all makes sense. That every single request is
+essentially approved, however, seems at least curious if not a bit off. The
+government response about its perfect record of approvals is that the FBI
+and NSA are very careful when applying for surveillance. @end
+@begin May 03, 2016 at 01:38:47PM -0500 - Dog Armor
+@url http://www.dudeiwantthat.com/gear/pets/wild-knight-dog-armor.asp
+@text > Your ~~canine~~ ca-knight in shining armor has arrived!
+@tags shopping,cosplay,dogs
+@type link @end
+@begin May 03, 2016 at 02:20:21PM -0500 - It's not a crime if hungry poor steal food, Italy says
+@url http://www.thelocal.it/20160503/if-italys-poor-and-hungry-steal-food-its-not-a-crime-top-court
+@text > Italy's highest court has acquitted a homeless man of stealing cheese and sausages, ruling that the theft of small amounts of food by the hungry poor is not a crime.
+@tags poverty,crime
+@type link @end
+@begin May 03, 2016 at 02:25:07PM -0500 - In Indiana, you can drop off your unwanted baby as easily as returning a library book
+@url http://wncn.com/2016/05/02/first-baby-drop-off-box-for-unwanted-newborns-installed-in-indiana/
+@text > A Safe Haven Baby Box where mothers can drop off unwanted newborns anonymously with emergency help moments away is now available in northeastern Indiana.
+> 
+> The padded, climate-controlled container was dedicated Tuesday at the Woodburn Volunteer Fire Department about 15 miles east of Fort Wayne near the Ohio state line. It's on an exterior wall of the fire station.
+@tags Safe Haven,adoption,parenthood,legal
+@type link @end
+@begin May 04, 2016 at 10:22PM - Gorillas make up ‘little food songs’ while they eat
+@type link
+@url http://dangerousminds.net/comments/gorillas_make_up_little_food_songs_while_they_eat_listen_to_them_here
+@tags food, eating, animals, gorillas
+@text > Each gorilla has its own voice: you can really tell who’s singing.
+> 
+> And if it’s their favorite food, they sing louder. @end
+@begin May 05, 2016 at 06:43:07AM -0500 - Work
+@text I like work: it fascinates me. I can sit and look at it for hours.
+@tags work
+@source Jerome K. Jerome
+@type quote @end
+@begin May 05, 2016 at 03:07:20PM -0500 - Offended
+@url https://i.imgur.com/JhbcL4o.png
+@tags comic,humor,political correctness
+@source http://theawkwardyeti.com/comic/offensive/
+@type image @end
+@begin May 05, 2016 at 04:35:46PM -0500 - Alice Isn't Dead
+@url http://www.nightvalepresents.com/aliceisntdead
+@text I recently started listening to this new podcast by the folks who brought us *Welcome to Night Vale*. In *Alice Isn't Dead*, we follow the story of a woman on the road, talking to another woman who isn't there. In each episode, we learn a bit more of her story, as she tries to escape the horrors slowly encroaching on her.
+@tags podcast,recommendations
+@type link @end
+@begin May 05, 2016 at 05:17:42PM -0500 - Cursive
+@tags cursive,comic,humor
+@url https://66.media.tumblr.com/00ae98457f1b6a039709a626334f1270/tumblr_o6o6fp0fYF1qadrooo1_500.png
+@text So much
+@source http://jimbenton.tumblr.com/post/143856942849
+@type image @end
+@begin May 06, 2016 at 07:49:38AM -0500 - Sun and the Moon
+@url http://owlturd.com/post/143938656934/ancient-fable-image-twitter-facebook-patreon
+@type embed
+@tags comic,humor,science,fable @end
+@begin May 06, 2016 at 10:03:43AM -0500 - Apple Stole My Music
+@url https://blog.vellumatlanta.com/2016/05/04/apple-stole-my-music-no-seriously/
+@text > "The software is functioning as intended," said Amber.
+> 
+> "Wait," I asked, "so it’s supposed to delete my personal files from my internal hard drive without asking my permission?"
+> 
+> "Yes," she replied.
+@tags Apple,music,cloud
+@type link @end
+@begin May 07, 2016 at 07:44AM - KFC-flavored nail polish gives new meaning to 'chicken fingers'
+@url http://www.engadget.com/2016/05/04/kfc-flavored-nail-polish/
+@tags chicken, makeup
+@text > KFC is taking its "finger lickin' good" slogan a bit too far. The
+fried chicken fast food chain made two "edible" fingernail polishes for its
+fans in Hong Kong.
+>
+> Teaming up with ad agency Ogilvy & Mather and food experts at McCormick,
+two shades were created that incorporate the restaurant's top secret blend
+of 11 herbs and spices: Original Recipe and Hot & Spicy.
+@type link @end
+@begin May 07, 2016 at 10:00:46AM -0500 - North Carolina says it will defy Justice Department over LGBT law
+@url http://www.latimes.com/nation/la-na-north-carolina-doj-20160505-story.html
+@text > The Justice Department notified Gov. Pat McCrory in a letter Wednesday that the state’s House Bill 2, which restricts transgender bathroom access and has become a focus in the LGBT rights fight, violates sections of the 1964 Civil Rights Act. It gave the state until Monday to "remedy" the violations.
+> 
+> On Thursday, North Carolina House Speaker Tim Moore said legislators would not meet the federal government’s deadline.
+>
+> "We will take no action by Monday." "That deadline will come and go. Obviously, we don’t ever want to lose any money, but we’re not going to get bullied by the Obama administration to take action prior to Monday’s date. That’s not how this works."
+@tags rights,lgbt,North Carolina,Justice Department
+@type link @end
+@begin May 07, 2016 at 03:36PM - Got a new car!
+@type status
+@tags purchases
+@text Got a new car! Well, a van, but close enough. @end
+@begin May 09, 2016 at 07:42:39AM -0500 - Good writing
+@text Don't write so that you can be understood; write so that you can't be misunderstood
+@tags writing
+@source William Taft
+@type quote @end
+@begin May 09, 2016 at 09:08:15AM -0500 - In front of our house today
+@url https://i.imgur.com/fOlfMyy.jpg
+@text Woke up this morning to our power being out. It came back on pretty quickly, but also found this in our front yard. Told the landlord it was a danger, and could blow over in the next storm. He didn't believe me. Thankfully, it didn't hit anything.
+@tags storm
+@type image @end
+@begin May 09, 2016 at 01:08:58PM -0500 - Hello World in C# in C# Minor
+@tags programming,music,csharp
+@url https://youtu.be/1H7JuYqfFAE
+@text In case you ever wanted to program with a musical keyboard, apparently now you can.
+@source http://xahlee.info/kbd/piano_to_type_text.html
+@type video @end
+@begin May 09, 2016 at 01:18:24PM -0500 - Don't give your boss access to the repo
+@url https://i.imgur.com/fbBduaP.jpg
+@tags programming,comic,humor
+@source http://www.commitstrip.com/en/2016/05/09/when-the-pm-fixes-a-bug/
+@type image @end
+@begin May 10, 2016 at 06:57:48AM -0500 - Progress
+@text Progress isn't made by early risers. It's made by lazy men trying to find easier ways to do something.
+@tags progress
+@source Robert Heinlein
+@type quote @end
+@begin May 10, 2016 at 07:30:34AM -0500 - Curious
+@url https://i.imgur.com/UomHdCA.png
+@tags comic,curiosity,embarrassment
+@source http://maximumble.thebookofbiff.com/2016/05/10/1329-intrude/
+@type image @end
+@begin May 10, 2016 at 07:42:54AM -0500 - Productive
+@url https://i.imgur.com/8HV3qZX.jpg
+@text It's all about perspective
+@tags comic,productivity,perspective
+@type image
+@source http://buttersafe.com/2016/05/10/on-the-wheel/ @end
+@begin May 10, 2016 at 07:46:30AM -0500 - New tricks
+@tags comic
+@url https://i.imgur.com/tAqNPTl.jpg
+@text I need Wendell
+@source http://invisiblebread.com/2016/05/wendell-2/
+@type image @end
+@begin May 10, 2016 at 03:21:12PM -0500 - Is Klingon a Language? Is a language copyrightable?
+@url http://www.npr.org/2016/05/08/477257970/is-klingon-a-living-language-thats-for-human-courts-to-decide
+@text > Paramount Pictures and CBS are suing the producers of a Star Trek fan film for copyright infringement.
+> 
+> In December 2015, the studios filed a complaint against Axanar. In a follow-up brief, they identify "infringing elements," including ... the Klingon language.
+> 
+> The way the court decides on the last item on that list has big legal implications. The Language Creation Society filed an amicus brief in support of the filmmakers. It argues that since Klingon was invented in the 1980s, the language has expanded beyond its origins — there's even a Klingon Language Institute. They say there's enough vocabulary in the language to translate Shakespeare's Hamlet. Klingon \took on a life of its own — a life that the Copyright Act has no power to control," they say.
+> 
+> The reason this matters — whether you can copyright a language — is related to programming. Is computer code a language, and can you copyright it? It goes to a long-running case between Oracle and Google.
+> 
+> Justin Lin, director of the upcoming — authorized — Star Trek: Beyond, tweeted his support:
+> 
+> > This is getting ridiculous! I support the fans. Trek belongs to all of us.
+>
+> And Mark Okrand, who created Klingon in 1984, and published the [first Klingon dictionary](http://www.amazon.com/Klingon-Dictionary-Star-Trek/dp/067174559X) in 1985, agrees. "Languages are something that you should use and you should feel free to use them and be encouraged to use them."
+@tags linguistics,programming
+@type link @end
+@begin May 10, 2016 at 03:29:13PM -0500 - Dating website to match Canadians with Americans escaping Trump presidency
+@url http://www.cp24.com/lifestyle/human-interest/dating-website-to-match-canadians-with-americans-escaping-trump-presidency-1.2894752
+@text > MapleMatch.com promises love and a U.S. escape plan if Trump becomes commander-in-chief.
+> 
+> During the primaries, American Google searches for "move to Canada" hit record numbers.
+@tags politics,dating
+@type link @end
+@begin May 11, 2016 at 12:54:03PM -0500 - Can You Watch Netflix at Work?
+@url https://www.youtube.com/watch?v=-dcELgm9JCE
+@text Why Not?
+@tags humor,CollegeHumor,Netflix,productivity
+@type video @end
+@begin May 12, 2016 at 07:57:07AM -0500 - Government assistance
+@text The nine most terrifying words in the English language are, 'I'm from the government and I'm here to help.'
+@tags government,welfare
+@source Ronald Reagan
+@type quote @end
+@begin May 15, 2016 at 04:42:19PM -0500 - Flood
+@text Oh good, more flooding. Just what I wanted.
+@type status
+@tags Texas,flooding,Houston @end
+@begin May 17, 2016 at 07:10:21AM -0500 - Truth
+@text It is always the best policy to speak the truth--unless, of course, you are an exceptionally good liar.
+@tags truth
+@source Jerome K. Jerome
+@type quote @end
+@begin May 17, 2016 at 07:29:04AM -0500 - Nightmare
+@url https://i.imgur.com/0A0xkIa.jpg
+@text The Horror
+@tags work,distractions,comic
+@source http://maximumble.thebookofbiff.com/2016/05/17/1334-awake/
+@type image @end
+@begin May 17, 2016 at 07:36:01AM -0500 - Hangman
+@url https://i.imgur.com/voUsAmw.jpg
+@tags comic
+@source http://extrafabulouscomics.com/comic/275/
+@type image @end
+@begin May 17, 2016 at 09:43:32AM -0500 - Doritos Button
+@url http://www.amazon.com/Amazon-JK76PL-Doritos-Dash-Button/dp/B01BH9ERN8
+@text ![Doritos Button](http://ecx.images-amazon.com/images/I/61XFBa4bwBL.jpg)
+
+You can now order bags of Doritos from Amazon with the push of a button.
+@tags food,Amazon,convenience
+@type link @end
+@begin May 18, 2016 at 10:25:33AM -0500 - UT computer scientists develop new method for generating random numbers
+@url http://news.utexas.edu/2016/05/16/computer-science-advance-could-improve-cybersecurity
+@text > With an advance that one cryptography expert called a "masterpiece," University of Texas at Austin computer scientists have developed a new method for producing truly random numbers, a breakthrough that could be used to encrypt data, make electronic voting more secure, conduct statistically significant polls and more accurately simulate complex systems such as Earth's climate.
+> 
+> The new method creates truly random numbers with less computational effort than other methods, which could facilitate significantly higher levels of security for everything from consumer credit card transactions to military communications.
+>
+> The new method takes two weakly random sequences of numbers and turns them into one sequence of truly random numbers. Weakly random sequences, such as air temperatures and stock market prices sampled over time, harbor predictable patterns. Truly random sequences have nothing predictable about them, like a coin toss.
+@tags cryptography,computers,technology
+@type link @end
+@begin May 18, 2016 at 05:06:35PM -0500 - Cog in a Machine
+@url https://i.imgur.com/RBcfkgr.jpg
+@tags comic,humor,realization
+@source http://piecomic.tumblr.com/post/144567830833
+@type image @end
+@begin May 19, 2016 at 09:42:47AM -0500 - Perfect Game of Donkey Kong
+@url https://youtu.be/23RNHhzMbew
+@type video
+@tags gaming @end
+@begin May 19, 2016 at 01:56:55PM -0500 - Lose himself
+@text If a man has lost a leg or an eye, he knows he has lost a leg or an eye; but if he has lost a self—himself—he cannot know it, because he is no longer there to know it.
+@tags self
+@source Oliver Sacks
+@type quote @end
+@begin May 20, 2016 at 05:06:43PM -0500 - 'Too much sunshine' to blame for Tube delays
+@url http://www.independent.co.uk/news/uk/london-underground-blame-too-much-sunshine-for-tube-delays-a7031986.html
+@text > London Underground has said "excess sunlight" is causing delays for the Tube network.
+>
+> Bright sunshine beaming onto CCTV monitors, which are used to give a clear view of the platform before pulling away, is blocking drivers' line of sight, according to staff.
+@tags transportation,London
+@type link @end
+@begin May 20, 2016 at 05:10:50PM -0500 - Netflix launches fast.com, to measure download speed
+@url https://fast.com/
+@type link
+@tags Internet,technology,Netflix @end
+@begin May 21, 2016 at 08:16:52AM -0500 - What we know
+@text We don't know a millionth of one percent about anything.
+@tags knowledge
+@source Thomas A. Edison
+@type quote @end
+@begin May 21, 2016 at 08:18:27AM -0500 - Do what's right
+@text Never let your sense of morals get in the way of doing what's right.
+@tags morality,ethics
+@source Isaac Asimov
+@type quote @end
+@begin May 23, 2016 at 09:10:33AM -0500 - New Pokémon
+@tags comic,Pokemon,humor
+@url https://i.imgur.com/qbEZTvL.jpg
+@text Can't wait to try out Traf
+@source http://deathbulge.com/comics/343
+@type image @end
+@begin May 23, 2016 at 12:18:30PM -0500 - New TV
+@url https://i.imgur.com/GKCd05M.jpg
+@tags comic,humor,technology
+@source http://maximumble.thebookofbiff.com/2016/05/23/1337-broke/
+@type image @end
+@begin May 24, 2016 at 09:38:08AM -0500 - Eye of The Tiger
+@url https://i.imgur.com/dtpfNJJ.jpg
+@type image
+@tags comic,humor,survival @end
+@begin May 24, 2016 at 04:59:48PM -0500 - Murica
+@url https://i.imgur.com/OHOzFo0.jpg
+@type image
+@tags America,patriotism,history @end
+@begin May 25, 2016 at 10:05:20AM -0500 - That much?
+@url https://i.imgur.com/dPXg6IE.jpg
+@text Seriously. I'll take my chances.
+@source http://www.cheerupemokid.com/comic/accident
+@tags comic,humor,thrift
+@type image @end
+@begin May 25, 2016 at 01:58:25PM -0500 - Time for a Diet
+@url https://i.imgur.com/SMESqHc.jpg
+@text This is definitely me.
+@tags comic,humor,dieting
+@source http://www.lunarbaboon.com/comics/finish.html
+@type image @end
+@begin May 25, 2016 at 10:55PM - US military uses 8-inch floppy disks with forty-year-old computers to
+coordinate nuclear force operations
+@type link
+@url http://www.cnbc.com/2016/05/25/us-military-uses-8-inch-floppy-disks-to-coordinate-nuclear-force-operations.html
+@tags technology
+@text Is this real life? @end
+@begin May 26, 2016 at 10:34:45AM -0500 - DC Statehood
+@url https://www.youtube.com/watch?v=4Z4j2CrJRn4
+@type video
+@tags rights,DC,politics,government @end
+@begin May 26, 2016 at 10:56:47AM -0500 - Wal-Mart customer attacks father for bringing 5-year-old daughter into men's restroom.
+@url http://www.ksl.com/?sid=39912485&nid=148
+@type link
+@text > Christopher Adams said his 7-year-old son, Kyler, and 5-year-old daughter, Emery, both had to go when the family visited the store Sunday to buy blinds and storage bins, so he took them both inside the men’s restroom in the back of the store.
+> 
+> "This guy walks in and goes to the bathroom, the urinal," Adams recalled Tuesday. "Then he just, like, turns to me and starts freaking out, dropping the ‘F-bomb,’ and what he was freaking out about was that my daughter was in the men’s bathroom."
+> 
+> Adams said the man told him it was "inappropriate," and soon began to push him after Adams gave him a terse response.
+> 
+> The father said he tried to usher his kids away from the man.
+> 
+> "When I turned back around, I got sucker-punched right here," Adams said, pointing to his left eye, which still was bruised.
+> 
+> From there, Adams said he was punched in the face and kicked in the knee multiple times during the struggle in which the dad ultimately defended himself, forcing the man out of the restroom.
+>
+> "I just slammed him on the ground and just held him until associates from Walmart could get there," Adams said.
+>
+> Clinton Police Lt. Shawn Stoker said the man was cited at the scene for disorderly conduct, and the city attorney was screening a potential assault charge.
+@tags crazy @end
+@begin May 26, 2016 at 05:20:24PM -0500 - Date Night
+@url http://upandoutcomic.tumblr.com/post/144974333196/date-night-buy-my-book-patreon-facebook
+@type embed
+@tags dating,teachers @end
+@begin May 27, 2016 at 10:15:44AM -0500 - Teen Applies to College, Finds Out He's Been a Missing Person for 13 Years
+@type link
+@url http://insider.foxnews.com/2015/11/06/alabama-boy-missing-13-years-found-safe-ohio
+@text > 18-year-old Julian Hernandez was applying to college.
+>
+> Hernandez was living with his father, who changed his name.
+>
+> A problem with the high schooler’s Social Security number came up, leading Hernandez to approach a counselor for help.
+>
+> That counselor ran a background check on Hernandez, later discovering that he was listed as a missing person by the National Center for Missing and Exploited Children.
+>
+> Hernandez was reported missing by his mother in Birmingham in 2002, after his father left a note saying he’d taken the boy.
+@tags news @end
+@begin June 01, 2016 at 07:48:10AM -0500 - Ruined childhoods
+@url https://i.imgur.com/c7W6jAF.jpg
+@type image
+@source http://theunderfold.com/2016/06/01/reboots-ruining-childhood/
+@tags comic,humor,film,childhood @end
+@begin June 01, 2016 at 09:58:49AM -0500 - Obituary for Mary Anne Noland
+@url http://www.richmond.com/obituaries/article_c21b60bc-1153-5abd-b3c8-268cfd32eb57.html
+@type link
+@text > Faced with the prospect of voting for either Donald Trump or Hillary Clinton, Mary Anne Noland of Richmond chose, instead, to pass into the eternal love of God on Sunday, May 15, 2016, at the age of 68.
+@tags politics @end
+@begin June 03, 2016 at 11:46:18AM -0500 - Homeless Teen Girls Learn How To Code
+@text > The Brookview House is a non-profit that provides shelter to homeless women and children. Among other programs, the non-profit also provides a coding club for teen girls.
+>
+> The club members are middle or high school girls. Some are already homeless and live in Brookview House and others are at-risk for homelessness and are referred to the program by their schools. Since the girls don’t have computers, they use the ones found at the Brookview’s computer lab.
+@tags programming
+@type link
+@url http://rebooti.com/homeless-teen-girls-learn-how-to-code/ @end
+@begin June 06, 2016 at 06:47:28AM -0500 - Too Much Liberty
+@text I would rather be exposed to the inconveniences attending too much liberty than to those attending too small a degree of it.
+@tags freedom
+@source Thomas Jefferson
+@type quote @end
+@begin June 06, 2016 at 08:04:17AM -0500 - To Remember
+@url https://i.imgur.com/gC3kN1V.gif
+@type image
+@tags war,comic
+@source http://www.gocomics.com/peanuts/2016/06/06 @end
+@begin June 06, 2016 at 10:35:38AM -0500 - Very Punny
+@url https://i.imgur.com/rXHXYcW.png
+@tags comic,humor,puns
+@source http://explosm.net/comics/4322/
+@type image @end
+@begin June 06, 2016 at 11:38:29AM -0500 - Last Week Tonight with John Oliver: Debt Buyers
+@url http://www.youtube.com/watch?v=hxUAntt1z2c
+@tags commentary,debt
+@type video @end
+@begin June 06, 2016 at 05:02:08PM -0500 - Super sad Supercut
+@url https://youtu.be/tIMI97aI5qw
+@text If this supercut of sad film scenes doesn' make you tear up, you must not have a heart.
+@tags film
+@type video @end
+@begin June 08, 2016 at 09:04:33AM -0500 - "Supergirl" stuntwoman tears Through "American Ninja Warrior" course dressed as Wonder Woman
+@url https://youtu.be/OD4oBI9WkPk
+@type video
+@tags entertainment @end
+@begin June 08, 2016 at 04:52:37PM -0500 - Everyday in Texas
+@url https://i.imgur.com/xfCTM1i.jpg
+@tags comic,humor,weather,climate
+@source http://piecomic.tumblr.com/post/145624955942/more-clufu-here
+@type image @end
+@begin June 09, 2016 at 07:37:10AM -0500 - Feels Good
+@url https://i.imgur.com/ViB5vmI.png
+@tags productivity,comic,humor
+@source http://maximumble.thebookofbiff.com/2016/06/09/1348-productive/
+@type image @end
+@begin June 09, 2016 at 11:47:00AM -0500 - Texas Regulations
+@text Texas is so loosely regulated, their speed limit is "Let 'Er Rip", and their age of consent is just a drawing of a wink
+@tags laws
+@source John Oliver (https://www.youtube.com/watch?v=jYusNNldesc)
+@type quote @end
+@begin June 12, 2016 at 12:39:42PM -0500 - Pray for Orlando
+@url https://i.imgur.com/8lIbb9f.jpg
+@type image
+@tags social activism,news @end
+@begin June 14, 2016 at 12:10:15PM -0500 - Yellderly
+@url https://www.youtube.com/watch?v=DRFDA_oV4xM
+@text Young People Who Complain Like Old People
+@tags humor,commentary
+@type video @end
+@begin June 15, 2016 at 07:58:29AM -0500 - New frog sex position discovered
+@url http://www.upi.com/Science_News/2016/06/14/New-frog-sex-position-discovered/8301465908382/
+@text >Frogs are some of the kinkiest amphibians in the forest. Biologists have identified six different sex positions among the planet's 7,000-plus species of frogs and toads.
+>
+> Recently, scientists discovered a seventh position -- dubbed the *dorsal straddle*.
+@tags biology,news,sex
+@type link @end
+@begin June 15, 2016 at 03:27:53PM -0500 - Pope Francis rejects donation from Argentinian president with 666 in sum
+@url https://www.theguardian.com/world/2016/jun/14/pope-francis-mauricio-macri-argentina-charity-donation-666
+@text > Earlier this month, the president made a donation that totaled 16,666,000 pesos to the Scholas Occurentes educational foundation, which is backed by the pope.
+>
+> Francis wrote to the Argentinian branch of the foundation, asking them to return the money. In a postcript, he wrote: "I don't like the 666."
+@tags news,religion
+@type link @end
+@begin June 15, 2016 at 03:34:58PM -0500 - Court Decides All Bits Are Equal
+@url http://www.nytimes.com/2016/06/16/technology/court-decides-all-bits-are-equal.html
+@text > The appeals court for the District of Columbia decided by a vote of two to one that companies providing consumers with internet service cannot discriminate among the bits they ship.
+@tags politics,technology,news
+@type link @end
+@begin June 15, 2016 at 03:39:51PM -0500 - Bearded woman learns to accept her facial hair
+@url https://www.youtube.com/watch?v=JFpE6moREGY
+@type video
+@tags lifestyle @end
+@begin June 15, 2016 at 04:00:07PM -0500 - Dark
+@url https://i.imgur.com/3oi2DGB.jpg
+@tags comic,dark,humor
+@source https://www.reddit.com/r/funny/comments/4o833t/my_sister_is_a_very_dark_person/
+@type image @end
+@begin June 15, 2016 at 04:16:45PM -0500 - Playing Around With Ubuntu's Snaps, On Fedora
+@url https://www.phoronix.com/scan.php?page=article&item=ubuntu-snaps-fedora&num=1
+@text > Executing `snap find *` returned a... less than impressive list. In total there were 7 snaps available from the store for install-- 2 of which were example applications provided by Ubuntu.
+>
+> Now, to be fair to Canonical and Snapper... The idea behind Snapper is that of OS X (now MacOS) bundles. You don't download them from a central repository, you download them from the application authors directly.
+>
+> When one issues "sudo snap install" on an application, part of the downloading output is the total size of the snap. Since snap uses bundled libraries, I was rather curious to see how big these relatively simple applications would be:
+>
+> Ubuntu Clock App: 120.11 MB – admittedly, this is written in QML, so it has to pull in Qt. Ubuntu Calc App: 120.01 MB – same as above. LibreOffice*... 1.1 GB
+>
+> he Document Foundation's download page lists the sizes of all the various installers, broken down by operating system.
+Windows x64? 238 MB. Mac OS X? 201 MB. Linux x64 RPM? 229 MB Linux x64 Deb? 229 MB
+>
+> So, even if you took all the installers for every OS and added them together, you would still come out at less used space than the single LibreOffice 5.2 Beta .snap package. To snap's credit, it did function. Less to snap's credit...the binary appeared to be Ubuntu-specific.
+
+This seems incredibly wasteful of space. Every package includes all of its dependencies. What's the point in even having a package manager, then?
+
+However, there was a very good point made on [Reddit](https://www.reddit.com/r/linux/comments/4o7d8y/playing_around_with_ubuntus_snaps_on_fedora/):
+
+> Reading the comments I feel like people are missing the point of snaps. They aren't intended to replace your distro's package manager. I'm not even sure why some packages are in the snap repo, except perhaps to test it with certain large packages? (ie libreoffice?). What distro doesn't have Libreoffice?
+>
+> In my mind, snaps are best for applications that aren't in your distro already. Yes, they become inefficient on disk space (although space is cheap) but that one packages works on every distro that supports snaps.
+@tags programming,linux,applications
+@type link @end
+@begin June 16, 2016 at 11:14:47AM -0500 - The Trouble with Transporters
+@url https://www.youtube.com/watch?v=nQHBAdShgYI
+@tags humor,educational,philosophy
+@type video @end
+@begin June 16, 2016 at 12:26:13PM -0500 - Teens React to Windows 95
+@url https://www.youtube.com/watch?v=8ucCxtgN6sc
+@text I remember when this was state-of-the-art.
+@tags reactions,technology
+@type video @end
+@begin June 16, 2016 at 12:38:04PM -0500 - Merkel: The Musical
+@url https://www.youtube.com/watch?v=daxHBre2a5A
+@tags humor,politics
+@type video @end
+@begin June 16, 2016 at 04:12:42PM -0500 - Important Lessons
+@source http://piecomic.tumblr.com/post/146020350707/tbt
+@url https://i.imgur.com/FNwY1D9.jpg
+@tags comic,humor,childhood,lessons,life
+@type image @end
+@begin June 16, 2016 at 05:12:27PM -0500 - Waitress upset over 'Best Butt' award
+@url http://fox59.com/2016/06/15/indy-waitress-upset-over-best-butt-award-from-scottys-brewhouse/
+@text > A woman says she's offended after receiving an award from her employer for having the "Best Butt" on staff.
+>
+> She says on Monday night, during an event where staff was given awards, she received the accolade in full view of about fifty coworkers. The woman says that when the award was given to her by management, she was then told to turn around in front of everyone so people could take pictures of her behind.
+>
+> The woman says she went to corporate HR and was told by upper-level management the award was not their idea. She says that so far, no one has offered her an apology.
+
+This is a big yikes!
+@tags news
+@type link @end
+@begin June 17, 2016 at 07:45:31AM -0500 - Star Trek Money is Now Legal Tender in Canada
+@url http://nerdist.com/star-trek-money-is-now-legal-tender-in-canada/
+@text ![Star Trek coins](http://nerdist.com/wp-content/uploads/2016/06/Star-Trek-Money.jpg)
+
+> There may not be money in the United Federation of Planets, but there's now legal Star Trek currency in Canada, courtesy of the Royal Canadian Mint.
+
+I might be inclined to want to get these, if they didn't have the queen on one side.
+@tags currency,sci-fi,Star Trek
+@type link @end
+@begin June 17, 2016 at 12:53:39PM -0500 - History of Oxford Comma
+@url https://www.youtube.com/watch?v=zhN5c1ucRNk
+@text Just do it.
+@tags grammar,language,history
+@type video @end
+@begin June 18, 2016 at 09:49AM - 48 people were shot during a 15-hour filibuster on gun control
+@type link
+@url http://www.vox.com/2016/6/16/11952166/filibuster-gun-control-shootings
+@text > Yesterday, in an effort to force legislative action on gun control,
+Sen. Chris Murphy staged a 15-hour filibuster on the Senate floor. It
+lasted from 11 am Wednesday through 2 am Thursday, eventually ending with
+the GOP agreeing to vote on a gun control bill.
+>
+> As politicians recounted stories of gun violence before the Senate, there
+were 38 shootings that killed 12 people and injured 36 more across America.
+@tags politics, gun control @end
+@begin June 20, 2016 at 07:36:24AM -0500 - Laws
+@text When men are pure, laws are useless; when men are corrupt, laws are broken.
+@tags laws,humanity
+@source Benjamin Disraeli
+@type quote @end
+@begin June 20, 2016 at 07:58:36AM -0500 - Completely clean
+@source http://explosm.net/comics/4336/
+@url https://i.imgur.com/Rlfo4l6.jpg
+@tags comic,humor,medicine
+@type image @end
+@begin June 20, 2016 at 09:11:08AM -0500 - Ellie Kemper's Advice for New Parents
+@url http://www.hulu.com/watch/951929
+@tags humor,advice
+@type video @end
+@begin June 20, 2016 at 10:01:10AM -0500 - Jokes Seth Can't Tell: Tonys, Finding Dory
+@url http://www.hulu.com/watch/952431
+@tags humor,sketch,race
+@type video @end
+@begin June 20, 2016 at 11:05:51AM -0500 - Scott Baio is a moron
+@url http://www.ifyouonlynews.com/politics/scott-baio-threatens-to-sue-anyone-who-thinks-hes-a-moron-for-saying-obama-is-a-secret-muslim/
+@text > This week Baio went from obscure trivia answer to national laughing stock when he appeared on Fox Business to float the idea that President Obama is a secret Muslim whose "end game"is to "totally eliminate the United States as it was created."
+>
+> When a user attempted to show Baio how offensive it is to casually fling around unsubstantiated allegations, he missed the point entirely and responded by telling her she wasn't allowed to "assume, think or hypothetically say" a joke about him or he would sue her for defamation.
+@tags news,politics
+@type link @end
+@begin June 21, 2016 at 09:00:24AM -0500 - Father's Day
+@text I guess Father's Day can get awkward when you've got two dads.
+@source http://maximumble.thebookofbiff.com/2016/06/21/1355-mugs/
+@url https://i.imgur.com/WRGNtYZ.jpg
+@tags holidays,comic,humor,family
+@type image @end
+@begin June 22, 2016 at 04:19:55PM -0500 - Treat a Jellyfish Sting
+@source http://www.artofmanliness.com/2016/06/22/how-to-treat-a-jellyfish-sting/
+@url https://i.imgur.com/VNIsOQD.jpg
+@tags tutorial
+@type image @end
+@begin June 28, 2016 at 01:01:31PM -0500 - I, Phone
+@url https://www.youtube.com/watch?v=e-ZpsxnmmbE
+@text CGP Grey explains how our legal system needs to adapt to modern technology
+@tags laws,technology
+@type video @end
+@begin July 05, 2016 at 07:51:34AM -0500 - Quote by Charles Wadsworth
+@text By the time a man realizes that maybe his father was right, he usually has a son who thinks he's wrong.
+@tags fatherhood,life
+@source Charles Wadsworth
+@type quote @end
+@begin July 05, 2016 at 09:42:53AM -0500 - Weredad
+@url https://i.imgur.com/s2BZkgx.jpg
+@tags fatherhood,humor,comic
+@source http://theunderfold.com/2016/07/05/werewolf/
+@type image @end
+@begin July 05, 2016 at 04:33:15PM -0500 - Multitudes
+@text Do I contradict myself? Very well, then I contradict myself, I am large, I contain multitudes.
+@tags humanity,myself
+@source Walt Whitman
+@type quote @end
+@begin July 05, 2016 at 04:36:08PM -0500 - Begging the Question
+@url https://i.imgur.com/osexIva.png
+@tags comic,humor,language
+@source http://wondermark.com/c1234/
+@type image @end
+@begin July 07, 2016 at 08:19PM - George Takei Reacts to Gay Sulu News
+@type link
+@url http://www.hollywoodreporter.com/news/george-takei-reacts-gay-sulu-909154?facebook_20160707
+@tags film, entertainment, Star Trek
+@text > Unfortunately, it's a twisting of
+Gene's creation, to which he put in so much thought. I think it's really
+unfortunate.
+
+So, you're telling me that the new *Star Trek* isn't completely true
+to Gene Roddenberry's vision?
+
+Well, I am shocked. @end
+@begin July 09, 2016 at 07:21:43AM -0500 - Radio Personality Loses It on Police Officer AftervAlton Brown Killing
+@url https://youtu.be/lBoK_73NMJs
+@tags BlackLivesMatter,police,rights
+@type video @end
+@begin July 18, 2016 at 07:32:59AM -0500 - Food
+@url https://i.imgur.com/hqwUHSN.png
+@tags comic,humor,Instagram
+@type image @end
+@begin July 19, 2016 at 09:05:31AM -0500 - Politics
+@url https://i.imgur.com/IxnzNQu.jpg
+@tags comc,humor,politics,gaming
+@source http://theunderfold.com/2016/07/19/politics/
+@type image @end
+@begin July 19, 2016 at 12:01:55PM -0500 - Enjoying Life
+@text Enjoying life is for young people and retirees. Those of us in the middle... way too busy for that.
+@tags life
+@source Spider-Woman (Dennis Hopeless, Spider-Women Omega)
+@type quote @end
+@begin July 20, 2016 at 10:42AM - What can we do?
+@url https://i.imgur.com/ykmu4U7.jpeg
+@tags comic, humor, life
+@source http://theawkwardyeti.com/comic/what-can-we-do/
+@type image @end 
+@begin July 23, 2016 at 02:18PM - Four teenage boys have worn skirts to school in protest at being
+disciplined for wearing shorts on the hottest day.
+@type link
+@url http://www.bbc.com/news/uk-england-sussex-36868781
+@tags news,life,weather,climate,rights @end
+@begin July 27, 2016 at 11:53:45AM -0500 - The Chork - Chopsticks and Fork
+@url http://www.dudeiwantthat.com/gear/food-drink/the-chork-chopsticks-fork-in-one.asp
+@type link
+@tags product,culinary @end
+@begin July 28, 2016 at 09:55:11AM -0500 - Saving the World From Evil
+@url https://play.google.com/music/r/m/Ln3m76jyqdqmcarhc3vneyywbeu?t=Saving_the_World_From_Evil
+@text I just discovered this station on ~~Songza~~ Google Play Music. I was looking for some good background music for while I work, and noticed a collection of stations called "Coding Your Face Off". It consists of three stations full of action film soundtracks. Turns out it really does work as great background music while you're trying to "code your face off".
+@tags music,working,programming
+@type link @end
+@begin July 29, 2016 at 08:36:48AM -0500 - Sir David Attenborough narrates Pokémon Go
+@url https://www.facebook.com/LovinDublin/videos/1437230712970361/
+@type video
+@tags gaming @end
+@begin July 30, 2016 at 08:26:30PM -0500 - Vote for good men
+@text We engage in the election the same as in any other principle; you are to vote for good men, and if you do not do this it is a sin; to vote for wicked men, it would be sin. Choose the good and refuse the evil. Men of false principles have preyed upon us like wolves upon helpless lambs. Damn the rod of tyranny; curse it. Let every man use his liberties according to the constitution. Don't fear man or devil; electioneer with all people, male and female, and exhort them to do the thing that is right. We want a President of the U.S., not a party President, but a President of the whole people; for a party President disfranchises the opposite party. Have a President who will maintain every man in his rights.
+@tags gospel,election,politics
+@source Hyrum Smith (History of the Church, Vol.6, Ch.15, p.323)
+@type quote @end
+@begin August 01, 2016 at 03:32:47PM -0500 - Honest Pokémon Go Trailer
+@url https://youtu.be/oD-KCkpcsvA
+@type video
+@tags gaming,humor @end
+@begin August 02, 2016 at 03:22:26PM -0500 - Mario vs. Green Hill Zone
+@url https://youtu.be/WxO8NmDPBZo
+@text Clearly Sonic is better
+@tags gaming,humor
+@type video @end
+@begin August 03, 2016 at 04:40:55PM -0500 - Reason
+@text I do not feel obliged to believe that the same God who has endowed us with sense, reason, and intellect has intended us to forgo their use.
+@tags intelligence
+@source Galileo Galilei
+@type quote @end
+@begin August 04, 2016 at 08:07:27AM -0500 - An Open Letter to Donald Trump from the Baby You Kicked Out of Your Rally
+@url http://www.secondcity.com/network/open-letter-donald-trump-baby-kicked-rally/
+@text > How dare you, sir? How. Dare. You. After I patiently sat through your speech, my pants all full of one of my Top 3 All-Time Poops, you decided to kick me out. Because I was crying. Well, I'm sorry, but you are just a very loud and scary man with a great big pumpkin head. And this is coming from someone who lets a vampire teach him how to count.
+>
+> Add on to that the sheer amount poop in my pants. Which I assure you was an admirable amount. And I poop a lot, sir. I poop so much you wouldn't believe it. It is truly a remarkable feat that I take pride in and also makes me fussy. So yeah, I cried. I'm a baby. Sue me.
+@tags politics,humor
+@type link @end
+@begin August 04, 2016 at 02:10:16PM -0500 - Thrive
+@text My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style.
+@tags life
+@source Maya Angelou
+@type quote @end
+@begin August 05, 2016 at 08:07:04AM -0500 - Project is Finished
+@url https://i.imgur.com/f3XdT41.jpg
+@tags humor,comic,work
+@source http://theunderfold.com/2016/08/05/finished-projects/
+@type image @end
+@begin August 05, 2016 at 11:24:17AM -0500 - Which Nut to Choose?
+@url https://i.imgur.com/W2R59Jn.jpg
+@type image
+@tags politics,humor @end
+@begin August 05, 2016 at 11:28:44AM -0500 - Why Mormons Don't Like Trump
+@url http://www.slate.com/articles/news_and_politics/politics/2016/08/why_mormons_don_t_like_donald_trump.html
+@text My wife and I were talking the other day about this. I feel like Mormons might decide this election. Most of the things that really tend to move Mormons towards the GOP (family values, conservative social issues, etc.) are not things espoused by Trump.
+
+If Trump can't win over Mormons (and I don't think he will), he'll lose Utah, Idaho, and Arizona. And if he loses those three, he'll likely be unable to win the election.
+@tags politics,religion,news,commentary
+@type link @end
+@begin August 05, 2016 at 11:32:26AM -0500 - Gary Johnson: Clarifying my views on religious freedom, Mormons
+@url http://beta.deseretnews.com/article/865659254/EXCLUSIVE-Gary-Johnson-Religious-freedom-and-non-discrimination-laws.html
+@text Gary Johnson clarifies his views on religious freedom and his intention on the example he gave several days ago.
+
+It's pretty clear that Johnson has a great deal of respect for Latter-Day Saints, and the utmost reverence for religious freedom.
+
+> There have also been times in our history when religion has been invoked to justify serious harm. In years past, opponents of interracial marriage, desegregation and other efforts to protect civil rights too often cited scripture and religion in making their arguments.
+>
+> To be blunt, certain politicians have twisted religious liberty and used it as a tool to discriminate.
+>
+> Thus, in response to a question thrown at me while walking down a street (in the rain), I expressed my reservations rather emphatically — and cited the experience of Mormons as a case-in-point where religious persecution resulted in violent episodes right here in America.
+>
+> My point was that even a respected, peaceful people experienced tragic harm in the name of religion and was, in fact, persecuted by the government itself by politicians who opposed their beliefs and practices.
+>
+> I am well aware of the painful history of government interference with Mormons and the practice of their faith.
+>
+> In part because of this unique history, I believe Utah has found an appropriate balance in a religious freedom law that serves as an example to the rest of the country that non-discrimination and religious freedom are not opposing forces, but can instead go hand in hand.
+@tags politics,religion
+@type news @end
+@begin August 05, 2016 at 03:29:03PM -0500 - 18th Century Instagram
+@url https://youtu.be/2BXRGzjo1_Q
+@type video
+@tags commercial,humor,Internet,culture @end
+@begin August 05, 2016 at 03:53:56PM -0500 - Emoji: The Musical
+@url https://youtu.be/DlwXYY9Ncu4
+@type video
+@tags culture,technology,humor,music @end
+@begin August 06, 2016 at 07:16PM - At This English Bar, An Old-School Solution To Rude Cellphones
+@type link
+@url http://www.npr.org/sections/alltechconsidered/2016/08/06/488864179/at-this-english-bar-an-old-school-solution-to-rude-cellphones
+@tags technology, culture
+@text A pub owner in Sussex turns his pub into a Faraday Cage to encourage
+conversation among patrons by blocking cell signals.
+ @end
+@begin August 10, 2016 at 08:26:30AM -0500 - Yorg, the Destroyer of Leftovers
+@url https://i.imgur.com/vqWWuyc.jpg
+@tags comic,humor,food
+@source http://theunderfold.com/2016/08/10/leftovers/
+@type image @end
+@begin August 11, 2016 at 09:06:45AM -0500 - The Terrifying Truth About "Sesame Street"
+@url https://www.youtube.com/watch?v=W9yYaBkKnok
+@type video
+@tags humor @end
+@begin August 11, 2016 at 01:37:54PM -0500 - Dream Big
+@url https://i.imgur.com/JoSCp9W.gif
+@tags comic,humor,pollution,ecology
+@source http://rockpapercynic.tumblr.com/post/148788764079/follow-your-dreams
+@type image @end
+@begin August 11, 2016 at 01:42:08PM -0500 - Bug in my Soup
+@url https://i.imgur.com/kZo7sZL.jpg
+@tags comic,humor,Pokemon,gaming
+@source http://www.duelinganalogs.com/comic/waiter/
+@type image @end
+@begin August 11, 2016 at 01:51:19PM -0500 - Florida Man banned from ordering pizza
+@url https://consumerist.com/2016/08/11/judge-forbids-man-from-ordering-pizza-after-restaurants-report-harassing-phone-calls/
+@text You might find my suicide note the next day, had this happened to me.
+
+> When I imagine a world without pizza delivery– wait, stop. I don't want to go there. I don't even want to think about where a Florida man is right now, living a pizzaless existence after a judge banned him from ordering pies from any of his local pizzerias.
+>
+> He allegedly used five different phone numbers to make [harassing] calls, as well as fake names, or, in some cases, he'd just refuse to give a name at all. Businesses in the area say they lost at least 67 in food as a result. That's why, as a condition of his bail, the judge has ordered him to refrain from calling for any more pizza.
+@tags news
+@type link @end
+@begin August 12, 2016 at 07:12:20AM -0500 - Great Alchemist
+@url https://i.imgur.com/TmV7n7c.jpg
+@tags life,comic,humor,finance
+@source http://buttersafe.com/2016/08/11/verbal-alchemy/
+@type image @end
+@begin August 12, 2016 at 07:14:36AM -0500 - Guess I won't be doing any shark fishing any time soon
+@url https://youtu.be/NpUsfdcbU10
+@tags shark,life,scary
+@type video @end
+@begin August 12, 2016 at 08:27:44AM -0500 - Just here for the Dratini
+@tags comic,humor,Pokemon,gaming
+@url https://i.imgur.com/L51SMeD.jpg
+@text Totally legit
+@source http://introvertdoodles.com/comic/gotta-catch-em-all/
+@type image @end
+@begin August 12, 2016 at 09:55:35AM -0500 - Trump tells evangelical voters he has to win the election to get into heaven.
+@url http://www.someecards.com/news/politics/donald-trump-evangelical-voters-heaven/
+@text So, you're telling me that he's running for president because he thinks it'll get him into heaven?
+@tags politics,religion
+@type link @end
+@begin August 12, 2016 at 04:36:34PM -0500 - Batman of Shanghai
+@url https://youtu.be/dA6KPuUGQz4
+@text This is amazing. I want an entire series, and a companion comic, and a feature-length film.
+@tags animation,awesome,Batman
+@type video @end
+@begin August 12, 2016 at 04:43:15PM -0500 - I Am Somebody
+@url https://youtu.be/iTB1h18bHlY
+@text Jesse Jackson on Sesame Street
+@tags children,inspiration,life
+@type video @end
+@begin August 15, 2016 at 03:33:15PM -0500 - "Empire Strikes Back" trailer with "Rogue One" music
+@url https://youtu.be/Qcmb2YkIpJo
+@text This is pretty epic
+@tags film,trailer
+@type video @end
+@begin August 16, 2016 at 06:59PM - Pokemon GO Gets Too Real
+@type video
+@url https://youtu.be/LaHePlPel4I
+@tags humor, gaming, Pokemon @end
+@begin August 17, 2016 at 09:48:05AM -0500 - Sense of Right Alliance
+@tags marketing,humor
+@url https://i.imgur.com/0emkjiB.jpg
+@text I'm not sure which is better: Shrek, or a blue Lightning McQueen.
+@source http://news.dose.com/style/24986/16-Hilarious-Examples-Of-Off-Brands-Gone-Wrong
+@type image @end
+@begin August 18, 2016 at 09:34:30AM -0500 - Help my son!
+@url https://i.imgur.com/2zwmZUH.jpg
+@type image
+@source http://buttersafe.com/2016/08/18/rescue-my-son/
+@tags comic,humor @end
+@begin August 18, 2016 at 02:49:15PM -0500 - The White Man in That Photo
+@url http://www.filmsforaction.org/articles/the-white-man-in-that-photo/
+@text ![John Carlos, Tommie Smith, and Peter Norman](https://pbs.twimg.com/media/CLvU7OGWsAAEbrX.jpg)
+
+> The two Americans had asked Norman if he believed in human rights. Norman said he did. They asked him if he believed in God, and he, who had been in the Salvation Army, said he believed strongly in God. "We knew that what we were going to do was far greater than any athletic feat, and he said 'I'll stand with you'" – remembers John Carlos – "I expected to see fear in Norman's eyes, but instead we saw love."
+>
+> Smith and Carlos had decided to get up on the stadium wearing the Olympic Project for Human Rights badge, a movement of athletes in support of the battle for equality.
+>
+> They would receive their medals barefoot, representing the poverty facing people of color. They would wear the famous black gloves, a symbol of the Black Panthers' cause. But before going up on the podium they realized they only had one pair of black gloves. "Take one each", Norman suggested. Smith and Carlos took his advice.
+>
+> But then Norman did something else. "I believe in what you believe. Do you have another one of those for me ?"
+>
+> There happened to be a white American rower with them, Paul Hoffman, an activist with the Olympic Project for Human Rights. After hearing everything he thought "if a white Australian is going to ask me for an Olympic Project for Human Rights badge, then by God he would have one!" Hoffman didn't hesitate: "I gave him the only one I had: mine".
+>
+> He was the greatest Australian sprinter in history and the holder of the 200 meter record, yet he wasn't even invited to the Olympics in Sydney. It was the American Olympic Committee, that once they learned of this news asked him to join their group and invited him to Olympic champion Michael Johnson's birthday party, for whom Peter Norman was a role model and a hero.
+>
+> Norman died suddenly from a heart attack in 2006, without his country ever having apologized for their treatment of him. At his funeral Tommie Smith and John Carlos, Norman's friends since that moment in 1968, were his pallbearers, sending him off as a hero.
+@tags equality,rights
+@type link @end
+@begin August 22, 2016 at 04:05:41PM -0500 - Before cigarettes
+@url https://i.imgur.com/qslVfPD.png
+@tags comic,humor,health
+@source http://poorlydrawnlines.com/comic/campfire/
+@type image @end
+@begin August 29, 2016 at 08:21:43AM -0500 - Duty
+@text When a stupid man is doing something he is ashamed of, he always declares that it is his duty.
+@tags duty,life
+@source George Bernard Shaw
+@type quote @end
+@begin August 29, 2016 at 08:22:29AM -0500 - Foolish
+@text You must not think me necessarily foolish because I am facetious, nor will I consider you necessarily wise because you are grave.
+@tags foolishness
+@source Sydney Smith
+@type quote @end
+@begin August 30, 2016 at 11:24:28AM -0500 - Faulty arguments
+@text The most perfidious way of harming a cause consists of defending it deliberately with faulty arguments.
+@type quote
+@source Friedrich Nietzsche
+@tags logic @end
+@begin September 01, 2016 at 08:27:52AM -0500 - Text Replacement prank backfires
+@url http://www.collegehumor.com/post/7036044/i-changed-my-dads-phone-so-when-he-texts-love-you-it-says-ive-got-a-tiny-little-dick
+@type link
+@tags humor,family @end
+@begin September 6, 2016 at 20:02 -0500 - The hippest cybercafé of 1995
+@type video
+@url https://youtu.be/iWssRVJgPqc
+@tags Internet @end
+@begin September 07, 2016 at 07:38:51AM -0500 - Only Thing of Consequence
+@source John Ruskin
+@text What we think, or what we know, or what we believe is, in the end, of little consequence. The only consequence is what we do.
+@type quote @end
+@begin September 09, 2016 at 10:16:45AM -0500 - Why 4 am is the most productive hour
+@url http://finance.yahoo.com/news/why-4-m-most-productive-170400939.html
+@text I get into the office before anyone else, and I find that I'm definitely the most productive during those two hours before the rest of the team arrives.
+@tags productivity
+@type link @end
+@begin September 16, 2016 at 07:47:07AM -0500 - Sad T-Rex
+@url https://youtu.be/I2j2-DqcPfM
+@tags commercial,humor,dinosaurs
+@type video @end
+@begin September 16, 2016 at 08:03:23AM -0500 - Are you a Jerk?
+@url http://nautil.us/issue/40/learning/how-to-tell-if-youre-a-jerk
+@text > The scientifically recognized personality categories closest to "jerk" are the "dark triad" of narcissism, Machiavellianism, and psychopathic personality. Narcissists regard themselves as more important than the people around them, which jerks also implicitly or explicitly do. And yet narcissism is not quite jerkitude, since it also involves a desire to be the center of attention, a desire that jerks don't always have. Machiavellian personalities tend to treat people as tools they can exploit for their own ends, which jerks also do. And yet this too is not quite jerkitude, since Machivellianism involves self-conscious cynicism, while jerks can often be ignorant of their self-serving tendencies. People with psychopathic personalities are selfish and callous, as is the jerk, but they also incline toward impulsive risk-taking, while jerks can be calculating and risk-averse.
+>
+> Jerks see the world through goggles that dim others' humanity. The server at the restaurant is not a potentially interesting person with a distinctive personality, life story, and set of goals to which you might possibly relate. Instead, he is merely a tool by which to secure a meal or a fool on which you can vent your anger. The people ahead of you at Starbucks are faceless and of no account. Those beneath you in the social hierarchy lack your talents and deserve to get the scut work.
+>
+> To sharpen our conception of jerkitude, it's helpful also to consider the jerk's opposite: the sweetheart. Maybe you know one or two of these people—habitually alert to the needs and interests of others, solicitous of others' thoughts and preferences, liable in cases of conflict to suspect that the fault might lie with them rather than with the other party. Imagine flipping our jerk goggles inside out, converting them into sweetheart goggles—goggles that make especially vivid the value, interest, importance, and specialness of the people around you.
+@tags psychology,self,introspection
+@type link @end
+@begin September 16, 2016 at 10:53:30AM -0500 - My Life
+@url https://i.imgur.com/Mgx7Fly.png
+@tags children,comic,humor
+@source http://familylandcomic.com/comic/a-short-respite/
+@type image @end
+@begin September 16, 2016 at 12:55:14PM -0500 - Just a Hug?
+@url https://i.imgur.com/lRL0FpW.png
+@tags comic,childhood,humor,sadness
+@source http://buttersafe.com/2016/09/15/bang-bang-bang/
+@type image @end
+@begin September 19, 2016 at 08:29:21AM -0500 - Every time my wife sends me to the grocery store
+@url https://i.imgur.com/zPpCden.png
+@tags comic,humor,snacks
+@source http://theunderfold.com/2016/09/19/clean-eating/
+@type image @end
+@begin September 19, 2016 at 08:50:38AM -0500 - The Solution to Traffic
+@url https://www.youtube.com/watch?v=iHzzSao6ypE
+@type video
+@tags educational,traffic @end
+@begin September 20, 2016 at 08:32:28AM -0500 - All Animals Go Somewhere
+@url https://i.imgur.com/YssxNSY.png
+@tags comic,humor
+@source http://www.cheerupemokid.com/comic/animythology
+@type image @end
+@begin September 22, 2016 at 04:44:43PM -0500 - 91-year-old woman aided by Pokémon Go players
+@url http://www.warringtonguardian.co.uk/news/14753866.Woman_thanks_Pokemon_Go_players_who_rushed_to_aid_91_year_old_mum/
+@type link
+@tags news,gaming,Pokemon @end
+@begin September 23, 2016 at 07:11:34AM -0500 - See a Tiny Fraction of It
+@url https://i.imgur.com/R3Q0zvs.png
+@tags comic,humor,life
+@source http://theawkwardyeti.com/comic/fraction-traveled/
+@type image @end
+@begin September 25, 2016 at 01:57PM - Australia Is Not Quite Where You Think It Is
+@type link
+@url http://news.nationalgeographic.com/2016/09/australia-moves-gps-coordinates-adjusted-continental-drift/
+@tags news, geography
+@text > The continent has shifted by 4.9 feet since the last adjustment was
+made to GPS coordinates in 1994.
+>
+> All of the Earth’s continents float on tectonic plates, which glide
+slowly over a plastic-like layer of the upper mantle. And the plate that
+Australia sits on has been moving relatively fast, about 2.7 inches a year
+(northward and with a slight clockwise rotation).
+>
+> This type of shifting is coming more into focus as GPS systems get more
+accurate. The most advanced technology can now pinpoint a location to a
+matter of inches. Although most consumer cellphones don’t have that level
+of accuracy (yet), the technology is being used in other ways, including by
+farmers who spray fields with precision agriculture and self-driving
+vehicles. @end
+@begin September 26, 2016 at 11:26:43AM -0500 - People Are Actually Drilling Holes Into Their iPhone 7 to Make a Headphone Jack
+@url http://www.craveonline.com/design/1124445-people-actually-drilling-holes-iphone-7-make-headphone-jack
+@type link
+@tags news,technology
+@end
+@begin September 26, 2016 at 11:42:38AM -0500 - Fracking causes earthquakes
+@url http://science.sciencemag.org/content/353/6306/1416
+@text >Observations that unequivocally link seismicity and wastewater injection are scarce. Here we show that wastewater injection in eastern Texas causes uplift, detectable in radar interferometric data up to >8 kilometers from the wells.
+>
+> We infer that an increase of >1 megapascal in pore pressure in rocks with low compressibility triggers earthquakes, including the 4.8–moment magnitude event that occurred on 17 May 2012, the largest earthquake recorded in eastern Texas
+@tags science,environment,fracking,seismology
+@type link
+@end
+@begin October 17, 2016 at 01:38:25PM -0500 - Better to be Safe
+@url https://i.imgur.com/FIJNxAe.png
+@tags comic,humor,technology
+@source http://theunderfold.com/2016/10/11/google-please/
+@type image
+@end
+@begin November 16, 2016 at 07:39:38AM -0600 - Trump and ICQ
+@text I logged into my ICQ account today, just for the heck of it. When I looked in "Groups", the top one was a huge Trump supporter group. I guess the reason we didn't know he had such a huge base of supporters is because they were all hiding out on ICQ.
+@type status
+@end
+@begin November 16, 2016 at 02:58:49PM -0600 - China Tells Trump That Climate Change Is No Hoax It Invented
+@url http://www.bloomberg.com/news/articles/2016-11-16/china-tells-trump-that-climate-change-is-no-hoax-it-invented
+@type link
+@text So, China has confirmed that it didn't invent climate change, and Mexico has confirmed that they won't pay for President-Elect Trump's wall. Hmmm...
+@end
+@begin November 17, 2016 at 10:18:34AM -0600 - Internet Power! Volume 1 (1995)
+@url https://youtu.be/4NJUKnFgGS8
+@text Learning how to use the Internet, back in the mid-90s
+@tags Internet
+@type video
+@end

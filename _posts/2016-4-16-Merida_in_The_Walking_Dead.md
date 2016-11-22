@@ -11,5 +11,3 @@ title: Merida in The Walking Dead
 type: image
 
 ---
-<img src="http://ift.tt/1XBWpV3" alt="" />
-

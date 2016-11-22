@@ -12,7 +12,3 @@ title: What can we do?
 type: image
 
 ---
-<img src="https://i.imgur.com/ykmu4U7.jpeg" alt="" />
-
-<cite>http://theawkwardyeti.com/comic/what-can-we-do/</cite>
-

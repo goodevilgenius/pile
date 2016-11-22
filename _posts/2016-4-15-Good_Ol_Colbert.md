@@ -10,5 +10,3 @@ title: Good Ol' Colbert
 type: image
 
 ---
-<img src="https://i.imgur.com/OEKLsef.jpg" alt="" />
-

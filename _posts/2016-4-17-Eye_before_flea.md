@@ -10,5 +10,3 @@ title: Eye before flea
 type: image
 
 ---
-<img src="https://i.imgur.com/trFtZjL.jpg" alt="" />
-

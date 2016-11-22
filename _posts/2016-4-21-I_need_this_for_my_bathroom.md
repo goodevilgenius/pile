@@ -10,5 +10,3 @@ title: I need this for my bathroom
 type: image
 
 ---
-<img src="https://i.imgur.com/1fUOFdp.jpg" alt="" />
-

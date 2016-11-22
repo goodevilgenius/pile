@@ -11,7 +11,3 @@ title: Dangerous
 type: image
 
 ---
-<img src="https://i.imgur.com/Sew5QWu.jpg" alt="" />
-
-<cite>https://www.instagram.com/p/BET-QYwscb8/</cite>
-

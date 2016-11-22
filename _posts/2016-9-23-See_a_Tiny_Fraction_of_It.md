@@ -12,7 +12,3 @@ title: See a Tiny Fraction of It
 type: image
 
 ---
-<img src="https://i.imgur.com/R3Q0zvs.png" alt="" />
-
-<cite>http://theawkwardyeti.com/comic/fraction-traveled/</cite>
-

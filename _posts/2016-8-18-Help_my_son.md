@@ -11,7 +11,3 @@ title: Help my son!
 type: image
 
 ---
-<img src="https://i.imgur.com/2zwmZUH.jpg" alt="" />
-
-<cite>http://buttersafe.com/2016/08/18/rescue-my-son/</cite>
-

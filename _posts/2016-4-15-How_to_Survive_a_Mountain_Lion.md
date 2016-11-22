@@ -10,5 +10,3 @@ title: How to Survive a Mountain Lion
 type: image
 
 ---
-<img src="https://i.imgur.com/UOjeZye.jpg" alt="" />
-

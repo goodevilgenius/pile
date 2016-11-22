@@ -13,7 +13,3 @@ title: Bug in my Soup
 type: image
 
 ---
-<img src="https://i.imgur.com/kZo7sZL.jpg" alt="" />
-
-<cite>http://www.duelinganalogs.com/comic/waiter/</cite>
-

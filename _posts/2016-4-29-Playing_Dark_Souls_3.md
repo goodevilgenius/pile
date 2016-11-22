@@ -12,8 +12,4 @@ title: Playing Dark Souls 3
 type: image
 
 ---
-<img src="https://i.imgur.com/NP6HThf.jpg" alt="" />
-
-<cite>http://theunderfold.com/2016/04/19/playing-dark-souls-3/</cite>
-
 Far too accurate

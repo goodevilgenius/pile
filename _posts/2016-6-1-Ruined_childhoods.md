@@ -13,7 +13,3 @@ title: Ruined childhoods
 type: image
 
 ---
-<img src="https://i.imgur.com/c7W6jAF.jpg" alt="" />
-
-<cite>http://theunderfold.com/2016/06/01/reboots-ruining-childhood/</cite>
-

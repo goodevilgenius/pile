@@ -12,7 +12,3 @@ title: Before cigarettes
 type: image
 
 ---
-<img src="https://i.imgur.com/qslVfPD.png" alt="" />
-
-<cite>http://poorlydrawnlines.com/comic/campfire/</cite>
-

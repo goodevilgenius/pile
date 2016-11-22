@@ -1,5 +1,7 @@
 ---
 date: 2016-08-01 15:32:47-05:00
+embed: <iframe width="480" height="270" src="https://www.youtube.com/embed/oD-KCkpcsvA?feature=oembed"
+  frameborder="0" allowfullscreen></iframe>
 embed_url: https://youtu.be/oD-KCkpcsvA
 layout: post
 tags:
@@ -10,5 +12,3 @@ title: "Honest Pok\xE9mon Go Trailer"
 type: video
 
 ---
-<iframe width="480" height="270" src="https://www.youtube.com/embed/oD-KCkpcsvA?feature=oembed" frameborder="0" allowfullscreen></iframe>
-

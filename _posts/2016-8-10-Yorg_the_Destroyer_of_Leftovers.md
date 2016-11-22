@@ -12,7 +12,3 @@ title: Yorg, the Destroyer of Leftovers
 type: image
 
 ---
-<img src="https://i.imgur.com/vqWWuyc.jpg" alt="" />
-
-<cite>http://theunderfold.com/2016/08/10/leftovers/</cite>
-

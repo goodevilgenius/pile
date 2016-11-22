@@ -12,8 +12,4 @@ title: "New Pok\xE9mon"
 type: image
 
 ---
-<img src="https://i.imgur.com/qbEZTvL.jpg" alt="" />
-
-<cite>http://deathbulge.com/comics/343</cite>
-
 Can't wait to try out Traf

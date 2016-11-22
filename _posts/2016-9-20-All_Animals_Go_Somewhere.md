@@ -11,7 +11,3 @@ title: All Animals Go Somewhere
 type: image
 
 ---
-<img src="https://i.imgur.com/YssxNSY.png" alt="" />
-
-<cite>http://www.cheerupemokid.com/comic/animythology</cite>
-

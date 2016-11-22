@@ -14,5 +14,3 @@ title: '#MeanwhileInTexas Washington(?) crossing the #houstonflood'
 type: image
 
 ---
-<img src="https://i.imgur.com/EsR6tpv.jpg" alt="" />
-

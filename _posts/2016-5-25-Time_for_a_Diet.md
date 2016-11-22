@@ -12,8 +12,4 @@ title: Time for a Diet
 type: image
 
 ---
-<img src="https://i.imgur.com/SMESqHc.jpg" alt="" />
-
-<cite>http://www.lunarbaboon.com/comics/finish.html</cite>
-
 This is definitely me.

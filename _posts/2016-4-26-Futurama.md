@@ -10,7 +10,3 @@ title: Futurama
 type: image
 
 ---
-<img src="http://img06.deviantart.net/9ffc/i/2014/141/9/b/good_news__everyone__by_leopinheiro-d7iqpju.jpg" alt="" />
-
-<cite>http://leopinheiro.deviantart.com/art/Good-News-Everyone-454742490</cite>
-

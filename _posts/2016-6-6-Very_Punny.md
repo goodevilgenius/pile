@@ -12,7 +12,3 @@ title: Very Punny
 type: image
 
 ---
-<img src="https://i.imgur.com/rXHXYcW.png" alt="" />
-
-<cite>http://explosm.net/comics/4322/</cite>
-

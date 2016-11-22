@@ -12,8 +12,4 @@ title: Nightmare
 type: image
 
 ---
-<img src="https://i.imgur.com/0A0xkIa.jpg" alt="" />
-
-<cite>http://maximumble.thebookofbiff.com/2016/05/17/1334-awake/</cite>
-
 The Horror

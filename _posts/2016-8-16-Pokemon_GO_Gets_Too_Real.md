@@ -1,5 +1,7 @@
 ---
 date: 2016-08-16 18:59:00-05:00
+embed: <iframe width="480" height="270" src="https://www.youtube.com/embed/LaHePlPel4I?feature=oembed"
+  frameborder="0" allowfullscreen></iframe>
 embed_url: https://youtu.be/LaHePlPel4I
 layout: post
 tags:
@@ -11,5 +13,3 @@ title: Pokemon GO Gets Too Real
 type: video
 
 ---
-<iframe width="480" height="270" src="https://www.youtube.com/embed/LaHePlPel4I?feature=oembed" frameborder="0" allowfullscreen></iframe>
-

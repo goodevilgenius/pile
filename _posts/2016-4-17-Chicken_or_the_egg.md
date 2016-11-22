@@ -12,8 +12,4 @@ title: Chicken or the egg
 type: image
 
 ---
-<img src="https://40.media.tumblr.com/075b388a4fcb86a96f56849d6210fb33/tumblr_inline_o5qq4idFVC1qzlc1w_540.jpg" alt="" />
-
-<cite>https://piecomic.tumblr.com/post/142908826057/which-came-first-chicken-or-the-egg</cite>
-
 Evolution is strange

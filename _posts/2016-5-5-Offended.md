@@ -12,7 +12,3 @@ title: Offended
 type: image
 
 ---
-<img src="https://i.imgur.com/JhbcL4o.png" alt="" />
-
-<cite>http://theawkwardyeti.com/comic/offensive/</cite>
-

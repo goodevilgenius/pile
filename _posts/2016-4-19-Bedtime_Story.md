@@ -9,5 +9,3 @@ title: Bedtime Story
 type: image
 
 ---
-<img src="https://i.imgur.com/qKV9J5u.jpg" alt="" />
-

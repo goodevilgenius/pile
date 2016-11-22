@@ -12,7 +12,3 @@ title: Begging the Question
 type: image
 
 ---
-<img src="https://i.imgur.com/osexIva.png" alt="" />
-
-<cite>http://wondermark.com/c1234/</cite>
-

@@ -10,5 +10,3 @@ title: Pray for Orlando
 type: image
 
 ---
-<img src="https://i.imgur.com/8lIbb9f.jpg" alt="" />
-

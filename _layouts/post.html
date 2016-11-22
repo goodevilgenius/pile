@@ -2,34 +2,49 @@
 layout: default
 ---
 
-<article class="post">
-  {% if page.type != "status" %}
-  <h1>{{ page.title }}</h1>
-  {% endif %}
+<!-- Post Header -->
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <h1>{{ page.title }}</h1>
+                    {% if page.subtitle %}
+                    <h2 class="subheading">{{ page.subtitle }}</h2>
+                    {% endif %}
+                    <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
 
-  <div class="entry">
-	{% if page.type == "link" and page.link_url %}
-	<a href="{{ page.link_url }}">Follow &#x27A1;</a>
-	{% endif %}
-    {{ content }}
-  </div>
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
-  {% if page.tags.size > 0 %}<div class="tags">Tags:
-	{% for tag in page.tags %}<a href="{{ site.baseurl }}/tag/{{ tag|uri_escape }}">{{ tag }}</a> {% endfor %}
-  </div>{% endif %}
-  <div class="meta">
-	<span class="post-type post-{{ page.type }}"><a href="{{ site.baseurl }}/type/{{ page.type|uri_escape }}/"><img class="icon" src="" /></a></span>
-	<span class="date">
-      Written on <a href="{{ site.baseurl }}/{{ page.date|date: "%Y" }}/{{ page.date|date: "%m" }}/">{{ page.date|date: "%B" }}</a>
-	  <a href="{{ site.baseurl }}/{{ page.date|date: "%Y"}}/{{ page.date|date: "%m" }}/{{ page.date|date: "%d" }}/">{{ page.date|date: "%e" }}</a>,
-	  <a href="{{ site.baseurl }}/{{ page.date|date: "%Y" }}/">{{ page.date|date: "%Y" }}</a>
-	</span>
-	<p class="nav">
-	  {% if page.previous %}<a rel="prev" href="{{page.previous.url|prepend:site.baseurl|prepend:site.url}}">&laquo; {{ page.previous.title }}</a>{% endif %}
-	  {% if page.next %}<a rel="next" href="{{page.next.url|prepend:site.baseurl|prepend:site.url}}">{{page.next.title}} &raquo;</a>{% endif %}
-	</p>
-  </div>
+				{{ content }}
 
-  {% include disqus.html %}
+                <hr>
+
+                <ul class="pager">
+                    {% if page.previous.url %}
+                    <li class="previous">
+                        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+                    </li>
+                    {% endif %}
+                    {% if page.next.url %}
+                    <li class="next">
+                        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+                    </li>
+                    {% endif %}
+                </ul>
+
+            </div>
+        </div>
+    </div>
 </article>
-<script type="text/javascript" src="{{site.baseurl}}/js/post.js"></script>
+
+<hr>

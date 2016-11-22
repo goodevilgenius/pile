@@ -13,7 +13,3 @@ title: Great Alchemist
 type: image
 
 ---
-<img src="https://i.imgur.com/TmV7n7c.jpg" alt="" />
-
-<cite>http://buttersafe.com/2016/08/11/verbal-alchemy/</cite>
-

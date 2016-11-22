@@ -10,5 +10,3 @@ title: Useful Phrases in Various Languages
 type: image
 
 ---
-<img src="http://ift.tt/1TYIj19" alt="" />
-

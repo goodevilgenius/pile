@@ -1,46 +1,35 @@
 ---
-layout: default
+layout: page
 ---
 
-<div class="posts">
-  {% assign current = "false" %}
-  {% for post in paginator.posts %}
-    {% capture next %}{{ post.date|date: "%Y-%m-%d" }}{% endcapture %}
-    {% if next != current %}{% capture current %}{{ next }}{% endcapture %}<header><h1>
-	  <a href="{{ site.baseurl }}/{{ post.date|date: "%Y" }}/{{ post.date|date: "%m" }}/">{{ post.date|date: "%B" }}</a>
-	  <a href="{{ site.baseurl }}/{{ post.date|date: "%Y"}}/{{ post.date|date: "%m" }}/{{ post.date|date: "%d" }}/">{{ post.date|date: "%e" }}</a>,
-	  <a href="{{ site.baseurl }}/{{ post.date|date: "%Y" }}/">{{ post.date|date: "%Y" }}</a>
-    </h1></header>{% endif %}
-    <article class="post post-{{ post.type }}">
-	  <header>
-		{% if post.type != "quote" %}{% if post.type != "status" %}
-		<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-		{% endif %}{% endif %}
-	  </header>
-      <div class="entry entry-{{ post.type }}">
-		{% if (post.type == "quote") or (post.type == "status") %}
-		{{ post.content }}
-		{% else %}
-        {{ post.excerpt }}
-		{% endif %}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+{% for post in paginator.posts %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title">            {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+    </a>
+    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
+<hr>
+{% endfor %}
 
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-  <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous">Previous</a>
-  {% else %}
-  <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-  <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-  <span class="next ">Next</span>
-  {% endif %}
-</div>
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+<ul class="pager">
+    {% if paginator.previous_page %}
+    <li class="previous">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    </li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li class="next">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    </li>
+    {% endif %}
+</ul>
+{% endif %}

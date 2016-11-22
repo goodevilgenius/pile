@@ -13,7 +13,3 @@ title: Just a Hug?
 type: image
 
 ---
-<img src="https://i.imgur.com/lRL0FpW.png" alt="" />
-
-<cite>http://buttersafe.com/2016/09/15/bang-bang-bang/</cite>
-

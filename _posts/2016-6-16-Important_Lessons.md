@@ -14,7 +14,3 @@ title: Important Lessons
 type: image
 
 ---
-<img src="https://i.imgur.com/FNwY1D9.jpg" alt="" />
-
-<cite>http://piecomic.tumblr.com/post/146020350707/tbt</cite>
-

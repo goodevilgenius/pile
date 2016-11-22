@@ -11,7 +11,3 @@ title: Dick pics
 type: image
 
 ---
-<img src="http://mythdirection.com/wp-content/uploads/2016/04/dick.png" alt="" />
-
-<cite>http://mythdirection.com/comic/pics/</cite>
-

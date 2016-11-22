@@ -11,8 +11,4 @@ title: Better Tomorrow
 type: image
 
 ---
-<img src="https://i.imgur.com/7lsxVLI.png" alt="" />
-
-<cite>http://maximumble.thebookofbiff.com/2016/04/29/1322-give-up/</cite>
-
 How I feel most days

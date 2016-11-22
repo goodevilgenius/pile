@@ -12,7 +12,3 @@ title: Project is Finished
 type: image
 
 ---
-<img src="https://i.imgur.com/f3XdT41.jpg" alt="" />
-
-<cite>http://theunderfold.com/2016/08/05/finished-projects/</cite>
-

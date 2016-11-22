@@ -1,5 +1,7 @@
 ---
 date: 2016-08-05 15:29:03-05:00
+embed: <iframe width="480" height="270" src="https://www.youtube.com/embed/2BXRGzjo1_Q?feature=oembed"
+  frameborder="0" allowfullscreen></iframe>
 embed_url: https://youtu.be/2BXRGzjo1_Q
 layout: post
 tags:
@@ -12,5 +14,3 @@ title: 18th Century Instagram
 type: video
 
 ---
-<iframe width="480" height="270" src="https://www.youtube.com/embed/2BXRGzjo1_Q?feature=oembed" frameborder="0" allowfullscreen></iframe>
-

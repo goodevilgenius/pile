@@ -12,7 +12,3 @@ title: Weredad
 type: image
 
 ---
-<img src="https://i.imgur.com/s2BZkgx.jpg" alt="" />
-
-<cite>http://theunderfold.com/2016/07/05/werewolf/</cite>
-

@@ -11,8 +11,4 @@ title: Sense of Right Alliance
 type: image
 
 ---
-<img src="https://i.imgur.com/0emkjiB.jpg" alt="" />
-
-<cite>http://news.dose.com/style/24986/16-Hilarious-Examples-Of-Off-Brands-Gone-Wrong</cite>
-
 I'm not sure which is better: Shrek, or a blue Lightning McQueen.

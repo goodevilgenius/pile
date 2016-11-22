@@ -11,5 +11,3 @@ title: Eye of The Tiger
 type: image
 
 ---
-<img src="https://i.imgur.com/dtpfNJJ.jpg" alt="" />
-
