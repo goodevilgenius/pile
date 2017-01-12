@@ -11,4 +11,4 @@ title: TIL The Riot Act was an actual law
 type: link
 
 ---
-In 1714, the Riot Act was passed in England. This act allowed local authorities to decide that any gathered group of twelve or more people constituted a "riotous assembly". At that point, the official would read them the Riot Act, and if they failed to disperse within an hour, the could be arrested.
+In 1714, the Riot Act was passed in England. This act allowed local authorities to decide that any gathered group of twelve or more people constituted a "riotous assembly". At that point, the official would read them the Riot Act, and if they failed to disperse within an hour, they could be arrested.
