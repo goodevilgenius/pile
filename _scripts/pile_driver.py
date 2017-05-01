@@ -20,6 +20,9 @@ fp.close()
 for e in entries['pile']:
     e['layout'] = "post"
     e['timestamp'] = int(e["date"].strftime('%s'))
+    if not "type" in e:
+        e['type'] = 'link'
+
     if "tags" in e: e['tags'] = map(unicode, e['tags'])
     if "url" in e:
         if e["url"] is None: del e["url"]
