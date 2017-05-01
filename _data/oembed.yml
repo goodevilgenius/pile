@@ -1602,3 +1602,33 @@ urls:
   url: https://youtu.be/Wxav9Jj7R68
   version: '1.0'
   width: 480
+- author_name: ABC News
+  author_url: https://www.youtube.com/user/ABCNews
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/GO5xB8BlhbU?start=3120&feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/GO5xB8BlhbU/hqdefault.jpg
+  thumbnail_width: 480
+  title: White House Correspondents Dinner 2017 hosted by Hasan Minhaj
+  type: video
+  url: https://youtu.be/GO5xB8BlhbU?t=3120
+  version: '1.0'
+  width: 480
+- author_name: LastWeekTonight
+  author_url: https://www.youtube.com/user/LastWeekTonight
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/xecEV4dSAXE?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/xecEV4dSAXE/hqdefault.jpg
+  thumbnail_width: 480
+  title: 'Trump vs. Truth: Last Week Tonight with John Oliver (HBO)'
+  type: video
+  url: https://youtu.be/xecEV4dSAXE
+  version: '1.0'
+  width: 480
