@@ -13,5 +13,5 @@ stage: build
 
 deploy: build
 	git add -A _posts _data archives
-	git commit -m "[Add] `printf "\U$(EMOJI)"` `date`: `fortune -s | tr '\n' ' ' | sed -r 's/[[:blank:]]+/ /g'`"
+	git commit -m "[Add] `printf "\U$(EMOJI)"` `date`: `fortune -s -n 61 | tr '\n' ' ' | sed -r 's/[[:blank:]]+/ /g'`"
 	git push github gh-pages
