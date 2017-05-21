@@ -1,0 +1,12 @@
+---
+date: 2017-05-20 21:10:38-05:00
+layout: post
+tags:
+- technology
+- reading
+timestamp: 1495332638
+title: I was reading, and, for some reason, tapping on the side of the page wasn't
+  turning it. That's when I realized I was reading a paper book, not an e-book
+type: status
+
+---
