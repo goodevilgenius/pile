@@ -1647,3 +1647,18 @@ urls:
   url: https://www.youtube.com/watch?v=szdbKz5CyhA
   version: '1.0'
   width: 459
+- author_name: Just Write
+  author_url: https://www.youtube.com/user/mythicalsage
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/fB6UU1p8NYs?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/fB6UU1p8NYs/hqdefault.jpg
+  thumbnail_width: 480
+  title: How to Pun Like The Masters
+  type: video
+  url: https://youtu.be/fB6UU1p8NYs
+  version: '1.0'
+  width: 480
