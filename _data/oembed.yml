@@ -1662,3 +1662,18 @@ urls:
   url: https://youtu.be/fB6UU1p8NYs
   version: '1.0'
   width: 480
+- author_name: allthatremainsVEVO
+  author_url: https://www.youtube.com/user/allthatremainsVEVO
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/36Vs_JoIvjA?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/36Vs_JoIvjA/hqdefault.jpg
+  thumbnail_width: 480
+  title: All That Remains - The Thunder Rolls (Official Music Video)
+  type: video
+  url: https://www.youtube.com/watch?v=36Vs_JoIvjA
+  version: '1.0'
+  width: 480
