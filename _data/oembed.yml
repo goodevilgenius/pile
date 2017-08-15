@@ -1677,3 +1677,33 @@ urls:
   url: https://www.youtube.com/watch?v=36Vs_JoIvjA
   version: '1.0'
   width: 480
+- author_name: VICE News
+  author_url: https://www.youtube.com/user/vicenews
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/P54sP0Nlngg?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/P54sP0Nlngg/hqdefault.jpg
+  thumbnail_width: 480
+  title: "Charlottesville: Race and Terror \u2013 VICE News Tonight on HBO"
+  type: video
+  url: https://www.youtube.com/watch?v=P54sP0Nlngg
+  version: '1.0'
+  width: 480
+- author_name: Auralnauts
+  author_url: https://www.youtube.com/user/Auralnauts
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/KAOdjqyG37A?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/KAOdjqyG37A/hqdefault.jpg
+  thumbnail_width: 480
+  title: How To Make A Blockbuster Movie Trailer
+  type: video
+  url: https://www.youtube.com/watch?v=KAOdjqyG37A
+  version: '1.0'
+  width: 480
