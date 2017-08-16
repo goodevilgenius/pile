@@ -1707,3 +1707,18 @@ urls:
   url: https://www.youtube.com/watch?v=KAOdjqyG37A
   version: '1.0'
   width: 480
+- author_name: Funny Or Die
+  author_url: https://www.youtube.com/user/FunnyorDie
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/hwufxP6OSdE?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/hwufxP6OSdE/hqdefault.jpg
+  thumbnail_width: 480
+  title: 'Sure Thing Chief: Black Whisper Throat Spray'
+  type: video
+  url: https://youtu.be/hwufxP6OSdE
+  version: '1.0'
+  width: 480
