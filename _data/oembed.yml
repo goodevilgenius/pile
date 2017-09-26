@@ -1722,3 +1722,18 @@ urls:
   url: https://youtu.be/hwufxP6OSdE
   version: '1.0'
   width: 480
+- author_name: Monica Jacobs
+  author_url: https://www.youtube.com/channel/UCe0X-ggzxDazs5ml_k_zEyw
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/iF9DXjeTypU?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/iF9DXjeTypU/hqdefault.jpg
+  thumbnail_width: 480
+  title: September 25, 2017
+  type: video
+  url: https://www.youtube.com/watch?v=iF9DXjeTypU
+  version: '1.0'
+  width: 480
