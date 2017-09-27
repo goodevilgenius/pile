@@ -1737,3 +1737,18 @@ urls:
   url: https://www.youtube.com/watch?v=iF9DXjeTypU
   version: '1.0'
   width: 480
+- author_name: Quinn
+  author_url: https://www.youtube.com/user/Feverpitch64
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/n3sAJY7VVFY?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/n3sAJY7VVFY/hqdefault.jpg
+  thumbnail_width: 480
+  title: LDS General Conference 2017 Trailer
+  type: video
+  url: https://www.youtube.com/watch?v=n3sAJY7VVFY
+  version: '1.0'
+  width: 480
