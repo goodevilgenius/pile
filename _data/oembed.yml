@@ -1752,3 +1752,19 @@ urls:
   url: https://www.youtube.com/watch?v=n3sAJY7VVFY
   version: '1.0'
   width: 480
+- author_name: "EUPHRATES / \u30E6\u30FC\u30D5\u30E9\u30C6\u30B9"
+  author_url: https://www.youtube.com/user/EuphratesLtd
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/yzJk6ww3LD0?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/yzJk6ww3LD0/hqdefault.jpg
+  thumbnail_width: 480
+  title: "ballet rotoscope | \u30D0\u30EC\u30A8\u30FB\u30ED\u30C8\u30B9\u30B3\u30FC\
+    \u30D7"
+  type: video
+  url: https://www.youtube.com/watch?v=yzJk6ww3LD0
+  version: '1.0'
+  width: 480
