@@ -1768,3 +1768,18 @@ urls:
   url: https://www.youtube.com/watch?v=yzJk6ww3LD0
   version: '1.0'
   width: 480
+- author_name: The Academic
+  author_url: https://www.youtube.com/user/TheAcademicMusic
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/lO9d-AJai8Q?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/lO9d-AJai8Q/hqdefault.jpg
+  thumbnail_width: 480
+  title: The Academic - Bear Claws (Live Looper Version)
+  type: video
+  url: https://www.youtube.com/watch?v=lO9d-AJai8Q
+  version: '1.0'
+  width: 480
