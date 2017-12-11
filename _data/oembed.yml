@@ -1783,3 +1783,18 @@ urls:
   url: https://www.youtube.com/watch?v=lO9d-AJai8Q
   version: '1.0'
   width: 480
+- author_name: Warner Bros. Pictures
+  author_url: https://www.youtube.com/user/WarnerBrosPictures
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/cSp1dM2Vj48?feature=oembed"
+    frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/cSp1dM2Vj48/hqdefault.jpg
+  thumbnail_width: 480
+  title: READY PLAYER ONE - Official Trailer 1 [HD]
+  type: video
+  url: https://www.youtube.com/watch?v=cSp1dM2Vj48
+  version: '1.0'
+  width: 480
