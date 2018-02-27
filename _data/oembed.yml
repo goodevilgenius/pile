@@ -1813,3 +1813,19 @@ urls:
   url: https://www.youtube.com/watch?v=S-4rhjO6xYg
   version: '1.0'
   width: 480
+- author_name: HBO
+  author_url: https://www.youtube.com/user/HBO
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/UEhsFEgsI5U?feature=oembed"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/UEhsFEgsI5U/hqdefault.jpg
+  thumbnail_width: 480
+  title: Fahrenheit 451 (2018) Official Teaser ft. Michael B. Jordan & Michael Shannon
+    | HBO
+  type: video
+  url: https://www.youtube.com/watch?v=UEhsFEgsI5U
+  version: '1.0'
+  width: 480
