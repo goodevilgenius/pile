@@ -2,11 +2,13 @@
 
 import yaml, string, os, codecs, urllib, json, fnmatch, re
 import droplogger.droplogger as dl
+import droplogger.config as dlconf
+import droplogger.utils.date as dldate
 
-config = dl.read_config()
+config = dlconf.get_config()
 config['white'] = ["pile"]
-config['start'] = dl.parse_date('min')
-config['end'] = dl.parse_date('now')
+config['start'] = dldate.parse_date('min')
+config['end'] = dldate.parse_date('now')
 
 config['files'] = dl.get_files(**config)
 entries = dl.read_files(**config)
