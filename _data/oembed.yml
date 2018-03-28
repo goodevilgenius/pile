@@ -1829,3 +1829,18 @@ urls:
   url: https://www.youtube.com/watch?v=UEhsFEgsI5U
   version: '1.0'
   width: 480
+- author_name: Jonathan Young
+  author_url: https://www.youtube.com/user/jonathanyoungmusic
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/di1XUB0YIzw?feature=oembed"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/di1XUB0YIzw/hqdefault.jpg
+  thumbnail_width: 480
+  title: HELLFIRE - Metal Cover by Jonathan Young (Disney's Hunchback of Notre Dame)
+  type: video
+  url: https://youtu.be/di1XUB0YIzw
+  version: '1.0'
+  width: 480
