@@ -9,7 +9,7 @@ than I can remember.
 
 I do a little acting now and then as well.
 
-Also, I'm married with two kids. My family is my world
+Also, I'm married with three kids. My family is my world.
 
 ### Contact me
 
