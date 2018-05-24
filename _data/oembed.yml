@@ -1859,3 +1859,18 @@ urls:
   url: https://youtu.be/hzMzFGgmQOc
   version: '1.0'
   width: 480
+- author_name: Jeff Quitney
+  author_url: https://www.youtube.com/user/webdev17
+  height: 344
+  html: <iframe width="459" height="344" src="https://www.youtube.com/embed/naQ9EMJEv0U?feature=oembed"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/naQ9EMJEv0U/hqdefault.jpg
+  thumbnail_width: 480
+  title: 'Dial Telephones: "How to Use the Dial Phone" 1927 AT&T 7min'
+  type: video
+  url: https://www.youtube.com/watch?v=naQ9EMJEv0U
+  version: '1.0'
+  width: 459
