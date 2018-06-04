@@ -10,4 +10,4 @@ title: GitLab and The Old Reader
 type: status
 
 ---
-Remember when Google Reader was shutting down, and it took forever to import your GReader stuff into The Old Reader? That's what it's like with import GitHub repost into GitLab right now.
+Remember when Google Reader was shutting down, and it took forever to import your GReader stuff into The Old Reader? That's what it's like with importing GitHub repos into GitLab right now.
