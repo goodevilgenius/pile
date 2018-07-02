@@ -1874,3 +1874,47 @@ urls:
   url: https://www.youtube.com/watch?v=naQ9EMJEv0U
   version: '1.0'
   width: 459
+- air_date: Thu Feb 23 00:00:00 UTC 2012
+  author_name: Gravitas
+  cache_age: 3600
+  duration: 5650.68
+  embed_url: //www.hulu.com/embed.html?eid=LwAbPDILQ5hoJOlXwCDdNw
+  height: 427
+  html: <iframe width="740" height="427" src="//www.hulu.com/embed.html?eid=LwAbPDILQ5hoJOlXwCDdNw"
+    frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowfullscreen>
+    </iframe>
+  large_thumbnail_height: 288
+  large_thumbnail_url: http://ib.huluim.com/video/60038622?size=512x288&caller=h1o&img=i
+  large_thumbnail_width: 512
+  provider_name: Hulu
+  provider_url: //www.hulu.com/
+  thumbnail_height: 408
+  thumbnail_url: http://ib.huluim.com/video/60038622?size=145x80&caller=h1o&img=i
+  thumbnail_width: 740
+  title: 'Jens Pulver: Driven'
+  type: video
+  url: http://www.hulu.com/watch/951929
+  version: '1.0'
+  width: 740
+- air_date: Thu Feb 23 00:00:00 UTC 2012
+  author_name: Gravitas
+  cache_age: 3600
+  duration: 5650.68
+  embed_url: //www.hulu.com/embed.html?eid=LwAbPDILQ5hoJOlXwCDdNw
+  height: 427
+  html: <iframe width="740" height="427" src="//www.hulu.com/embed.html?eid=LwAbPDILQ5hoJOlXwCDdNw"
+    frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowfullscreen>
+    </iframe>
+  large_thumbnail_height: 288
+  large_thumbnail_url: http://ib.huluim.com/video/60038622?size=512x288&caller=h1o&img=i
+  large_thumbnail_width: 512
+  provider_name: Hulu
+  provider_url: //www.hulu.com/
+  thumbnail_height: 408
+  thumbnail_url: http://ib.huluim.com/video/60038622?size=145x80&caller=h1o&img=i
+  thumbnail_width: 740
+  title: 'Jens Pulver: Driven'
+  type: video
+  url: http://www.hulu.com/watch/952431
+  version: '1.0'
+  width: 740
