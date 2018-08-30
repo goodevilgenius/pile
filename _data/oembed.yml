@@ -1933,3 +1933,18 @@ urls:
   url: https://youtu.be/SGWmh-maevk
   version: '1.0'
   width: 459
+- author_name: Rolling Stone
+  author_url: https://www.youtube.com/user/RollingStone
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/kmr_CtN1K3g?feature=oembed"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/kmr_CtN1K3g/hqdefault.jpg
+  thumbnail_width: 480
+  title: Stephen Colbert Connects Chance the Rapper with "Lord of the Rings"
+  type: video
+  url: https://youtu.be/kmr_CtN1K3g
+  version: '1.0'
+  width: 480
