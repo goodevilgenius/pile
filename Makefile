@@ -11,7 +11,9 @@ build:
 stage: build
 	bundle exec jekyll build -c '_config.yml,_config.local.yml'
 
-deploy: build
+deploy-now:
 	git add -A _posts _data archives
 	git commit -m "[Add] `printf "\U$(EMOJI)"` `date`: `fortune -s -n 61 | tr '\n' ' ' | sed -r 's/[[:blank:]]+/ /g'`"
 	git push github gh-pages
+
+deploy: build deploy-now
