@@ -1963,3 +1963,18 @@ urls:
   url: https://youtu.be/vJG698U2Mvo
   version: '1.0'
   width: 459
+- author_name: Xelasi
+  author_url: https://www.youtube.com/user/xelasimc
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/ssVO5qnyQss?feature=oembed"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/ssVO5qnyQss/hqdefault.jpg
+  thumbnail_width: 480
+  title: Willie Nelson - Vote 'Em Out (Texas - Rally for Beto)
+  type: video
+  url: https://youtu.be/ssVO5qnyQss
+  version: '1.0'
+  width: 480
