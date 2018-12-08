@@ -1978,3 +1978,42 @@ urls:
   url: https://youtu.be/ssVO5qnyQss
   version: '1.0'
   width: 480
+- account_type: basic
+  author_name: Eleonora Stella Hariyono Oei
+  author_url: https://vimeo.com/eleonorastellahariyono
+  description: 'Eleonora Stella Hariyono Oei
+
+
+    A guy who loves to take care of others learns that he needs to take care of himself
+    too.
+
+
+    Film by Eleonora Stella Hariyono Oei
+
+    Music by Alia Martin
+
+
+    Watch other films made by my classmates: https://vimeo.com/channels/calartscharanimfilms2018
+
+
+    BFA1 Film, Calarts 2018'
+  duration: 90
+  height: 360
+  html: <iframe src="https://player.vimeo.com/video/264722244?app_id=122963" width="640"
+    height="360" frameborder="0" title="Side Effects" allow="autoplay; fullscreen"
+    allowfullscreen></iframe>
+  is_plus: '0'
+  provider_name: Vimeo
+  provider_url: https://vimeo.com/
+  thumbnail_height: 360
+  thumbnail_url: http://i.vimeocdn.com/video/725682661_640.jpg
+  thumbnail_url_with_play_button: http://i.vimeocdn.com/filter/overlay?src0=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F725682661_640.jpg&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png
+  thumbnail_width: 640
+  title: Side Effects
+  type: video
+  upload_date: '2018-04-14 01:23:37'
+  uri: /videos/264722244
+  url: https://vimeo.com/264722244
+  version: '1.0'
+  video_id: 264722244
+  width: 640
