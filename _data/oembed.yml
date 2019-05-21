@@ -2017,3 +2017,19 @@ urls:
   version: '1.0'
   video_id: 264722244
   width: 640
+- author_name: ONE Media
+  author_url: https://www.youtube.com/user/movietrailers
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/b7RPQMBhVcM?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/b7RPQMBhVcM/hqdefault.jpg
+  thumbnail_width: 480
+  title: BATWOMAN Official Trailer (2019) Superhero TV Series
+  type: video
+  url: https://youtu.be/b7RPQMBhVcM
+  version: '1.0'
+  width: 480
