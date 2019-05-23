@@ -2033,3 +2033,19 @@ urls:
   url: https://youtu.be/b7RPQMBhVcM
   version: '1.0'
   width: 480
+- author_name: CBS All Access
+  author_url: https://www.youtube.com/user/thegoodwife
+  height: 270
+  html: <iframe width="480" height="270" src="https://www.youtube.com/embed/f3om4V_-Y0Q?feature=oembed"
+    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen></iframe>
+  provider_name: YouTube
+  provider_url: https://www.youtube.com/
+  thumbnail_height: 360
+  thumbnail_url: https://i.ytimg.com/vi/f3om4V_-Y0Q/hqdefault.jpg
+  thumbnail_width: 480
+  title: 'Star Trek: Picard - Teaser'
+  type: video
+  url: https://youtu.be/f3om4V_-Y0Q
+  version: '1.0'
+  width: 480
