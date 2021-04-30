@@ -1,7 +1,7 @@
 ---
 date: 2016-04-26 23:34:00-05:00
 layout: post
-link_url: http://ift.tt/26oCGy6
+link_url: https://web.archive.org/web/20160611015926/http://www.newschicken.com/woman-arrested-for-masturbating-with-sausage-in-asda-toilets/
 tags:
 - masturbation
 - theft
